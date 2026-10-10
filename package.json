@@ -1,0 +1,15 @@
+﻿{
+  "name": "game-job-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Ứng dụng cá nhân theo dõi game mới và việc làm môi trường/HSE",
+  "scripts": {
+    "update": "node tools/update-data.mjs",
+    "serve": "node tools/serve.mjs",
+    "test": "node --test \"test/*.test.mjs\"",
+    "icons": "node tools/make-icons.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
+

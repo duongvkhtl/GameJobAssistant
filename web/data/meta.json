@@ -1,0 +1,48 @@
+{
+ "sources": {
+  "apple": {
+   "name": "Apple iTunes API",
+   "ok": true,
+   "count": 105,
+   "at": "2026-10-10T15:20:22.064Z",
+   "errors": [],
+   "note": "API công khai chính thức; chỉ iOS (App Store VN)."
+  },
+  "news": {
+   "name": "Pocket Gamer + TouchArcade RSS",
+   "ok": true,
+   "count": 32,
+   "at": "2026-10-10T15:20:22.064Z",
+   "errors": [],
+   "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
+  },
+  "careerlink": {
+   "name": "CareerLink.vn",
+   "ok": false,
+   "count": 0,
+   "at": "2026-10-10T15:41:37.955Z",
+   "errors": [
+    "search \"HSE\" p1: https://www.careerlink.vn/vieclam/tim-kiem-viec-lam?keyword=HSE&page=1: The operation was aborted due to timeout",
+    "search \"EHS\" p1: https://www.careerlink.vn/vieclam/tim-kiem-viec-lam?keyword=EHS&page=1: The operation was aborted due to timeout",
+    "search \"an toàn lao động\" p1: https://www.careerlink.vn/vieclam/tim-kiem-viec-lam?keyword=an%20to%C3%A0n%20lao%20%C4%91%E1%BB%99ng&page=1: The operation was aborted due to timeout",
+    "Nguồn không phản hồi liên tiếp – dừng để không gây tải."
+   ],
+   "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
+  },
+  "job123": {
+   "name": "123job.vn",
+   "ok": true,
+   "count": 28,
+   "at": "2026-10-10T15:41:37.955Z",
+   "errors": [
+    "search \"ehs\" p1: https://123job.vn/tuyen-dung?q=ehs&page=1: HTTP 429",
+    "search \"an toàn lao động\" p1: https://123job.vn/tuyen-dung?q=an%20to%C3%A0n%20lao%20%C4%91%E1%BB%99ng&page=1: HTTP 429",
+    "search \"môi trường\" p1: https://123job.vn/tuyen-dung?q=m%C3%B4i%20tr%C6%B0%E1%BB%9Dng&page=1: HTTP 429",
+    "Nguồn không phản hồi liên tiếp – dừng để không gây tải.",
+    "detail https://123job.vn/viec-lam/truong-nhom-hse-29Ggo6E49E: https://123job.vn/viec-lam/truong-nhom-hse-29Ggo6E49E: HTTP 429"
+   ],
+   "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
+  }
+ },
+ "generatedAt": "2026-10-10T15:41:37.955Z"
+}

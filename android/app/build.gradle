@@ -1,0 +1,38 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'vn.gamejob.assistant'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'vn.gamejob.assistant'
+        minSdk 24
+        targetSdk 34
+        versionCode 1
+        versionName '1.0'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.debug   // ký bằng khóa debug: đủ để cài thủ công (sideload) trên điện thoại cá nhân
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    sourceSets.main.assets.srcDirs += ["$buildDir/www-assets"]
+}
+
+// Đóng gói nguyên thư mục ../web (ứng dụng PWA + dữ liệu hiện có) vào APK
+tasks.register('copyWeb', Copy) {
+    from "${rootDir}/../web"
+    into "$buildDir/www-assets/www"
+}
+preBuild.dependsOn 'copyWeb'
+
+dependencies {
+    implementation 'androidx.webkit:webkit:1.11.0'
+}
