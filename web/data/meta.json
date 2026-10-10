@@ -4,15 +4,15 @@
    "name": "Apple iTunes API",
    "ok": true,
    "count": 105,
-   "at": "2026-10-10T16:11:39.760Z",
+   "at": "2026-10-10T16:16:31.067Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
   "news": {
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
-   "count": 31,
-   "at": "2026-10-10T16:11:39.760Z",
+   "count": 32,
+   "at": "2026-10-10T16:16:31.067Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -20,23 +20,29 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 0,
-   "at": "2026-10-10T16:11:39.760Z",
-   "errors": [],
+   "at": "2026-10-10T16:16:31.067Z",
+   "errors": [
+    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/nhan-vien-tong-vu-hse/3639269",
+    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/nhan-vien-giam-sat-an-toan-lao-dong/3631789",
+    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/pho-phong-an-toan-hse-part-leader/3638024",
+    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/chuyen-vien-an-toan-lao-dong-hse-ca-mau/3645854",
+    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/nhan-vien-hse/3645852"
+   ],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
    "ok": true,
-   "count": 38,
-   "at": "2026-10-10T16:11:39.760Z",
+   "count": 42,
+   "at": "2026-10-10T16:16:31.067Z",
    "errors": [
-    "search \"hse\" p2: https://123job.vn/tuyen-dung?q=hse&page=2: HTTP 429",
-    "search \"ehs\" p1: https://123job.vn/tuyen-dung?q=ehs&page=1: HTTP 429",
-    "detail https://123job.vn/viec-lam/chuyen-vien-moi-truong-an-toan-lao-dong-y9BwYoNOrA: https://123job.vn/viec-lam/chuyen-vien-moi-truong-an-toan-lao-dong-y9BwYoNOrA: HTTP 429",
+    "search \"iso 14001\" p1: https://123job.vn/tuyen-dung?q=iso%2014001&page=1: HTTP 429",
+    "search \"iso 45001\" p1: https://123job.vn/tuyen-dung?q=iso%2045001&page=1: HTTP 429",
+    "detail https://123job.vn/viec-lam/giam-sat-an-toan-lao-dong-hse-59y7emo2qL: https://123job.vn/viec-lam/giam-sat-an-toan-lao-dong-hse-59y7emo2qL: HTTP 429",
     "Nguồn báo quá tải (429) – dừng, sẽ tiếp tục ở lần chạy sau."
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-10-10T16:11:39.760Z"
+ "generatedAt": "2026-10-10T16:16:31.067Z"
 }
