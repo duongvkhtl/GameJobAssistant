@@ -3,47 +3,41 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 110,
-   "at": "2026-10-12T00:21:03.836Z",
+   "count": 105,
+   "at": "2026-10-12T12:26:00.022Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
   "news": {
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
-   "count": 26,
-   "at": "2026-10-12T00:21:03.836Z",
+   "count": 27,
+   "at": "2026-10-12T12:26:00.022Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
   "careerlink": {
    "name": "CareerLink.vn",
-   "ok": true,
+   "ok": false,
    "count": 11,
-   "at": "2026-10-12T00:21:03.836Z",
-   "errors": [
-    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/chuyen-vien-an-toan-lao-dong-hse-ha-noi/3645539",
-    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/nhan-vien-hse-hien-truong/3643580",
-    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/truong-phong-hsse/3632395",
-    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/ky-su-giam-sat-an-toan-ha-noi-ha-nam-hung-yen-vinh-phuc/3625932",
-    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/chuyen-vien-an-toan-lao-dong-hse-cam-ranh-khanh-hoa/3644627"
-   ],
+   "at": "2026-10-12T12:26:00.022Z",
+   "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
-   "ok": true,
-   "count": 86,
-   "at": "2026-10-12T00:21:03.836Z",
+   "ok": false,
+   "count": 80,
+   "at": "2026-10-12T12:26:00.022Z",
    "errors": [
+    "search \"an toàn lao động\" p1: https://123job.vn/tuyen-dung?q=an%20to%C3%A0n%20lao%20%C4%91%E1%BB%99ng&page=1: HTTP 429",
+    "search \"môi trường\" p1: https://123job.vn/tuyen-dung?q=m%C3%B4i%20tr%C6%B0%E1%BB%9Dng&page=1: HTTP 429",
     "search \"iso 14001\" p1: https://123job.vn/tuyen-dung?q=iso%2014001&page=1: HTTP 429",
-    "search \"xử lý nước thải\" p1: https://123job.vn/tuyen-dung?q=x%E1%BB%AD%20l%C3%BD%20n%C6%B0%E1%BB%9Bc%20th%E1%BA%A3i&page=1: HTTP 429",
-    "search \"chất thải\" p1: https://123job.vn/tuyen-dung?q=ch%E1%BA%A5t%20th%E1%BA%A3i&page=1: HTTP 429",
-    "không có JobPosting: https://123job.vn/viec-lam/hse-supervisor-W9pX1XEx9p",
-    "detail https://123job.vn/viec-lam/nhan-vien-hse-ArX8AQ26rV: https://123job.vn/viec-lam/nhan-vien-hse-ArX8AQ26rV: HTTP 429"
+    "Nguồn không phản hồi liên tiếp – dừng để không gây tải.",
+    "detail https://123job.vn/viec-lam/nhan-vien-hse-v90o66B7Dk: https://123job.vn/viec-lam/nhan-vien-hse-v90o66B7Dk: HTTP 429"
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-10-12T00:21:03.836Z"
+ "generatedAt": "2026-10-12T12:26:00.022Z"
 }
