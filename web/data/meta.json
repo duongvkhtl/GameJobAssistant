@@ -3,16 +3,16 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 105,
-   "at": "2026-10-13T00:22:11.971Z",
+   "count": 103,
+   "at": "2026-10-13T12:19:47.208Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
   "news": {
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
-   "count": 29,
-   "at": "2026-10-13T00:22:11.971Z",
+   "count": 32,
+   "at": "2026-10-13T12:19:47.208Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -20,24 +20,24 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 11,
-   "at": "2026-10-13T00:22:11.971Z",
+   "at": "2026-10-13T12:19:47.208Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
    "ok": true,
-   "count": 94,
-   "at": "2026-10-13T00:22:11.971Z",
+   "count": 107,
+   "at": "2026-10-13T12:19:47.208Z",
    "errors": [
-    "search \"hse\" p2: https://123job.vn/tuyen-dung?q=hse&page=2: HTTP 429",
-    "search \"ehs\" p2: https://123job.vn/tuyen-dung?q=ehs&page=2: HTTP 429",
+    "search \"môi trường\" p2: https://123job.vn/tuyen-dung?q=m%C3%B4i%20tr%C6%B0%E1%BB%9Dng&page=2: HTTP 429",
+    "không có JobPosting: https://123job.vn/viec-lam/hse-supervisor-W9pX1XEx9p",
     "không có JobPosting: https://123job.vn/viec-lam/ehs-unit-leader-BqP42x3Rqz",
     "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-ND4ZvbZzrv",
-    "detail https://123job.vn/viec-lam/senior-ehs-staff-P9YVoVaWra: https://123job.vn/viec-lam/senior-ehs-staff-P9YVoVaWra: HTTP 429"
+    "không có JobPosting: https://123job.vn/viec-lam/senior-ehs-staff-P9YVoVaWra"
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-10-13T00:22:11.971Z"
+ "generatedAt": "2026-10-13T12:19:47.208Z"
 }
