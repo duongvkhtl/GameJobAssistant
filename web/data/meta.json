@@ -4,15 +4,15 @@
    "name": "Apple iTunes API",
    "ok": true,
    "count": 105,
-   "at": "2026-10-12T12:26:00.022Z",
+   "at": "2026-10-13T00:22:11.971Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
   "news": {
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
-   "count": 27,
-   "at": "2026-10-12T12:26:00.022Z",
+   "count": 29,
+   "at": "2026-10-13T00:22:11.971Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -20,24 +20,24 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 11,
-   "at": "2026-10-12T12:26:00.022Z",
+   "at": "2026-10-13T00:22:11.971Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
-   "ok": false,
-   "count": 80,
-   "at": "2026-10-12T12:26:00.022Z",
+   "ok": true,
+   "count": 94,
+   "at": "2026-10-13T00:22:11.971Z",
    "errors": [
-    "search \"an toàn lao động\" p1: https://123job.vn/tuyen-dung?q=an%20to%C3%A0n%20lao%20%C4%91%E1%BB%99ng&page=1: HTTP 429",
-    "search \"môi trường\" p1: https://123job.vn/tuyen-dung?q=m%C3%B4i%20tr%C6%B0%E1%BB%9Dng&page=1: HTTP 429",
-    "search \"iso 14001\" p1: https://123job.vn/tuyen-dung?q=iso%2014001&page=1: HTTP 429",
-    "Nguồn không phản hồi liên tiếp – dừng để không gây tải.",
-    "detail https://123job.vn/viec-lam/nhan-vien-hse-v90o66B7Dk: https://123job.vn/viec-lam/nhan-vien-hse-v90o66B7Dk: HTTP 429"
+    "search \"hse\" p2: https://123job.vn/tuyen-dung?q=hse&page=2: HTTP 429",
+    "search \"ehs\" p2: https://123job.vn/tuyen-dung?q=ehs&page=2: HTTP 429",
+    "không có JobPosting: https://123job.vn/viec-lam/ehs-unit-leader-BqP42x3Rqz",
+    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-ND4ZvbZzrv",
+    "detail https://123job.vn/viec-lam/senior-ehs-staff-P9YVoVaWra: https://123job.vn/viec-lam/senior-ehs-staff-P9YVoVaWra: HTTP 429"
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-10-12T12:26:00.022Z"
+ "generatedAt": "2026-10-13T00:22:11.971Z"
 }
