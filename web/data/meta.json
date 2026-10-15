@@ -3,16 +3,16 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 92,
-   "at": "2026-10-14T12:30:44.819Z",
+   "count": 96,
+   "at": "2026-10-15T00:27:20.126Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
   "news": {
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
-   "count": 34,
-   "at": "2026-10-14T12:30:44.819Z",
+   "count": 35,
+   "at": "2026-10-15T00:27:20.126Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -20,24 +20,28 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 11,
-   "at": "2026-10-14T12:30:44.819Z",
-   "errors": [],
+   "at": "2026-10-15T00:27:20.126Z",
+   "errors": [
+    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/chuyen-vien-hse/3650316",
+    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/nhan-vien-hse-pccc-va-quan-ly-nha-thau-%7C-tieng-anh-%7C-vsip-2-binh-duong/3624559",
+    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/chuyen-vien-hse-1-tay-ninh-1-tphcm/3649706",
+    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/ky-su-hse-hai-phong/3630718",
+    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/giam-sat-an-toan-lao-dong-lam-viec-tai-hai-phong/3634016"
+   ],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
    "ok": true,
-   "count": 92,
-   "at": "2026-10-14T12:30:44.819Z",
+   "count": 96,
+   "at": "2026-10-15T00:27:20.126Z",
    "errors": [
-    "search \"hse\" p1: https://123job.vn/tuyen-dung?q=hse&page=1: HTTP 429",
-    "search \"phát triển bền vững\" p1: https://123job.vn/tuyen-dung?q=ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng&page=1: HTTP 429",
-    "search \"quan trắc\" p1: https://123job.vn/tuyen-dung?q=quan%20tr%E1%BA%AFc&page=1: HTTP 429",
-    "detail https://123job.vn/viec-lam/seojin-xuong-3-nhan-vien-doi-ung-audit-ehs-3qZaKWAxr4: https://123job.vn/viec-lam/seojin-xuong-3-nhan-vien-doi-ung-audit-ehs-3qZaKWAxr4: HTTP 429",
+    "search \"iso 45001\" p1: https://123job.vn/tuyen-dung?q=iso%2045001&page=1: HTTP 429",
+    "detail https://123job.vn/viec-lam/nhan-vien-hse-ArX8A7emrV: https://123job.vn/viec-lam/nhan-vien-hse-ArX8A7emrV: HTTP 429",
     "Nguồn báo quá tải (429) – dừng, sẽ tiếp tục ở lần chạy sau."
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-10-14T12:30:44.819Z"
+ "generatedAt": "2026-10-15T00:27:20.126Z"
 }
