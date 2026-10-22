@@ -3,47 +3,41 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 104,
-   "at": "2026-10-21T12:30:31.023Z",
+   "count": 109,
+   "at": "2026-10-22T00:28:59.606Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
   "news": {
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
-   "count": 29,
-   "at": "2026-10-21T12:30:31.023Z",
+   "count": 27,
+   "at": "2026-10-22T00:28:59.606Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
   "careerlink": {
    "name": "CareerLink.vn",
-   "ok": true,
+   "ok": false,
    "count": 11,
-   "at": "2026-10-21T12:30:31.023Z",
-   "errors": [
-    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/nhan-vien-hse/3656134",
-    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/administration-hse-specialist/3639971",
-    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/ky-su-an-toan-lao-dong-hai-phong/3630718",
-    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/giam-sat-an-toan-lao-dong-lam-viec-tai-hai-phong/3634016",
-    "không có JobPosting: https://www.careerlink.vn/tim-viec-lam/hse-officer/3631717"
-   ],
+   "at": "2026-10-22T00:28:59.606Z",
+   "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
    "ok": true,
-   "count": 295,
-   "at": "2026-10-21T12:30:31.023Z",
+   "count": 299,
+   "at": "2026-10-22T00:28:59.606Z",
    "errors": [
     "không có JobPosting: https://123job.vn/viec-lam/ehs-unit-leader-BqP42x3Rqz",
     "không có JobPosting: https://123job.vn/viec-lam/ehs-trainer-29ALj260DJ",
     "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-ND4ZvbZzrv",
-    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-JD60wWWdrn",
-    "không có JobPosting: https://123job.vn/viec-lam/senior-ehs-staff-P9YVoVaWra"
+    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-JDajzpnN9G",
+    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-JD60wWWdrn"
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-10-21T12:30:31.023Z"
+ "generatedAt": "2026-10-22T00:28:59.606Z"
 }
