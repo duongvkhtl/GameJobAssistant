@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T12:24:27.279Z",
+ "generatedAt": "2026-10-26T00:34:01.020Z",
  "items": [
   {
    "id": "careerlink:3659219",
@@ -3128,40 +3128,6 @@
    "firstSeenAt": "2026-10-11T00:27:13.506Z",
    "fetchedAt": "2026-10-24T00:38:09.126Z",
    "verifiedAt": "2026-10-24T00:38:09.126Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:n9RwoLj5rb",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-ehs-n9RwoLj5rb",
-   "title": "Nhân viên EHS",
-   "company": "Công ty TNHH JAHWA VINA",
-   "companyLogo": "https://cdn.jobshay.com/123job/uploads/2018/08/31/2018_08_31______e10d38ed1b6cfb96e560c0f2a4ced804.png",
-   "locations": [
-    "Vĩnh Phúc"
-   ],
-   "salary": null,
-   "salaryText": "Đang cập nhật",
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "An toàn lao động",
-   "datePosted": "2026-09-25",
-   "validThrough": "2026-10-11T23:59:59+07:00",
-   "description": "Hỗ trợ đối ứng tiêu chuẩn RBA, ISO 45001:2018, ISO 14001:2015, am hiểu về An toàn vệ sinh lao động, Hóa chất,….\nHỗ trợ chuẩn bị hồ sơ hệ thống\nTham gia đánh giá EHS nội bộ",
-   "requirements": {
-    "degree": [],
-    "certs": [
-     "Hỗ trợ đối ứng tiêu chuẩn RBA, ISO 45001:2018, ISO 14001:2015, am hiểu về An toàn vệ sinh lao động, Hóa chất,…."
-    ]
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-10-11T00:27:13.506Z",
-   "fetchedAt": "2026-10-25T00:30:48.995Z",
-   "verifiedAt": "2026-10-25T00:30:48.995Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
