@@ -3,8 +3,8 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 124,
-   "at": "2026-10-28T12:39:21.374Z",
+   "count": 128,
+   "at": "2026-10-29T00:37:51.802Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
@@ -12,7 +12,7 @@
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
    "count": 34,
-   "at": "2026-10-28T12:39:21.374Z",
+   "at": "2026-10-29T00:37:51.802Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -20,15 +20,15 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 102,
-   "at": "2026-10-28T12:39:21.374Z",
+   "at": "2026-10-29T00:37:51.802Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
    "ok": true,
-   "count": 386,
-   "at": "2026-10-28T12:39:21.374Z",
+   "count": 398,
+   "at": "2026-10-29T00:37:51.802Z",
    "errors": [
     "không có JobPosting: https://123job.vn/viec-lam/ehs-unit-leader-BqP42x3Rqz",
     "không có JobPosting: https://123job.vn/viec-lam/chuyen-vien-ehs-y9BwYxY0rA",
@@ -39,5 +39,5 @@
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-10-28T12:39:21.374Z"
+ "generatedAt": "2026-10-29T00:37:51.802Z"
 }
