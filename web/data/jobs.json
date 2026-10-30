@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T12:40:14.502Z",
+ "generatedAt": "2026-10-30T00:39:30.955Z",
  "items": [
   {
    "id": "careerlink:3572789",
@@ -1780,46 +1780,6 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "careerlink:3623509",
-   "source": "CareerLink",
-   "sourceUrl": "https://www.careerlink.vn/tim-viec-lam/giam-sat-an-toan-hse-hcm-dong-nai-ben-tre/3623509",
-   "title": "Giám Sát An Toàn - HSE (HCM, Đồng Nai, Bến Tre)",
-   "company": "CÔNG TY CỔ PHẦN XÂY DỰNG VÀ LẮP MÁY TRUNG NAM",
-   "companyLogo": "https://blob-careerlinkvn.careerlink.vn/company_logos/8f6d7c1645d2771ffb6611bc5fda565a.png",
-   "locations": [
-    "Hồ Chí Minh",
-    "Vĩnh Long",
-    "Đồng Nai"
-   ],
-   "salary": {
-    "min": 18000000,
-    "max": 25000000,
-    "currency": "VND",
-    "unit": "MONTH"
-   },
-   "expMonths": 24,
-   "employmentType": "FULL_TIME",
-   "industry": "Xây dựng, An Toàn Lao Động",
-   "datePosted": "2026-09-15",
-   "validThrough": "2026-10-15T23:59:59+00:00",
-   "description": "* Triển khai và Giám sát ATLD trực tiếp tại Dự án/Công trường:\n- Giám sát, kiểm tra hàng ngày việc tuân thủ các nội quy, quy chế, quy trình, biện pháp bảo đảm ATVSLĐ, PCCC của người lao động và nhà thầu trên công trường.\n- Thực hiện nhận diện mối nguy, phân tích và đánh giá rủi ro liên quan đến ATLD trong từng khu vực sản xuất/thi công.\n- Kiểm tra và theo dõi việc cấp phát, sử dụng Phương tiện Bảo vệ Cá nhân (PTBVCN) và sự tuân thủ của người lao động.\n- Kiểm tra, giám sát an toàn máy móc, thiết bị, vật tư có yêu cầu nghiêm ngặt về ATVSLĐ tại hiện trường.\n- Lập biên bản xử lý các trường hợp vi phạm nội quy ATLD theo quy định của Công ty/Dự án.\n* Làm việc tại dự án cải tạo Rạch Xuyên Tâm - Tại Bình Thạnh\n* Kinh nghiệm / Kỹ năng chi tiết:\n- Tốt nghiệp: CĐ/Đại học các chuyên ngành Bảo hộ lao động, kỹ thuật, môi trường, xây dựng,...\n- Tối thiểu 2 năm kinh nghiệm ở vị trí tương đương.\n- Nắm vững và có khả năng tìm kiếm các VBPL mới về ATVSLĐ.\n- Sử dụng được dịch vụ hành chính công: Khai báo thiết bị NN ATVSLĐ với cơ quan nhà nước.",
-   "requirements": {
-    "degree": [
-     "Tốt nghiệp: CĐ/Đại học các chuyên ngành Bảo hộ lao động, kỹ thuật, môi trường, xây dựng,..."
-    ],
-    "certs": []
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-10-11T00:21:13.646Z",
-   "fetchedAt": "2026-10-11T00:21:13.646Z",
-   "verifiedAt": "2026-10-11T00:21:13.646Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
    "id": "job123:4q3Lp6P5D2",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-hse-kiem-pccc-4q3Lp6P5D2",
@@ -2262,38 +2222,35 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:BDnBzKaoDR",
+   "id": "job123:W9pX1gG49p",
    "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/to-truong-hse-co-kinh-nghiem-2-nam-mang-an-toan-moi-truong-tieng-anh-giao-tiep-doc-hieu-kcn-my-phuoc-3-ben-cat-binh-duong-trieu-BDnBzKaoDR",
-   "title": "Tổ trưởng HSE - Có Kinh Nghiệm 2 Năm Mảng An Toàn, Môi Trường - Tiếng Anh Giao Tiếp Đọc Hiểu - KCN Mỹ Phước 3, Bến Cát, Bình Dương (Triệu)",
-   "company": "Công ty Cổ Phần Kết Nối Nhân Lực Worklink Việt Nam",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2020/02/13/2020_02_13______d496927ab0741ab4a7580a9e94106efb.png",
+   "sourceUrl": "https://123job.vn/viec-lam/safety-hse-engineer-W9pX1gG49p",
+   "title": "Safety / HSE Engineer",
+   "company": "Công ty TNHH LG Innotek Việt Nam Hải Phòng",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/08/2023_02_08______274c4d9698b3747f60a55a983c5198e3.png",
    "locations": [
-    "Hồ Chí Minh"
+    "Hải Phòng"
    ],
    "salary": null,
    "salaryText": null,
    "expMonths": null,
    "employmentType": "OTHER",
-   "industry": "Môi trường",
-   "datePosted": "2026-10-28",
-   "validThrough": "2026-11-22T23:59:59+07:00",
-   "description": "Điều tra nguyên nhân, tìm đối sách các vấn đề về ATLĐ, ATGT.\nThực hiện tuần tra an toàn định kỳ.\nĐối ứng thanh tra PCCC.\nKhắc phục các vấn đề về an toàn, 5S.\nTổ chức các buổi đào tạo an toàn.\nQuản lý và theo dõi việc tuân thủ pháp luật về an toàn, môi trường, hóa chất.\nHuấn luyện, lập cảnh báo, nhận diện rủi ro, giám sát nhà thầu.\nQuản lý và cấp phát bảo hộ lao động cho các bộ phận.\nCác công việc khác theo yêu cầu của quản lý.\nNote: Đi hiện trường nhiều, cần UV có kinh nghiệm cứng cả hiện trường và hồ sơ, xưởng sử dụng hóa chất để xử lý nước thải nhiều.",
+   "industry": "An toàn lao động",
+   "datePosted": "2026-10-23",
+   "validThrough": "2026-12-21T23:59:59+07:00",
+   "description": "Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?",
    "requirements": {
     "degree": [],
-    "certs": [
-     "Huấn luyện, lập cảnh báo, nhận diện rủi ro, giám sát nhà thầu."
-    ]
+    "certs": []
    },
    "tags": [
     "HSE/EHS",
-    "An toàn lao động",
-    "Môi trường"
+    "An toàn lao động"
    ],
    "relevance": 100,
-   "firstSeenAt": "2026-10-28T12:43:56.648Z",
-   "fetchedAt": "2026-10-28T12:43:56.648Z",
-   "verifiedAt": "2026-10-28T12:43:56.648Z",
+   "firstSeenAt": "2026-10-23T00:33:40.524Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -2443,35 +2400,38 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:W9pX1gG49p",
+   "id": "job123:BDnBzKaoDR",
    "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/safety-hse-engineer-W9pX1gG49p",
-   "title": "Safety / HSE Engineer",
-   "company": "Công ty TNHH LG Innotek Việt Nam Hải Phòng",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/08/2023_02_08______274c4d9698b3747f60a55a983c5198e3.png",
+   "sourceUrl": "https://123job.vn/viec-lam/to-truong-hse-co-kinh-nghiem-2-nam-mang-an-toan-moi-truong-tieng-anh-giao-tiep-doc-hieu-kcn-my-phuoc-3-ben-cat-binh-duong-trieu-BDnBzKaoDR",
+   "title": "Tổ trưởng HSE - Có Kinh Nghiệm 2 Năm Mảng An Toàn, Môi Trường - Tiếng Anh Giao Tiếp Đọc Hiểu - KCN Mỹ Phước 3, Bến Cát, Bình Dương (Triệu)",
+   "company": "Công ty Cổ Phần Kết Nối Nhân Lực Worklink Việt Nam",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2020/02/13/2020_02_13______d496927ab0741ab4a7580a9e94106efb.png",
    "locations": [
-    "Hải Phòng"
+    "Hồ Chí Minh"
    ],
    "salary": null,
    "salaryText": null,
    "expMonths": null,
    "employmentType": "OTHER",
-   "industry": "An toàn lao động",
-   "datePosted": "2026-10-23",
-   "validThrough": "2026-12-21T23:59:59+07:00",
-   "description": "Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?",
+   "industry": "Môi trường",
+   "datePosted": "2026-10-28",
+   "validThrough": "2026-11-22T23:59:59+07:00",
+   "description": "Điều tra nguyên nhân, tìm đối sách các vấn đề về ATLĐ, ATGT.\nThực hiện tuần tra an toàn định kỳ.\nĐối ứng thanh tra PCCC.\nKhắc phục các vấn đề về an toàn, 5S.\nTổ chức các buổi đào tạo an toàn.\nQuản lý và theo dõi việc tuân thủ pháp luật về an toàn, môi trường, hóa chất.\nHuấn luyện, lập cảnh báo, nhận diện rủi ro, giám sát nhà thầu.\nQuản lý và cấp phát bảo hộ lao động cho các bộ phận.\nCác công việc khác theo yêu cầu của quản lý.\nNote: Đi hiện trường nhiều, cần UV có kinh nghiệm cứng cả hiện trường và hồ sơ, xưởng sử dụng hóa chất để xử lý nước thải nhiều.",
    "requirements": {
     "degree": [],
-    "certs": []
+    "certs": [
+     "Huấn luyện, lập cảnh báo, nhận diện rủi ro, giám sát nhà thầu."
+    ]
    },
    "tags": [
     "HSE/EHS",
-    "An toàn lao động"
+    "An toàn lao động",
+    "Môi trường"
    ],
    "relevance": 100,
-   "firstSeenAt": "2026-10-23T00:33:40.524Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "firstSeenAt": "2026-10-28T12:43:56.648Z",
+   "fetchedAt": "2026-10-28T12:43:56.648Z",
+   "verifiedAt": "2026-10-28T12:43:56.648Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -2537,8 +2497,8 @@
    ],
    "relevance": 100,
    "firstSeenAt": "2026-10-22T12:36:33.870Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -2648,82 +2608,6 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:Oq5MaV21qp",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/truong-ban-hse-yeu-cau-kinh-nghiem-an-toan-lao-dong-suc-khoe-va-moi-truong-Oq5MaV21qp",
-   "title": "Trưởng Ban HSE (Yêu Cầu Kinh Nghiệm An Toàn Lao Động, Sức Khỏe Và Môi Trường)",
-   "company": "Công Ty CP Xuất Nhập Khẩu Bắc Giang",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/11/2023_02_11______8a0bdecf8b220038fd95d961c217c307.jpg",
-   "locations": [
-    "Bắc Ninh"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "OTHER",
-   "industry": "Môi trường",
-   "datePosted": "2026-10-25",
-   "validThrough": "2026-11-14T23:59:59+07:00",
-   "description": "Mô tả công việc\nSoạn thảo, cập nhật các quy trình, hướng dẫn, quy định liên quan đến HSE.\nTổ chức và thực hiện các chương trình đào tạo, huấn luyện về an toàn lao động, sức khỏe và môi trường cho nhân viên.\nĐiều tra, phân tích các sự cố, tai nạn lao động và đề xuất các biện pháp phòng ngừa, khắc phục.\nTư vấn, hỗ trợ các bộ phận khác trong việc thực hiện các biện pháp an toàn, sức khỏe và bảo vệ môi trường.\nLàm việc với các cơ quan quản lý nhà nước về HSE, đảm bảo tuân thủ các yêu cầu pháp lý.\nTham gia vào việc đánh giá và lựa chọn các nhà thầu, nhà cung cấp liên quan đến HSE.\nXây dựng, triển khai và duy trì hệ thống quản lý an toàn, sức khỏe và môi trường (HSE) theo quy định của pháp luật và các tiêu chuẩn quốc tế.\nXác định, đánh giá và kiểm soát các mối nguy hiểm, rủi ro về an toàn lao động, sức khỏe và môi trường tại nơi làm việc.\nThực hiện kiểm tra, giám sát định kỳ và đột xuất để đảm bảo tuân thủ các quy định về HSE.\nTheo dõi, báo cáo và phân tích các chỉ số HSE, đề xuất các giải pháp cải thiện hiệu quả hoạt động.\nYêu cầu ứng viênCó khả năng đánh giá rủi ro, phân tích nguyên nhân và đề xuất các biện pháp phòng ngừa.\nSử dụng thành thạo các phần mềm văn phòng (MS Office).\nCó kiến thức chuyên sâu về luật pháp, quy định, tiêu chuẩn về an toàn lao động, sức khỏe và môi trường.\nCó kinh nghiệm làm việc trong lĩnh vực HSE, ưu tiên các ứng viên có kinh nghiệm làm việc trong môi trường sản xuất, xây dựng hoặc các ngành công nghiệp khác.\nCó kỹ năng giao tiếp, thuyết trình và đào tạo tốt.\nCó kỹ năng lập kế hoạch, tổ chức, thực hiện và kiểm soát các hoạt động HSE.\nTốt nghiệp đại học chuyên ngành về bảo hộ lao động, kỹ thuật, môi trường hoặc các ngành liên quan.\nCó chứng chỉ hành nghề về HSE (nếu có).\nCó khả năng làm việc độc lập và làm việc nhóm hiệu quả.\nQuyền lợi được hưởngMức lương cạnh tranh,theo thỏa thuận tùy thuộc vào kinh nghiệm và hiệu suất công việc.\nHỗ trợ bữa trưa\nChế độ bảo hiểm xã hội:Bảo hiểm y tế\nChế độ phúc lợi khác: hưởng hơn 40 chế độ đãi ngộ khác theo quy định của Nhà máy\nChế độ đào tạo: Được đào tạo và phát triển kỹ năng liên tục, bao gồm đào tạo về kỹ năng mềm, kỹ năng kỹ thuật, và kỹ năng lãnh đạo.\nChế độ nghỉ phép: 12 ngày phép năm, nghỉ ốm, nghỉ hiếu hỉ",
-   "requirements": {
-    "degree": [
-     "Tốt nghiệp đại học chuyên ngành về bảo hộ lao động, kỹ thuật, môi trường hoặc các ngành liên quan."
-    ],
-    "certs": [
-     "Tổ chức và thực hiện các chương trình đào tạo, huấn luyện về an toàn lao động, sức khỏe và môi trường cho nhân viên.",
-     "Có chứng chỉ hành nghề về HSE (nếu có)."
-    ]
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động",
-    "Môi trường"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-10-25T00:30:48.995Z",
-   "fetchedAt": "2026-10-28T00:42:37.886Z",
-   "verifiedAt": "2026-10-28T00:42:37.886Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:n9Rwobemrb",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/ky-su-giam-sat-an-toan-hse-tu-01-nam-kinh-nghiem-n9Rwobemrb",
-   "title": "Kỹ Sư Giám Sát An Toàn (HSE) Từ 01 Năm Kinh Nghiệm",
-   "company": "Công Ty Cổ Phần Xây Dựng Và Công Nghiệp NSN",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/09/2023_02_09______4a77d1b30ae5810a3f6aef8b6de3c65d.png",
-   "locations": [
-    "Hà Nội"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "CONTRACTOR",
-   "industry": "Xây dựng",
-   "datePosted": "2026-10-23",
-   "validThrough": "2026-12-20T23:59:59+07:00",
-   "description": "Mô tả công việc- Thực hiện giám sát tuân thủ an toàn các nội quy, quy định và theo các biện pháp an toàn đã được phê duyệt.\n- Đào tạo, hướng dẫn an toàn cho nhà thầu.\n- Lập kế hoạch kiểm soát các hoạt động HSE tại dự án.\n- Thiết lập các biện pháp đảm bảo an toàn trong quá trình thi công.\n- Thực hiện các báo cáo công tác ATLĐ định kỳ.\n- Nhận diện và phân tích rủi ro an toàn- môi trường.\n- Quản lý hồ sơ liên quan đến công tác an toàn – môi trường theo hệ thống quản lý ISO 45001, ISO 14001.\nYêu cầu ứng viên- Nắm được các tiêu chuẩn và Luật liên quan tới môi trường- an toàn.\n- Tốt nghiệp trung cấp, cao đẳng, đại học khối kỹ thuật, ưu tiên chuyên ngành bảo hộ lao động.\n- Nắm được các kiến thức về An toàn- môi trường theo ISO 45001 và ISO 14001.\n- Sử dụng thành thạo tin học văn phòng, có khả năng tổ chức và quản lý hồ sơ/ tài liệu tốt.\n- Có chứng chỉ về an toàn.\n- Sẵn sàng đi công tác các tỉnh.\n- Có ít nhất 1 năm kinh nghiệm trong lĩnh vực an toàn.\nQuyền lợi được hưởng- Cung cấp máy tính làm việc , trợ cấp ăn trưa, trợ cấp ngoại ngữ, trợ cấp thâm niên, trợ cấp công tác, lương OT.\n- Mức lương dựa trên năng lực và kinh nghiệm. Được đánh giá điều chỉnh lương định kỳ hàng năm.\n- Bảo hiểm tai nạn, tử tuất 24/24.\n- Chế độ du lịch hàng năm đầy đủ.\n- Môi trường làm việc năng động, chuyên nghiệp, văn minh, nhiều cơ hội học hỏi và phát triển.\n- Thưởng lương tháng 13 , thường cuối năm hấp dẫn.\n- Nhà ở dự án,trợ cấp công trường.\n- Được đóng các chế độ BHXH, BHYT, BHTN đầy đủ theo quy định nhà nước.\n- Thưởng các ngày lễ lớn: Tết Nguyên Đán, Tết Dương lịch, Ngày 30.4 & Quốc tế Lao Động, Ngày Quốc khánh, Sinh nhật công ty,...\n- Qùa tặng mừng: Sinh nhật hàng năm; Khi Kết hôn; Khi sinh con...\n- Khám sức khỏe định kỳ hàng năm; Bảo hiểm chăm sóc sức khỏe đặc biệt cho Cán bộ quản lý.\n- Tham gia các hoạt động câu lạc bộ như: bóng đá, bóng bàn, …",
-   "requirements": {
-    "degree": [
-     "Tốt nghiệp trung cấp, cao đẳng, đại học khối kỹ thuật, ưu tiên chuyên ngành bảo hộ lao động."
-    ],
-    "certs": [
-     "Quản lý hồ sơ liên quan đến công tác an toàn – môi trường theo hệ thống quản lý ISO 45001, ISO 14001.",
-     "Nắm được các kiến thức về An toàn- môi trường theo ISO 45001 và ISO 14001.",
-     "Có chứng chỉ về an toàn."
-    ]
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-10-24T00:38:09.126Z",
-   "fetchedAt": "2026-10-27T12:42:24.083Z",
-   "verifiedAt": "2026-10-27T12:42:24.083Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
    "id": "job123:JD60wkX5rn",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-ehs-JD60wkX5rn",
@@ -2756,38 +2640,6 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:5qmERk6bq8",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/seojin-xuong-3-02-nhan-vien-an-toan-lao-dong-ehs-5qmERk6bq8",
-   "title": "SEOJIN XƯỞNG 3 - 02 NHÂN VIÊN AN TOÀN LAO ĐỘNG (EHS)",
-   "company": "Công ty tnhh seojin auto",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/07/2023_02_07______d5b1787049f37a7541d561d11b2822ac.jpg",
-   "locations": [
-    "Bắc Ninh"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Ngành nghề khác",
-   "datePosted": "2026-10-24",
-   "validThrough": "2026-11-20T23:59:59+07:00",
-   "description": "- Phụ trách và thực hiện các công việc về đảm bảo an toàn lao động và môi trường của nhà máy- Đào tạo an toàn nhóm 2/3/5- Đào tạo an toàn đầu vào cho toàn bộ công nhân viên trong ngày đầu tiên nhận việc- Phụ trách đối ứng audit có liên quan- Các công việc khác theo phân công của cấp trên.",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-10-24T12:27:23.590Z",
-   "fetchedAt": "2026-10-27T12:42:24.083Z",
-   "verifiedAt": "2026-10-27T12:42:24.083Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
    "id": "job123:JDajz3NG9G",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/ehs-specialist-JDajz3NG9G",
@@ -2810,6 +2662,38 @@
     "certs": [
      "Compile technical documentation to sustain ISO 14001, ISO 45001, and SA8000 compliance; lead site preparation and coordination for third- party audits and regulatory inspections."
     ]
+   },
+   "tags": [
+    "HSE/EHS",
+    "An toàn lao động"
+   ],
+   "relevance": 100,
+   "firstSeenAt": "2026-10-24T12:27:23.590Z",
+   "fetchedAt": "2026-10-27T12:42:24.083Z",
+   "verifiedAt": "2026-10-27T12:42:24.083Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:5qmERk6bq8",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/seojin-xuong-3-02-nhan-vien-an-toan-lao-dong-ehs-5qmERk6bq8",
+   "title": "SEOJIN XƯỞNG 3 - 02 NHÂN VIÊN AN TOÀN LAO ĐỘNG (EHS)",
+   "company": "Công ty tnhh seojin auto",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/07/2023_02_07______d5b1787049f37a7541d561d11b2822ac.jpg",
+   "locations": [
+    "Bắc Ninh"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "FULL_TIME",
+   "industry": "Ngành nghề khác",
+   "datePosted": "2026-10-24",
+   "validThrough": "2026-11-20T23:59:59+07:00",
+   "description": "- Phụ trách và thực hiện các công việc về đảm bảo an toàn lao động và môi trường của nhà máy- Đào tạo an toàn nhóm 2/3/5- Đào tạo an toàn đầu vào cho toàn bộ công nhân viên trong ngày đầu tiên nhận việc- Phụ trách đối ứng audit có liên quan- Các công việc khác theo phân công của cấp trên.",
+   "requirements": {
+    "degree": [],
+    "certs": []
    },
    "tags": [
     "HSE/EHS",
@@ -2850,8 +2734,8 @@
    ],
    "relevance": 100,
    "firstSeenAt": "2026-10-23T12:31:01.810Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -2885,8 +2769,8 @@
    ],
    "relevance": 100,
    "firstSeenAt": "2026-10-20T00:34:54.476Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -3014,8 +2898,8 @@
    ],
    "relevance": 100,
    "firstSeenAt": "2026-10-13T00:25:02.711Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -3150,38 +3034,6 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:5DOVm5OMqV",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/seojin-xuong-3-nhan-vien-pccc-ehs-5DOVm5OMqV",
-   "title": "SEOJIN XƯỞNG 3 - NHÂN VIÊN PCCC (EHS)",
-   "company": "Công ty tnhh seojin auto",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/07/2023_02_07______d5b1787049f37a7541d561d11b2822ac.jpg",
-   "locations": [
-    "Bắc Ninh"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "An toàn lao động",
-   "datePosted": "2026-09-25",
-   "validThrough": "2026-10-15T23:59:59+07:00",
-   "description": "- Kiểm tra hệ thống PCCC- Tổ chức diễn tập PCCC định kỳ- Đào tạo các nội dung về PCCC- Đối ứng audit về PCCC- Các công việc khác theo yêu cầu của cấp trên",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-10-13T12:21:50.749Z",
-   "fetchedAt": "2026-10-27T12:42:24.083Z",
-   "verifiedAt": "2026-10-27T12:42:24.083Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
    "id": "job123:Oq5MaZRRqp",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-she-Oq5MaZRRqp",
@@ -3282,8 +3134,8 @@
    ],
    "relevance": 100,
    "firstSeenAt": "2026-10-23T00:33:40.524Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -3319,38 +3171,6 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:ArX8AkJerV",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-hse-an-toan-lao-dong-lam-viec-tai-ha-nam-ArX8AkJerV",
-   "title": "Nhân Viên HSE (An Toàn Lao Động) - Làm việc tại Hà Nam",
-   "company": "Công Ty TNHH Công Nghệ Công Trình Sheng Huei",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/09/2023_02_09______f312e558114af53c2b331ff6dd1f5b3e.png",
-   "locations": [
-    "Hà Nội"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "OTHER",
-   "industry": "Ngành nghề khác",
-   "datePosted": "2026-10-22",
-   "validThrough": "2026-11-13T23:59:59+07:00",
-   "description": "Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-10-22T12:36:33.870Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
    "id": "job123:39JmnxvKDm",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-hse-39JmnxvKDm",
@@ -3380,6 +3200,76 @@
    "firstSeenAt": "2026-10-19T00:28:43.769Z",
    "fetchedAt": "2026-10-28T12:43:56.648Z",
    "verifiedAt": "2026-10-28T12:43:56.648Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:ArX8AkJerV",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-hse-an-toan-lao-dong-lam-viec-tai-ha-nam-ArX8AkJerV",
+   "title": "Nhân Viên HSE (An Toàn Lao Động) - Làm việc tại Hà Nam",
+   "company": "Công Ty TNHH Công Nghệ Công Trình Sheng Huei",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/09/2023_02_09______f312e558114af53c2b331ff6dd1f5b3e.png",
+   "locations": [
+    "Hà Nội"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "OTHER",
+   "industry": "Ngành nghề khác",
+   "datePosted": "2026-10-22",
+   "validThrough": "2026-11-13T23:59:59+07:00",
+   "description": "Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "HSE/EHS",
+    "An toàn lao động"
+   ],
+   "relevance": 100,
+   "firstSeenAt": "2026-10-22T12:36:33.870Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:Oq5MaV21qp",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/truong-ban-hse-yeu-cau-kinh-nghiem-an-toan-lao-dong-suc-khoe-va-moi-truong-Oq5MaV21qp",
+   "title": "Trưởng Ban HSE (Yêu Cầu Kinh Nghiệm An Toàn Lao Động, Sức Khỏe Và Môi Trường)",
+   "company": "Công Ty CP Xuất Nhập Khẩu Bắc Giang",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/11/2023_02_11______8a0bdecf8b220038fd95d961c217c307.jpg",
+   "locations": [
+    "Bắc Ninh"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "OTHER",
+   "industry": "Môi trường",
+   "datePosted": "2026-10-25",
+   "validThrough": "2026-11-14T23:59:59+07:00",
+   "description": "Mô tả công việc\nSoạn thảo, cập nhật các quy trình, hướng dẫn, quy định liên quan đến HSE.\nTổ chức và thực hiện các chương trình đào tạo, huấn luyện về an toàn lao động, sức khỏe và môi trường cho nhân viên.\nĐiều tra, phân tích các sự cố, tai nạn lao động và đề xuất các biện pháp phòng ngừa, khắc phục.\nTư vấn, hỗ trợ các bộ phận khác trong việc thực hiện các biện pháp an toàn, sức khỏe và bảo vệ môi trường.\nLàm việc với các cơ quan quản lý nhà nước về HSE, đảm bảo tuân thủ các yêu cầu pháp lý.\nTham gia vào việc đánh giá và lựa chọn các nhà thầu, nhà cung cấp liên quan đến HSE.\nXây dựng, triển khai và duy trì hệ thống quản lý an toàn, sức khỏe và môi trường (HSE) theo quy định của pháp luật và các tiêu chuẩn quốc tế.\nXác định, đánh giá và kiểm soát các mối nguy hiểm, rủi ro về an toàn lao động, sức khỏe và môi trường tại nơi làm việc.\nThực hiện kiểm tra, giám sát định kỳ và đột xuất để đảm bảo tuân thủ các quy định về HSE.\nTheo dõi, báo cáo và phân tích các chỉ số HSE, đề xuất các giải pháp cải thiện hiệu quả hoạt động.\nYêu cầu ứng viênCó khả năng đánh giá rủi ro, phân tích nguyên nhân và đề xuất các biện pháp phòng ngừa.\nSử dụng thành thạo các phần mềm văn phòng (MS Office).\nCó kiến thức chuyên sâu về luật pháp, quy định, tiêu chuẩn về an toàn lao động, sức khỏe và môi trường.\nCó kinh nghiệm làm việc trong lĩnh vực HSE, ưu tiên các ứng viên có kinh nghiệm làm việc trong môi trường sản xuất, xây dựng hoặc các ngành công nghiệp khác.\nCó kỹ năng giao tiếp, thuyết trình và đào tạo tốt.\nCó kỹ năng lập kế hoạch, tổ chức, thực hiện và kiểm soát các hoạt động HSE.\nTốt nghiệp đại học chuyên ngành về bảo hộ lao động, kỹ thuật, môi trường hoặc các ngành liên quan.\nCó chứng chỉ hành nghề về HSE (nếu có).\nCó khả năng làm việc độc lập và làm việc nhóm hiệu quả.\nQuyền lợi được hưởngMức lương cạnh tranh,theo thỏa thuận tùy thuộc vào kinh nghiệm và hiệu suất công việc.\nHỗ trợ bữa trưa\nChế độ bảo hiểm xã hội:Bảo hiểm y tế\nChế độ phúc lợi khác: hưởng hơn 40 chế độ đãi ngộ khác theo quy định của Nhà máy\nChế độ đào tạo: Được đào tạo và phát triển kỹ năng liên tục, bao gồm đào tạo về kỹ năng mềm, kỹ năng kỹ thuật, và kỹ năng lãnh đạo.\nChế độ nghỉ phép: 12 ngày phép năm, nghỉ ốm, nghỉ hiếu hỉ",
+   "requirements": {
+    "degree": [
+     "Tốt nghiệp đại học chuyên ngành về bảo hộ lao động, kỹ thuật, môi trường hoặc các ngành liên quan."
+    ],
+    "certs": [
+     "Tổ chức và thực hiện các chương trình đào tạo, huấn luyện về an toàn lao động, sức khỏe và môi trường cho nhân viên.",
+     "Có chứng chỉ hành nghề về HSE (nếu có)."
+    ]
+   },
+   "tags": [
+    "HSE/EHS",
+    "An toàn lao động",
+    "Môi trường"
+   ],
+   "relevance": 100,
+   "firstSeenAt": "2026-10-25T00:30:48.995Z",
+   "fetchedAt": "2026-10-28T00:42:37.886Z",
+   "verifiedAt": "2026-10-28T00:42:37.886Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -3517,6 +3407,38 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
+   "id": "job123:0q77eOm8q8",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/thuc-tap-sinh-an-toan-lao-dong-hse-0q77eOm8q8",
+   "title": "Thực Tập Sinh An Toàn Lao Động (HSE)",
+   "company": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI DNP",
+   "companyLogo": null,
+   "locations": [
+    "Bà Rịa Vũng Tàu"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "INTERN",
+   "industry": "Ngành nghề khác",
+   "datePosted": "2026-10-17",
+   "validThrough": "2026-12-14T23:59:59+07:00",
+   "description": "Hỗ trợ giám sát 5S các tuyến đường nội bộ của nhà máy.\nHỗ trợ giám sát an toàn của công nhân viên và nhà thầu.\nNhận diện các mối nguy, các hành vi vi phạm quy định PCCC, an toàn lao động.\nThực hiện các công việc khác theo phân công của quản lý.",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "HSE/EHS",
+    "An toàn lao động"
+   ],
+   "relevance": 100,
+   "firstSeenAt": "2026-10-17T12:29:24.278Z",
+   "fetchedAt": "2026-10-28T12:43:56.648Z",
+   "verifiedAt": "2026-10-28T12:43:56.648Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
    "id": "job123:BqP4oXVWqz",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-hse-nganh-xay-dung-thu-nhap-tu-16-20-trieu-phuc-loi-day-du-di-lam-ngay-25-50-tuoi-BqP4oXVWqz",
@@ -3586,74 +3508,8 @@
    ],
    "relevance": 100,
    "firstSeenAt": "2026-10-16T12:31:19.783Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:0q77eOm8q8",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/thuc-tap-sinh-an-toan-lao-dong-hse-0q77eOm8q8",
-   "title": "Thực Tập Sinh An Toàn Lao Động (HSE)",
-   "company": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI DNP",
-   "companyLogo": null,
-   "locations": [
-    "Bà Rịa Vũng Tàu"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "INTERN",
-   "industry": "Ngành nghề khác",
-   "datePosted": "2026-10-17",
-   "validThrough": "2026-12-14T23:59:59+07:00",
-   "description": "Hỗ trợ giám sát 5S các tuyến đường nội bộ của nhà máy.\nHỗ trợ giám sát an toàn của công nhân viên và nhà thầu.\nNhận diện các mối nguy, các hành vi vi phạm quy định PCCC, an toàn lao động.\nThực hiện các công việc khác theo phân công của quản lý.",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-10-17T12:29:24.278Z",
-   "fetchedAt": "2026-10-28T12:43:56.648Z",
-   "verifiedAt": "2026-10-28T12:43:56.648Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:P9YVoe6Ora",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-hse-thu-nhap-len-den-20-trieu-P9YVoe6Ora",
-   "title": "Nhân Viên An Toàn Lao Động - HSE - Thu Nhập Lên Đến 20 Triệu",
-   "company": "Công Ty Cổ Phần Thú Y Xanh Việt Nam",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/28/2023_02_28______722820536276ea2b07094a64270fe5fd.png",
-   "locations": [
-    "Hưng Yên"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "OTHER",
-   "industry": "Ngành nghề khác",
-   "datePosted": "2026-10-17",
-   "validThrough": "2026-11-11T23:59:59+07:00",
-   "description": "Tham gia xây dựng, cập nhật nội quy, quy trình và đề xuất các giải pháp cải thiện điều kiện an toàn tại nhà máy.\nTổ chức huấn luyện, hướng dẫn an toàn cho nhân viên mới và người lao động.\nTham gia thư ký đội PCCC & CNCH; Ban An toàn lao động, sức khỏe và môi trường để quản lý hồ sơ, lập kế hoạch triển khai, tập huấn, cập nhật quy định.\nNhận diện các mối nguy hiểm và đánh giá rủi ro về ATLĐ tại khu vực sản xuất, ghi nhận và đề xuất biện pháp phòng ngừa.\nPhối hợp ghi nhận, điều tra tai nạn/sự cố và theo dõi việc thực hiện các biện pháp khắc phục nếu có.\nKiểm tra, nhắc nhở người lao động tuân thủ quy định về an toàn, bảo hộ lao động và PCCC tại nhà máy.\nTheo dõi hồ sơ, biểu mẫu, kiểm định và báo cáo liên quan đến an toàn lao động, PCCC và môi trường.",
-   "requirements": {
-    "degree": [],
-    "certs": [
-     "Tổ chức huấn luyện, hướng dẫn an toàn cho nhân viên mới và người lao động."
-    ]
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-10-17T12:29:24.278Z",
-   "fetchedAt": "2026-10-29T12:43:03.737Z",
-   "verifiedAt": "2026-10-29T12:43:03.737Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -3732,6 +3588,78 @@
    "firstSeenAt": "2026-10-25T00:30:48.995Z",
    "fetchedAt": "2026-10-25T00:30:48.995Z",
    "verifiedAt": "2026-10-25T00:30:48.995Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:n9Rwobemrb",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/ky-su-giam-sat-an-toan-hse-tu-01-nam-kinh-nghiem-n9Rwobemrb",
+   "title": "Kỹ Sư Giám Sát An Toàn (HSE) Từ 01 Năm Kinh Nghiệm",
+   "company": "Công Ty Cổ Phần Xây Dựng Và Công Nghiệp NSN",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/09/2023_02_09______4a77d1b30ae5810a3f6aef8b6de3c65d.png",
+   "locations": [
+    "Hà Nội"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "CONTRACTOR",
+   "industry": "Xây dựng",
+   "datePosted": "2026-10-23",
+   "validThrough": "2026-12-20T23:59:59+07:00",
+   "description": "Mô tả công việc- Thực hiện giám sát tuân thủ an toàn các nội quy, quy định và theo các biện pháp an toàn đã được phê duyệt.\n- Đào tạo, hướng dẫn an toàn cho nhà thầu.\n- Lập kế hoạch kiểm soát các hoạt động HSE tại dự án.\n- Thiết lập các biện pháp đảm bảo an toàn trong quá trình thi công.\n- Thực hiện các báo cáo công tác ATLĐ định kỳ.\n- Nhận diện và phân tích rủi ro an toàn- môi trường.\n- Quản lý hồ sơ liên quan đến công tác an toàn – môi trường theo hệ thống quản lý ISO 45001, ISO 14001.\nYêu cầu ứng viên- Nắm được các tiêu chuẩn và Luật liên quan tới môi trường- an toàn.\n- Tốt nghiệp trung cấp, cao đẳng, đại học khối kỹ thuật, ưu tiên chuyên ngành bảo hộ lao động.\n- Nắm được các kiến thức về An toàn- môi trường theo ISO 45001 và ISO 14001.\n- Sử dụng thành thạo tin học văn phòng, có khả năng tổ chức và quản lý hồ sơ/ tài liệu tốt.\n- Có chứng chỉ về an toàn.\n- Sẵn sàng đi công tác các tỉnh.\n- Có ít nhất 1 năm kinh nghiệm trong lĩnh vực an toàn.\nQuyền lợi được hưởng- Cung cấp máy tính làm việc , trợ cấp ăn trưa, trợ cấp ngoại ngữ, trợ cấp thâm niên, trợ cấp công tác, lương OT.\n- Mức lương dựa trên năng lực và kinh nghiệm. Được đánh giá điều chỉnh lương định kỳ hàng năm.\n- Bảo hiểm tai nạn, tử tuất 24/24.\n- Chế độ du lịch hàng năm đầy đủ.\n- Môi trường làm việc năng động, chuyên nghiệp, văn minh, nhiều cơ hội học hỏi và phát triển.\n- Thưởng lương tháng 13 , thường cuối năm hấp dẫn.\n- Nhà ở dự án,trợ cấp công trường.\n- Được đóng các chế độ BHXH, BHYT, BHTN đầy đủ theo quy định nhà nước.\n- Thưởng các ngày lễ lớn: Tết Nguyên Đán, Tết Dương lịch, Ngày 30.4 & Quốc tế Lao Động, Ngày Quốc khánh, Sinh nhật công ty,...\n- Qùa tặng mừng: Sinh nhật hàng năm; Khi Kết hôn; Khi sinh con...\n- Khám sức khỏe định kỳ hàng năm; Bảo hiểm chăm sóc sức khỏe đặc biệt cho Cán bộ quản lý.\n- Tham gia các hoạt động câu lạc bộ như: bóng đá, bóng bàn, …",
+   "requirements": {
+    "degree": [
+     "Tốt nghiệp trung cấp, cao đẳng, đại học khối kỹ thuật, ưu tiên chuyên ngành bảo hộ lao động."
+    ],
+    "certs": [
+     "Quản lý hồ sơ liên quan đến công tác an toàn – môi trường theo hệ thống quản lý ISO 45001, ISO 14001.",
+     "Nắm được các kiến thức về An toàn- môi trường theo ISO 45001 và ISO 14001.",
+     "Có chứng chỉ về an toàn."
+    ]
+   },
+   "tags": [
+    "HSE/EHS",
+    "An toàn lao động"
+   ],
+   "relevance": 100,
+   "firstSeenAt": "2026-10-24T00:38:09.126Z",
+   "fetchedAt": "2026-10-27T12:42:24.083Z",
+   "verifiedAt": "2026-10-27T12:42:24.083Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:P9YVoe6Ora",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-hse-thu-nhap-len-den-20-trieu-P9YVoe6Ora",
+   "title": "Nhân Viên An Toàn Lao Động - HSE - Thu Nhập Lên Đến 20 Triệu",
+   "company": "Công Ty Cổ Phần Thú Y Xanh Việt Nam",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/28/2023_02_28______722820536276ea2b07094a64270fe5fd.png",
+   "locations": [
+    "Hưng Yên"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "OTHER",
+   "industry": "Ngành nghề khác",
+   "datePosted": "2026-10-17",
+   "validThrough": "2026-11-11T23:59:59+07:00",
+   "description": "Tham gia xây dựng, cập nhật nội quy, quy trình và đề xuất các giải pháp cải thiện điều kiện an toàn tại nhà máy.\nTổ chức huấn luyện, hướng dẫn an toàn cho nhân viên mới và người lao động.\nTham gia thư ký đội PCCC & CNCH; Ban An toàn lao động, sức khỏe và môi trường để quản lý hồ sơ, lập kế hoạch triển khai, tập huấn, cập nhật quy định.\nNhận diện các mối nguy hiểm và đánh giá rủi ro về ATLĐ tại khu vực sản xuất, ghi nhận và đề xuất biện pháp phòng ngừa.\nPhối hợp ghi nhận, điều tra tai nạn/sự cố và theo dõi việc thực hiện các biện pháp khắc phục nếu có.\nKiểm tra, nhắc nhở người lao động tuân thủ quy định về an toàn, bảo hộ lao động và PCCC tại nhà máy.\nTheo dõi hồ sơ, biểu mẫu, kiểm định và báo cáo liên quan đến an toàn lao động, PCCC và môi trường.",
+   "requirements": {
+    "degree": [],
+    "certs": [
+     "Tổ chức huấn luyện, hướng dẫn an toàn cho nhân viên mới và người lao động."
+    ]
+   },
+   "tags": [
+    "HSE/EHS",
+    "An toàn lao động"
+   ],
+   "relevance": 100,
+   "firstSeenAt": "2026-10-17T12:29:24.278Z",
+   "fetchedAt": "2026-10-29T12:43:03.737Z",
+   "verifiedAt": "2026-10-29T12:43:03.737Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -4634,40 +4562,6 @@
    "firstSeenAt": "2026-10-19T12:39:45.957Z",
    "fetchedAt": "2026-10-23T00:33:40.524Z",
    "verifiedAt": "2026-10-23T00:33:40.524Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:ND4ZKYg8rv",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-hse-ND4ZKYg8rv",
-   "title": "Nhân Viên An Toàn Lao Động (HSE)",
-   "company": "CÔNG TY CỔ PHẦN PICONS VIỆT NAM",
-   "companyLogo": "https://cdn.jobshay.com/123job/uploads/2023/02/07/2023_02_07______d2d7d1e1e02ee512dcaf0ce29843a376.jpg",
-   "locations": [
-    "Hưng Yên"
-   ],
-   "salary": null,
-   "salaryText": "Đang cập nhật",
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Ngành nghề khác",
-   "datePosted": "2026-10-10",
-   "validThrough": "2026-10-15T23:59:59+07:00",
-   "description": "- Thực hiện và giám sát việc thực hiện, tuân thủ nội quy và quy trình ATVSLĐ – PCCC – BVMT của các đơn vị thi công tại công trường.\n- Triển khai, hướng dẫn và tập huấn cho CBCNV và công nhân tại công trường thực hiện đúng các quy định, quy trình, hướng dẫn của hệ thống QLCL – MT – AT&SKNN của Công ty- Theo dõi, kiểm tra an toàn máy móc thiết bị thi công trên công trường.\n- Phối hợp với các bên liên quan để giải quyết các vấn đề phát sinh và đề xuất các biện pháp xử lý tình huống.\n- Nhận diện mối nguy, phân tích đánh giá những rủi ro liên quan đến công tác ATLĐ tại từng khu vực thi công từ đó đề xuất các giải pháp khắc phục kịp thời.\n- Xây dựng các quy chế, nội quy, các nguyên tắc và các chỉ tiêu về quản lý và đảm bảo ATLĐ và vệ sinh môi trường cho con người, máy móc, thiết bị, dụng cụ thi công theo các tiêu chuẩn và quy định Nhà nước.\n- Xây dựng kế hoạch thực hiện và huấn luyện về bảo hộ an toàn lao động. Biên soạn tài liệu hướng dẫn công tác ATLĐ và VSLĐ.\n- Tham mưu, đề xuất áp dụng các thiết bị kỹ thuật tiên tiến, giải pháp khoa học, phục vụ cho công tác ATLĐ.\n- Điều tra các vụ tai nạn trong công nghiệp hoặc bệnh nghề nghiệp để xác định nguyên nhân và xác định những sự cố có thể ngăn chặn.",
-   "requirements": {
-    "degree": [],
-    "certs": [
-     "Xây dựng kế hoạch thực hiện và huấn luyện về bảo hộ an toàn lao động. Biên soạn tài liệu hướng dẫn công tác ATLĐ và VSLĐ."
-    ]
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-10-10T15:14:50.541Z",
-   "fetchedAt": "2026-10-21T00:31:55.965Z",
-   "verifiedAt": "2026-10-21T00:31:55.965Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -7844,6 +7738,38 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
+   "id": "job123:W9pX16Nj9p",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-hse-W9pX16Nj9p",
+   "title": "Nhân Viên HSE",
+   "company": "Công ty CP Đầu tư và Phát triển Thái Dương",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/07/2023_02_07______8e2480bd7f547ed5ac6e7d6c7f1e806a.png",
+   "locations": [
+    "Hưng Yên"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "FULL_TIME",
+   "industry": "An toàn lao động",
+   "datePosted": "2026-10-21",
+   "validThrough": "2026-11-06T23:59:59+07:00",
+   "description": "- Đánh giá và đề xuất biện pháp đảm bảo an toàn lao động, môi trường- Xây dựng tiêu chuẩn chính sách về an toàn lao động và bảo vệ sức khỏe- Giám sát nhắc nhở CNV tuân thủ quy định về an toàn, sức khỏe và môi trường lao động trong doanh nghiệp.\n- Tuân thủ tất cả các quy định và quy chuẩn về an toàn lao động và bảo vệ môi trường- Nhận diện, phân tích và đánh giá những rủi ro tiềm ẩn trong môi trường làm việc và đưa ra giải pháp.\n- Thực hiện các biện pháp kiểm soát rủi ro để giảm thiểu nguy cơ xảy ra tai nạn lao động- Báo cáo kịp thời về các sự cố an toàn lao động và bảo vệ môi trường cho cấp quản lý, đề xuất phương án xử lý.\n- Thực hiện các công việc khác khi được phân công.",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "HSE/EHS",
+    "An toàn lao động"
+   ],
+   "relevance": 86,
+   "firstSeenAt": "2026-10-10T15:44:18.162Z",
+   "fetchedAt": "2026-10-28T00:42:37.886Z",
+   "verifiedAt": "2026-10-28T00:42:37.886Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
    "id": "job123:3qZaKWAxr4",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/seojin-xuong-3-nhan-vien-doi-ung-audit-ehs-3qZaKWAxr4",
@@ -7935,8 +7861,8 @@
    ],
    "relevance": 86,
    "firstSeenAt": "2026-10-13T00:25:02.711Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -8069,38 +7995,6 @@
    "firstSeenAt": "2026-10-19T12:39:45.957Z",
    "fetchedAt": "2026-10-23T00:33:40.524Z",
    "verifiedAt": "2026-10-23T00:33:40.524Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:W9pX16Nj9p",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-hse-W9pX16Nj9p",
-   "title": "Nhân Viên HSE",
-   "company": "Công ty CP Đầu tư và Phát triển Thái Dương",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/07/2023_02_07______8e2480bd7f547ed5ac6e7d6c7f1e806a.png",
-   "locations": [
-    "Hưng Yên"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "An toàn lao động",
-   "datePosted": "2026-10-21",
-   "validThrough": "2026-11-06T23:59:59+07:00",
-   "description": "- Đánh giá và đề xuất biện pháp đảm bảo an toàn lao động, môi trường- Xây dựng tiêu chuẩn chính sách về an toàn lao động và bảo vệ sức khỏe- Giám sát nhắc nhở CNV tuân thủ quy định về an toàn, sức khỏe và môi trường lao động trong doanh nghiệp.\n- Tuân thủ tất cả các quy định và quy chuẩn về an toàn lao động và bảo vệ môi trường- Nhận diện, phân tích và đánh giá những rủi ro tiềm ẩn trong môi trường làm việc và đưa ra giải pháp.\n- Thực hiện các biện pháp kiểm soát rủi ro để giảm thiểu nguy cơ xảy ra tai nạn lao động- Báo cáo kịp thời về các sự cố an toàn lao động và bảo vệ môi trường cho cấp quản lý, đề xuất phương án xử lý.\n- Thực hiện các công việc khác khi được phân công.",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động"
-   ],
-   "relevance": 86,
-   "firstSeenAt": "2026-10-10T15:44:18.162Z",
-   "fetchedAt": "2026-10-28T00:42:37.886Z",
-   "verifiedAt": "2026-10-28T00:42:37.886Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -10125,8 +10019,8 @@
    ],
    "relevance": 78,
    "firstSeenAt": "2026-10-13T00:25:02.711Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -10144,9 +10038,9 @@
    "expMonths": null,
    "employmentType": "FULL_TIME",
    "industry": "Môi trường",
-   "datePosted": "2026-10-09",
+   "datePosted": "2026-10-29",
    "validThrough": "2026-12-28T23:59:59+07:00",
-   "description": "Lên phương án báo giá cạnh tranh.\nXây dựng hồ sơ thầu.\nThiết kế và vận hành hệ thống xử lý nước thải, khí thải, nước cấp\nLập bản vẽ hoàn công và hướng dẫn vận hành.\nViết thuyết minh công nghệ và lập dự toán các công trình xử lý nước cấp, nước thải, khí thải;\nTổ chức thi công, giám sát các công trình đã thiết kế, lập đặt đường ống, máy móc thiết bị, thực hiện các công việc vận hành hệ thống xử lý nước cấp, nước thải, và khí thải\nVận hành các hệ thống xử lý nước thải, khí thải....\nKiểm tra thực hiện và giám sát công tác xử lý mùi, vệ sinh môi trường trong nhà máy.",
+   "description": "Viết thuyết minh công nghệ và lập dự toán các công trình xử lý nước cấp, nước thải, khí thải;\nTổ chức thi công, giám sát các công trình đã thiết kế, lập đặt đường ống, máy móc thiết bị, thực hiện các công việc vận hành hệ thống xử lý nước cấp, nước thải, và khí thải\nThiết kế và vận hành hệ thống xử lý nước thải, khí thải, nước cấp\nVận hành các hệ thống xử lý nước thải, khí thải....\nKiểm tra thực hiện và giám sát công tác xử lý mùi, vệ sinh môi trường trong nhà máy.\nXây dựng hồ sơ thầu.\nLên phương án báo giá cạnh tranh.\nLập bản vẽ hoàn công và hướng dẫn vận hành.",
    "requirements": {
     "degree": [],
     "certs": []
@@ -10156,8 +10050,41 @@
    ],
    "relevance": 78,
    "firstSeenAt": "2026-10-18T12:29:15.804Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:v91BP1ZKrW",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-quan-trac-nam-chuyen-nganh-moi-truong-hoa-hoc-thu-nhap-upto-19-trieu-v91BP1ZKrW",
+   "title": "Nhân Viên Quan Trắc (Nam) Chuyên Ngành Môi Trường, Hóa Học  - Thu Nhập Upto 19 Triệu",
+   "company": "Công ty CP Nông nghiệp và Môi trường Nguyễn Gia",
+   "companyLogo": "https://cdn1.123job.vn/123job/uploads/2026/03/03/2026_03_03______42a67bcc24b4a4add026b10348888645.jpg",
+   "locations": [
+    "Hà Nội"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "OTHER",
+   "industry": "Môi trường",
+   "datePosted": "2026-10-30",
+   "validThrough": "2026-12-21T23:59:59+07:00",
+   "description": "Mô tả công việc\nPhối hợp cùng đội ngũ quan trắc môi trường thực hiện công việc tại hiện trường, đo đạc các chỉ tiêu về đất, nước, không khí, bụi, ánh sáng, tiếng ồn,...\nGhi chép thông tin, bảo quản mẫu và hoàn thiện hồ sơ, dữ liệu quan trắc đảm bảo tính chính xác, đầy đủ.\nTham gia các chuyến công tác tại nhiều địa điểm khác nhau theo sự phân công của công ty.\nSử dụng thiết bị chuyên dụng và trang bị bảo hộ đầy đủ để thực hiện đo đạc, lấy mẫu theo quy trình.\nYêu cầu ứng viênTốt nghiệp chuyên ngành Môi trường, Hóa học hoặc các ngành liên quan.\nChào đón ứng viên mới ra trường, chưa có kinh nghiệm sẽ được hướng dẫn và đào tạo.\nSử dụng cơ bản Word, Excel.\nCó sức khỏe tốt, sẵn sàng làm việc ngoài trời; tinh thần vui vẻ, hòa đồng là một lợi thế.\nQuyền lợi được hưởngMức lương khởi điểm: 17.000.000 – 19.000.000 VNĐ/tháng, tùy theo kinh nghiệm và năng lực thực tế.\nĐược hưởng đầy đủ phụ cấp, công tác phí và các chế độ theo chính sách công ty.\nCơ hội học hỏi từ công việc thực tế, nâng cao chuyên môn và phát triển sự nghiệp lâu dài.\nCác chế độ và quyền lợi chi tiết sẽ được trao đổi cụ thể trong buổi phỏng vấn",
+   "requirements": {
+    "degree": [
+     "Yêu cầu ứng viênTốt nghiệp chuyên ngành Môi trường, Hóa học hoặc các ngành liên quan."
+    ],
+    "certs": []
+   },
+   "tags": [
+    "Chất thải/Nước thải"
+   ],
+   "relevance": 78,
+   "firstSeenAt": "2026-10-30T00:42:09.170Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -10293,6 +10220,37 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
+   "id": "job123:y9BwYgdGrA",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/tuyen-ky-su-moi-truong-y9BwYgdGrA",
+   "title": "Tuyển kỹ sư môi trường",
+   "company": "Công ty TNHH Phát triển TM&SX Đại Thắng",
+   "companyLogo": "https://cdn1.123job.vn/123job/uploads/2025/06/06/2025_06_06______ad430fe5dbbb082f3992d651d5ff1a2d.jpg",
+   "locations": [
+    "Hải Phòng"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "OTHER",
+   "industry": "Môi trường",
+   "datePosted": "2026-10-30",
+   "validThrough": "2026-11-17T23:59:59+07:00",
+   "description": "Vận hành, bảo trì hệ thống xử lý nước thải, khí thải",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "Môi trường"
+   ],
+   "relevance": 78,
+   "firstSeenAt": "2026-10-18T12:29:15.804Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
    "id": "job123:o9jyvvB3DR",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/ky-su-moi-truong-tai-lam-dong-o9jyvvB3DR",
@@ -10319,8 +10277,8 @@
    ],
    "relevance": 78,
    "firstSeenAt": "2026-10-18T12:29:15.804Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -10546,42 +10504,6 @@
    "firstSeenAt": "2026-10-17T12:29:24.278Z",
    "fetchedAt": "2026-10-27T12:42:24.083Z",
    "verifiedAt": "2026-10-27T12:42:24.083Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:y9BwYgdGrA",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/tuyen-ky-su-moi-truong-y9BwYgdGrA",
-   "title": "Tuyển kỹ sư môi trường",
-   "company": "Công ty TNHH Phát triển TM&SX Đại Thắng",
-   "companyLogo": "https://cdn1.123job.vn/123job/uploads/2025/06/06/2025_06_06______ad430fe5dbbb082f3992d651d5ff1a2d.jpg",
-   "locations": [
-    "Hải Phòng"
-   ],
-   "salary": {
-    "min": 9000000,
-    "max": 9000000,
-    "currency": "VND",
-    "unit": "MONTH"
-   },
-   "salaryText": "9 triệu",
-   "expMonths": 0,
-   "employmentType": "OTHER",
-   "industry": "Môi trường",
-   "datePosted": "2026-10-22",
-   "validThrough": "2026-12-12T23:59:59+07:00",
-   "description": "Vận hành, bảo trì hệ thống xử lý nước thải, khí thải",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "Môi trường"
-   ],
-   "relevance": 78,
-   "firstSeenAt": "2026-10-18T12:29:15.804Z",
-   "fetchedAt": "2026-10-22T12:36:33.870Z",
-   "verifiedAt": "2026-10-22T12:36:33.870Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -11368,6 +11290,39 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
+   "id": "job123:zrMLzkoN9d",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/ky-su-hse-lam-viec-tai-tuyen-quang-va-yen-bai-zrMLzkoN9d",
+   "title": "Kỹ sư HSE làm việc tại Tuyên Quang và Yên Bái",
+   "company": "Công Ty TNHH Dịch Vụ Và Kỹ Thuật Năng Lượng Pecc2",
+   "companyLogo": null,
+   "locations": [
+    "Lào Cai"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "OTHER",
+   "industry": "Kỹ thuật",
+   "datePosted": "2026-10-23",
+   "validThrough": "2026-12-09T23:59:59+07:00",
+   "description": "Quản lý hồ sơ HSE dự án, báo cáo định kỳ cho Ban Quản lý dự án/Chủ đầu tư và phối hợp điều tra, xử lý các sự cố (nếu có).\nTổ chức các buổi huấn luyện an toàn đầu vào (Safety Induction), họp an toàn đầu giờ (Toolbox Talk) cho toàn bộ kỹ sư, công nhân trên công trường.\nLập kế hoạch, triển khai và kiểm soát chặt chẽ công tác An toàn- Sức khỏe- Môi trường (HSE) trong suốt quá trình thi công xây dựng tại công trường nhà máy điện.\nThường xuyên tuần tra hiện trường; chủ động nhận diện rủi ro, kiên quyết đình chỉ các hoạt động thi công không đảm bảo an toàn và yêu cầu khắc phục ngay lập tức.\nGiám sát, đôn đốc các nhà thầu thi công tuân thủ nghiêm ngặt các quy định về an toàn lao động, vệ sinh môi trường và phòng chống cháy nổ.",
+   "requirements": {
+    "degree": [],
+    "certs": [
+     "Tổ chức các buổi huấn luyện an toàn đầu vào (Safety Induction), họp an toàn đầu giờ (Toolbox Talk) cho toàn bộ kỹ sư, công nhân trên công trường."
+    ]
+   },
+   "tags": [
+    "HSE/EHS"
+   ],
+   "relevance": 76,
+   "firstSeenAt": "2026-10-23T00:33:40.524Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
    "id": "job123:y9BwbQeyrA",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/giam-sat-an-toan-lao-dong-y9BwbQeyrA",
@@ -11382,7 +11337,7 @@
    "expMonths": null,
    "employmentType": "FULL_TIME",
    "industry": "Ngành nghề khác",
-   "datePosted": "2026-10-24",
+   "datePosted": "2026-10-28",
    "validThrough": "2026-11-16T23:59:59+07:00",
    "description": "- Theo dõi, giám sát an toàn lao động hàng ngày tại công trường- Hướng dẫn và kiểm soát việc tuân thủ các tiêu chuẩn HSE- Tổ chức các buổi huấn luyện ATLĐ định kỳ.\n- Thông tin chi tiết khi phỏng vấn",
    "requirements": {
@@ -11396,8 +11351,8 @@
    ],
    "relevance": 76,
    "firstSeenAt": "2026-10-22T12:36:33.870Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -11631,6 +11586,37 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
+   "id": "job123:v91BPQm4rW",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-ve-sinh-lao-dong-v91BPQm4rW",
+   "title": "Nhân Viên An Toàn Vệ Sinh Lao Động",
+   "company": "Công ty CP Đầu tư và Phát triển Thái Dương",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/07/2023_02_07______8e2480bd7f547ed5ac6e7d6c7f1e806a.png",
+   "locations": [
+    "Hưng Yên"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "FULL_TIME",
+   "industry": "Ngành nghề khác",
+   "datePosted": "2026-10-21",
+   "validThrough": "2026-12-14T23:59:59+07:00",
+   "description": "- Đánh giá và đề xuất biện pháp đảm bảo an toàn lao động, môi trường- Xây dựng tiêu chuẩn chính sách về an toàn lao động và bảo vệ sức khỏe- Giám sát nhắc nhở CNV tuân thủ quy định về an toàn, sức khỏe và môi trường lao động trong doanh nghiệp.\n- Tuân thủ tất cả các quy định và quy chuẩn về an toàn lao động và bảo vệ môi trường- Nhận diện, phân tích và đánh giá những rủi ro tiềm ẩn trong môi trường làm việc và đưa ra giải pháp.\n- Thực hiện các biện pháp kiểm soát rủi ro để giảm thiểu nguy cơ xảy ra tai nạn lao động- Báo cáo kịp thời về các sự cố an toàn lao động và bảo vệ môi trường cho cấp quản lý, đề xuất phương án xử lý.\n- Thực hiện các công việc khác khi được phân công.",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "An toàn lao động"
+   ],
+   "relevance": 76,
+   "firstSeenAt": "2026-10-18T00:31:22.681Z",
+   "fetchedAt": "2026-10-28T00:42:37.886Z",
+   "verifiedAt": "2026-10-28T00:42:37.886Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
    "id": "job123:BDnBzWk0DR",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-tai-ha-noi-luong-cung-13-18-trieu-phu-cap-BDnBzWk0DR",
@@ -11666,71 +11652,6 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:v91BPQm4rW",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-ve-sinh-lao-dong-v91BPQm4rW",
-   "title": "Nhân Viên An Toàn Vệ Sinh Lao Động",
-   "company": "Công ty CP Đầu tư và Phát triển Thái Dương",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/07/2023_02_07______8e2480bd7f547ed5ac6e7d6c7f1e806a.png",
-   "locations": [
-    "Hưng Yên"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Ngành nghề khác",
-   "datePosted": "2026-10-21",
-   "validThrough": "2026-12-14T23:59:59+07:00",
-   "description": "- Đánh giá và đề xuất biện pháp đảm bảo an toàn lao động, môi trường- Xây dựng tiêu chuẩn chính sách về an toàn lao động và bảo vệ sức khỏe- Giám sát nhắc nhở CNV tuân thủ quy định về an toàn, sức khỏe và môi trường lao động trong doanh nghiệp.\n- Tuân thủ tất cả các quy định và quy chuẩn về an toàn lao động và bảo vệ môi trường- Nhận diện, phân tích và đánh giá những rủi ro tiềm ẩn trong môi trường làm việc và đưa ra giải pháp.\n- Thực hiện các biện pháp kiểm soát rủi ro để giảm thiểu nguy cơ xảy ra tai nạn lao động- Báo cáo kịp thời về các sự cố an toàn lao động và bảo vệ môi trường cho cấp quản lý, đề xuất phương án xử lý.\n- Thực hiện các công việc khác khi được phân công.",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "An toàn lao động"
-   ],
-   "relevance": 76,
-   "firstSeenAt": "2026-10-18T00:31:22.681Z",
-   "fetchedAt": "2026-10-28T00:42:37.886Z",
-   "verifiedAt": "2026-10-28T00:42:37.886Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:LDlWzLX0q6",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/truong-ban-an-toan-lao-dong-LDlWzLX0q6",
-   "title": "Trưởng Ban An Toàn Lao Động",
-   "company": "CÔNG TY CỔ PHẦN DỊCH VỤ VÀ KỸ THUẬT SMC",
-   "companyLogo": "https://cdn1.123job.vn/123job/uploads/2024/09/11/2024_09_11______11b2915221b467cc9c0817f659f1efa4.png",
-   "locations": [
-    "Hồ Chí Minh"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Ngành nghề khác",
-   "datePosted": "2026-10-15",
-   "validThrough": "2026-11-02T23:59:59+07:00",
-   "description": "Phụ trách công tác thông tin, tuyên truyền, giáo dục, huấn luyện ATVSLĐ tại các dự án\n- Góp ý công tác lập kế hoạch huấn luyện ATVSLĐ của Phòng ATLĐ;\n- Thực hiện theo sự phân công các hoạt động tuyên truyền, phổ biến các quy định về ATVSLĐ;\nTriển khai áp dụng nội quy, quy trình và các biện pháp đảm bảo ATVSLĐ tại dự án, nơi làm việc\n- Kiểm tra định kỳ hoặc đột xuất việc tuân thủ, thực hiện ATVSLĐ tại văn phòng làm việc, tại công trường dự án của Công ty;\n- Đánh giá, kiểm soát yếu tố nguy hiểm, yếu tố có hại tại nơi làm việc. Tổ chức quan trắc môi trường lao động;\n- Kiểm tra môi trường lao động, an toàn thực phẩm; theo dõi tình hình thương tật, bệnh tật phát sinh do nghề nghiệp;\n- Triển khai áp dụng nội quy, quy chế, quy trình, biện pháp bảo đảm ATVSLĐ, PCCC trong công trường, Công ty;\nThực hiện chế độ bảo hộ lao động, chăm sóc sức khỏe người lao động\n- Thực hiện kiểm tra, kiểm định PTBVCN chuyên dụng (hệ chống rơi ngã cá nhân, cứu sinh…);\n- Thực hiện kiểm tra việc cấp Phương tiện bảo vệ cá nhân (PTBVCN);\nGiám sát công tác ATVSLĐ tại các dự án\n- Tham gia điều tra, giải quyết các sự cố an toàn lao động xảy ra trên công trường và đề xuất biện pháp khắc phục;\n- Tham gia kiểm tra và triển khai thực hiện công tác ATVSLĐ, VSMT, PCCCN,…tại các Dự án;\n- Lập phương án bảo đảm ATVSLĐ cho các dự án;\n- Đề xuất với người sử dụng lao động các biện pháp khắc phục các tồn tại về mất ATVSLĐ;\n- Lập danh mục và triển khai thực hiện các hồ sơ pháp lý về ATVSLĐ của các Dự án;\n- Kiểm soát và lưu trữ hồ sơ pháp lý về ATVSLĐ của các Dự án;\n- Tham gia góp ý về lĩnh vực ATVSLĐ tại các cuộc họp xây dựng kế hoạch công tác, trong việc lập và duyệt các đề án thiết kế, thi công, nghiệm thu, tiếp nhận đưa vào sử dụng nhà, xưởng, trạm, máy, thiết bị vật tư có yêu cầu nghiêm ngặt về an toàn lao động;\nQuản lý máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về ATVSLĐ\n- Theo dõi, nhắc nhở việc đăng ký, kiểm định các máy, thiết bị, vật tư và các chất có yêu cầu nghiêm ngặt về ATVSLĐ hết thời hạn kiểm định/đăng kiểm;\nQuản lý nhân sự và một số chức năng, nhiệm vụ khác\n- Hướng dẫn chuyên môn, phân bố công việc chi tiết cho các GSAT tại các dự án;\n- Một số nhiệm vụ khác theo sự phân công của Trưởng phòng, chỉ đạo của Ban Giám đốc;",
-   "requirements": {
-    "degree": [],
-    "certs": [
-     "Phụ trách công tác thông tin, tuyên truyền, giáo dục, huấn luyện ATVSLĐ tại các dự án",
-     "Góp ý công tác lập kế hoạch huấn luyện ATVSLĐ của Phòng ATLĐ;"
-    ]
-   },
-   "tags": [
-    "An toàn lao động"
-   ],
-   "relevance": 76,
-   "firstSeenAt": "2026-10-18T00:31:22.681Z",
-   "fetchedAt": "2026-10-28T12:43:56.648Z",
-   "verifiedAt": "2026-10-28T12:43:56.648Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
    "id": "job123:w9vaKRWMD5",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/truong-phong-moi-truong-w9vaKRWMD5",
@@ -11745,9 +11666,9 @@
    "expMonths": null,
    "employmentType": "FULL_TIME",
    "industry": "Hành chính - Văn phòng",
-   "datePosted": "2026-10-09",
+   "datePosted": "2026-10-29",
    "validThrough": "2026-12-28T23:59:59+07:00",
-   "description": "Kiểm soát hồ sơ kỹ thuật, dự toán, báo giá và hồ sơ thầu.\nĐảm bảo tuân thủ các quy định pháp luật về môi trường và báo cáo cho Ban Giám đốc.\nQuản lý và điều hành hoạt động của Phòng Môi trường, phân công và giám sát đội ngũ.\nXây dựng, đề xuất và triển khai các phương án xử lý, cải thiện hiệu quả hệ thống môi trường.\nQuản lý tiến độ, chất lượng các dự án/công trình môi trường.\nQuản lý, giám sát hệ thống xử lý nước cấp, nước thải, khí thải và công tác bảo vệ môi trường tại nhà máy/công trình.",
+   "description": "Đảm bảo tuân thủ các quy định pháp luật về môi trường và báo cáo cho Ban Giám đốc.\nQuản lý và điều hành hoạt động của Phòng Môi trường, phân công và giám sát đội ngũ.\nQuản lý tiến độ, chất lượng các dự án/công trình môi trường.\nKiểm soát hồ sơ kỹ thuật, dự toán, báo giá và hồ sơ thầu.\nQuản lý, giám sát hệ thống xử lý nước cấp, nước thải, khí thải và công tác bảo vệ môi trường tại nhà máy/công trình.\nXây dựng, đề xuất và triển khai các phương án xử lý, cải thiện hiệu quả hệ thống môi trường.",
    "requirements": {
     "degree": [],
     "certs": []
@@ -11757,39 +11678,8 @@
    ],
    "relevance": 76,
    "firstSeenAt": "2026-10-19T00:28:43.769Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:o9jyv4KXDR",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/thuc-tap-sinh-moi-truong-o9jyv4KXDR",
-   "title": "THỰC TẬP SINH MÔI TRƯỜNG",
-   "company": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI VÀ DỊCH VỤ NAM NAM THIÊN",
-   "companyLogo": "https://cdn1.123job.vn/123job/uploads/2025/09/07/2025_09_07______cdef6b7c47c14ec7f272319c10cb7bb7.jpg",
-   "locations": [
-    "Tây Ninh"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "INTERN",
-   "industry": "Thực tập",
-   "datePosted": "2026-10-28",
-   "validThrough": "2026-12-23T23:59:59+07:00",
-   "description": "Hỗ trợ kiểm tra việc tuân thủ các quy định về bảo vệ môi trường của khách hàng thuê đất/doanh nghiệp trong khu vực quản lý.\nHỗ trợ thu thập, tổng hợp và lưu trữ hồ sơ, tài liệu môi trường theo quy định.\nPhối hợp với các phòng ban và đơn vị liên quan trong công tác môi trường.\nHỗ trợ lập báo cáo môi trường định kỳ và cập nhật hồ sơ pháp lý môi trường.\nHỗ trợ theo dõi số liệu liên quan đến nước thải, chất thải, hệ thống hạ tầng kỹ thuật môi trường.\nHỗ trợ theo dõi, quản lý các hoạt động liên quan đến công tác môi trường tại khu công nghiệp/khu tái định cư.\nTham gia kiểm tra hiện trường và thực hiện các công việc khác theo phân công của quản lý.",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "Môi trường"
-   ],
-   "relevance": 76,
-   "firstSeenAt": "2026-10-29T00:40:02.087Z",
-   "fetchedAt": "2026-10-29T00:40:02.087Z",
-   "verifiedAt": "2026-10-29T00:40:02.087Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -11891,36 +11781,68 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:zrMLzkoN9d",
+   "id": "job123:LDlWzLX0q6",
    "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/ky-su-hse-lam-viec-tai-tuyen-quang-va-yen-bai-zrMLzkoN9d",
-   "title": "Kỹ sư HSE làm việc tại Tuyên Quang và Yên Bái",
-   "company": "Công Ty TNHH Dịch Vụ Và Kỹ Thuật Năng Lượng Pecc2",
-   "companyLogo": null,
+   "sourceUrl": "https://123job.vn/viec-lam/truong-ban-an-toan-lao-dong-LDlWzLX0q6",
+   "title": "Trưởng Ban An Toàn Lao Động",
+   "company": "CÔNG TY CỔ PHẦN DỊCH VỤ VÀ KỸ THUẬT SMC",
+   "companyLogo": "https://cdn1.123job.vn/123job/uploads/2024/09/11/2024_09_11______11b2915221b467cc9c0817f659f1efa4.png",
    "locations": [
-    "Lào Cai"
+    "Hồ Chí Minh"
    ],
    "salary": null,
    "salaryText": null,
    "expMonths": null,
-   "employmentType": "OTHER",
-   "industry": "Kỹ thuật",
-   "datePosted": "2026-10-23",
-   "validThrough": "2026-12-09T23:59:59+07:00",
-   "description": "Quản lý hồ sơ HSE dự án, báo cáo định kỳ cho Ban Quản lý dự án/Chủ đầu tư và phối hợp điều tra, xử lý các sự cố (nếu có).\nTổ chức các buổi huấn luyện an toàn đầu vào (Safety Induction), họp an toàn đầu giờ (Toolbox Talk) cho toàn bộ kỹ sư, công nhân trên công trường.\nLập kế hoạch, triển khai và kiểm soát chặt chẽ công tác An toàn- Sức khỏe- Môi trường (HSE) trong suốt quá trình thi công xây dựng tại công trường nhà máy điện.\nThường xuyên tuần tra hiện trường; chủ động nhận diện rủi ro, kiên quyết đình chỉ các hoạt động thi công không đảm bảo an toàn và yêu cầu khắc phục ngay lập tức.\nGiám sát, đôn đốc các nhà thầu thi công tuân thủ nghiêm ngặt các quy định về an toàn lao động, vệ sinh môi trường và phòng chống cháy nổ.",
+   "employmentType": "FULL_TIME",
+   "industry": "Ngành nghề khác",
+   "datePosted": "2026-10-15",
+   "validThrough": "2026-11-02T23:59:59+07:00",
+   "description": "Phụ trách công tác thông tin, tuyên truyền, giáo dục, huấn luyện ATVSLĐ tại các dự án\n- Góp ý công tác lập kế hoạch huấn luyện ATVSLĐ của Phòng ATLĐ;\n- Thực hiện theo sự phân công các hoạt động tuyên truyền, phổ biến các quy định về ATVSLĐ;\nTriển khai áp dụng nội quy, quy trình và các biện pháp đảm bảo ATVSLĐ tại dự án, nơi làm việc\n- Kiểm tra định kỳ hoặc đột xuất việc tuân thủ, thực hiện ATVSLĐ tại văn phòng làm việc, tại công trường dự án của Công ty;\n- Đánh giá, kiểm soát yếu tố nguy hiểm, yếu tố có hại tại nơi làm việc. Tổ chức quan trắc môi trường lao động;\n- Kiểm tra môi trường lao động, an toàn thực phẩm; theo dõi tình hình thương tật, bệnh tật phát sinh do nghề nghiệp;\n- Triển khai áp dụng nội quy, quy chế, quy trình, biện pháp bảo đảm ATVSLĐ, PCCC trong công trường, Công ty;\nThực hiện chế độ bảo hộ lao động, chăm sóc sức khỏe người lao động\n- Thực hiện kiểm tra, kiểm định PTBVCN chuyên dụng (hệ chống rơi ngã cá nhân, cứu sinh…);\n- Thực hiện kiểm tra việc cấp Phương tiện bảo vệ cá nhân (PTBVCN);\nGiám sát công tác ATVSLĐ tại các dự án\n- Tham gia điều tra, giải quyết các sự cố an toàn lao động xảy ra trên công trường và đề xuất biện pháp khắc phục;\n- Tham gia kiểm tra và triển khai thực hiện công tác ATVSLĐ, VSMT, PCCCN,…tại các Dự án;\n- Lập phương án bảo đảm ATVSLĐ cho các dự án;\n- Đề xuất với người sử dụng lao động các biện pháp khắc phục các tồn tại về mất ATVSLĐ;\n- Lập danh mục và triển khai thực hiện các hồ sơ pháp lý về ATVSLĐ của các Dự án;\n- Kiểm soát và lưu trữ hồ sơ pháp lý về ATVSLĐ của các Dự án;\n- Tham gia góp ý về lĩnh vực ATVSLĐ tại các cuộc họp xây dựng kế hoạch công tác, trong việc lập và duyệt các đề án thiết kế, thi công, nghiệm thu, tiếp nhận đưa vào sử dụng nhà, xưởng, trạm, máy, thiết bị vật tư có yêu cầu nghiêm ngặt về an toàn lao động;\nQuản lý máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về ATVSLĐ\n- Theo dõi, nhắc nhở việc đăng ký, kiểm định các máy, thiết bị, vật tư và các chất có yêu cầu nghiêm ngặt về ATVSLĐ hết thời hạn kiểm định/đăng kiểm;\nQuản lý nhân sự và một số chức năng, nhiệm vụ khác\n- Hướng dẫn chuyên môn, phân bố công việc chi tiết cho các GSAT tại các dự án;\n- Một số nhiệm vụ khác theo sự phân công của Trưởng phòng, chỉ đạo của Ban Giám đốc;",
    "requirements": {
     "degree": [],
     "certs": [
-     "Tổ chức các buổi huấn luyện an toàn đầu vào (Safety Induction), họp an toàn đầu giờ (Toolbox Talk) cho toàn bộ kỹ sư, công nhân trên công trường."
+     "Phụ trách công tác thông tin, tuyên truyền, giáo dục, huấn luyện ATVSLĐ tại các dự án",
+     "Góp ý công tác lập kế hoạch huấn luyện ATVSLĐ của Phòng ATLĐ;"
     ]
    },
    "tags": [
-    "HSE/EHS"
+    "An toàn lao động"
    ],
    "relevance": 76,
-   "firstSeenAt": "2026-10-23T00:33:40.524Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "firstSeenAt": "2026-10-18T00:31:22.681Z",
+   "fetchedAt": "2026-10-28T12:43:56.648Z",
+   "verifiedAt": "2026-10-28T12:43:56.648Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:o9jyv4KXDR",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/thuc-tap-sinh-moi-truong-o9jyv4KXDR",
+   "title": "THỰC TẬP SINH MÔI TRƯỜNG",
+   "company": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI VÀ DỊCH VỤ NAM NAM THIÊN",
+   "companyLogo": "https://cdn1.123job.vn/123job/uploads/2025/09/07/2025_09_07______cdef6b7c47c14ec7f272319c10cb7bb7.jpg",
+   "locations": [
+    "Tây Ninh"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "INTERN",
+   "industry": "Thực tập",
+   "datePosted": "2026-10-28",
+   "validThrough": "2026-12-23T23:59:59+07:00",
+   "description": "Hỗ trợ kiểm tra việc tuân thủ các quy định về bảo vệ môi trường của khách hàng thuê đất/doanh nghiệp trong khu vực quản lý.\nHỗ trợ thu thập, tổng hợp và lưu trữ hồ sơ, tài liệu môi trường theo quy định.\nPhối hợp với các phòng ban và đơn vị liên quan trong công tác môi trường.\nHỗ trợ lập báo cáo môi trường định kỳ và cập nhật hồ sơ pháp lý môi trường.\nHỗ trợ theo dõi số liệu liên quan đến nước thải, chất thải, hệ thống hạ tầng kỹ thuật môi trường.\nHỗ trợ theo dõi, quản lý các hoạt động liên quan đến công tác môi trường tại khu công nghiệp/khu tái định cư.\nTham gia kiểm tra hiện trường và thực hiện các công việc khác theo phân công của quản lý.",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "Môi trường"
+   ],
+   "relevance": 76,
+   "firstSeenAt": "2026-10-29T00:40:02.087Z",
+   "fetchedAt": "2026-10-29T00:40:02.087Z",
+   "verifiedAt": "2026-10-29T00:40:02.087Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -12023,39 +11945,6 @@
    ],
    "relevance": 76,
    "firstSeenAt": "2026-10-17T12:29:24.278Z",
-   "fetchedAt": "2026-10-24T00:38:09.126Z",
-   "verifiedAt": "2026-10-24T00:38:09.126Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:yDNQaXZwqz",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-quan-ly-hien-truong-bp-ehs-yDNQaXZwqz",
-   "title": "Nhân Viên Quản Lý Hiện Trường - BP EHS",
-   "company": "công ty tnhh seojin auto",
-   "companyLogo": "https://cdn.jobshay.com/123job/uploads/2023/02/07/2023_02_07______d5b1787049f37a7541d561d11b2822ac.jpg",
-   "locations": [
-    "Bắc Ninh"
-   ],
-   "salary": null,
-   "salaryText": "Đang cập nhật",
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Thư ký - Trợ lý",
-   "datePosted": "2026-09-25",
-   "validThrough": "2026-10-15T23:59:59+07:00",
-   "description": "- Kiểm tra, giám sát việc tuân thủ biện pháp an toàn lao động tại công trường thi công- Phối hợp với các bộ phận thi công để đảm bảo các hoạt động diễn ra đúng quy trình an toàn- Đánh giá rủi ro tại hiện trường và đưa ra các biện pháp phòng ngừa tai nạn lao động- Kiểm tra, giám sát việc sử dụng trang thiết bị bảo hộ cá nhân (PPE) của công nhân, nhà thầu- Thực hiện huấn luyện, phổ biến nội quy, quy trình an toàn lao động cho công nhân mới- Báo cáo các sự cố/vi phạm an toàn cho cấp trên và phối hợp điều tra nguyên nhân (nếu có)- Ghi nhận và báo cáo tình trạng thực tế tại hiện trường hằng ngày/tuần/tháng- Đảm bảo việc tuân thủ theo các quy định pháp luật và tiêu chuẩn nội bộ về EHS.",
-   "requirements": {
-    "degree": [],
-    "certs": [
-     "Kiểm tra, giám sát việc tuân thủ biện pháp an toàn lao động tại công trường thi công- Phối hợp với các bộ phận thi công để đảm bảo các hoạt động diễn ra đúng quy trình an toàn- Đánh giá rủi ro tại hiện trường và đưa ra các biện pháp phòng ngừa tai nạn lao động- Kiểm tra, giám sát việc sử dụng trang thiết bị bảo hộ cá nhân (PPE) của công nhân, nhà thầu- Thực hiện huấn luyện, phổ biến nội quy, quy trình an toàn lao động cho công nhân mới- Báo cáo các sự cố/vi phạm an toàn cho cấp trên và phối hợp điều tra nguyên nhân (nếu có)- Ghi nhận và báo cáo tình trạng thực tế tại hiện trường hằng ngày/tuần/tháng- Đảm bảo việc tuân thủ theo các quy định pháp luật và tiêu chuẩn nội bộ về EHS."
-    ]
-   },
-   "tags": [
-    "HSE/EHS"
-   ],
-   "relevance": 76,
-   "firstSeenAt": "2026-10-18T00:31:22.681Z",
    "fetchedAt": "2026-10-24T00:38:09.126Z",
    "verifiedAt": "2026-10-24T00:38:09.126Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
@@ -12395,8 +12284,8 @@
    ],
    "relevance": 70,
    "firstSeenAt": "2026-10-18T12:29:15.804Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -12462,69 +12351,6 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:LqkEz0Rn93",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-suc-khoe-va-moi-truong-LqkEz0Rn93",
-   "title": "Nhân Viên An Toàn, Sức Khỏe Và Môi Trường",
-   "company": "Công Ty TNHH RockWool Vietnam",
-   "companyLogo": null,
-   "locations": [
-    "Tây Ninh"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "OTHER",
-   "industry": "Môi trường",
-   "datePosted": "2026-10-29",
-   "validThrough": "2026-11-29T23:59:59+07:00",
-   "description": "Quản lý và Thực thi Hệ thống An toàn:\nSử dụng thẻ điểm (scorecard) để đo lường, theo dõi và báo cáo tình hình tuân thủ quy định cũng như các sáng kiến cải tiến.\nĐảm bảo nhân viên và khách tham quan tuân thủ nghiêm ngặt các quy định về An toàn, Sức khỏe và Môi trường (SHE) của địa phương và Tập đoàn ROCKWOOL.\nTriển khai các chương trình SHE; xây dựng quy trình vận hành, hướng dẫn công việc và tài liệu đào tạo.\nGiám sát và Xử lý sự cố:\nQuản lý và giám sát an toàn đối với các nhà thầu trong các dự án mở rộng, cải tạo nhà máy.\nKiểm tra, điều tra và ghi nhận tất cả các sự cố tai nạn, rò rỉ hóa chất hoặc các tình huống suýt xảy ra (near- misses).\nTư vấn và Đào tạo:\nTổ chức và thực hiện các chương trình giáo dục, đào tạo về an toàn và môi trường cho người lao động.\nLà đầu mối liên hệ hàng ngày, tư vấn cho Giám đốc nhà máy và các cấp quản lý về các vấn đề liên quan đến SHE.\nKỹ năng & Chuyên môn:\n- Sử dụng thành thạo máy tính phục vụ cho công việc kinh doanh hàng ngày.\n- Khả năng giao tiếp và thuyết trình tốt.\n- Kỹ năng tạo dựng và xây dựng mạng lưới quan hệ cá nhân tốt.\n- Kỹ năng phân tích thông tin khách hàng và thị trường.\n- Kỹ năng đàm phán và thuyết phục giỏi.\n- Có khả năng giao tiếp tiếng Anh tốt (yêu cầu bắt buộc là có khả năng giao tiếp thông tin cơ bản).\nQuyền lợi\n- Nghỉ ngơi: 15 ngày phép năm hưởng nguyên lương.\n- Gắn kết: Tham gia các hoạt động du lịch, nghỉ mát hàng năm cùng công ty.\n- Phát triển: Review (xét duyệt) tăng lương hàng năm dựa trên năng lực; cơ hội tham gia các khóa đào tạo chuyên môn tại nước ngoài.\n- Chăm sóc sức khỏe: Khám sức khỏe định kỳ hàng năm tại các cơ sở y tế uy tín.\n- Thu nhập: Lương thưởng cạnh tranh, bao gồm lương tháng 13 và thưởng hiệu quả công việc (Non- contractual bonus).\n- Môi trường: Làm việc trong môi trường quốc tế chuyên nghiệp, đề cao sự tin tưởng và trao quyền.",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "An toàn lao động",
-    "Môi trường"
-   ],
-   "relevance": 70,
-   "firstSeenAt": "2026-10-29T12:43:03.737Z",
-   "fetchedAt": "2026-10-29T12:43:03.737Z",
-   "verifiedAt": "2026-10-29T12:43:03.737Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:n9Rwo86Yrb",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/truong-nhom-thiet-ke-cong-nghe-moi-truong-n9Rwo86Yrb",
-   "title": "Trưởng Nhóm Thiết Kế Công Nghệ Môi Trường",
-   "company": "CÔNG TY TNHH ĐTXD VÀ CNMT DƯƠNG NHẬT",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/07/31/2023_07_31______af76de989ed95d8042162307f34db72a.png",
-   "locations": [
-    "Hồ Chí Minh"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Môi trường",
-   "datePosted": "2026-10-29",
-   "validThrough": "2026-11-29T23:59:59+07:00",
-   "description": "- Quản lý tiến độ thực hiện trong nhóm.\n- Kiểm tra hoàn chỉnh Bộ hồ sơ kỹ thuật và bảng giá dự toán phần công nghệ.\n- Thực hiện khảo sát và nắm bắt thông tin yêu cầu của Hồ sơ mời thầu và Yêu cầu chào giá.\n- Đề xuất quy trình công nghệ, lên thiết kế, tính toán bản vẽ thiết kế dây chuyền, mặt bằng.\n- Thực hiện bộ hồ sơ kỹ thuật, đặc tính thiết bị và bảng giá dự toán phần công nghệ.\n- Tham gia họp làm rõ hồ sơ kỹ thuật với CĐT.",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "Môi trường"
-   ],
-   "relevance": 70,
-   "firstSeenAt": "2026-10-18T12:29:15.804Z",
-   "fetchedAt": "2026-10-29T12:43:03.737Z",
-   "verifiedAt": "2026-10-29T12:43:03.737Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
    "id": "job123:g9d1zQPdrk",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/truong-nhom-thiet-ke-cong-nghe-moi-truong-g9d1zQPdrk",
@@ -12584,6 +12410,69 @@
    "firstSeenAt": "2026-10-19T12:39:45.957Z",
    "fetchedAt": "2026-10-27T00:34:09.210Z",
    "verifiedAt": "2026-10-27T00:34:09.210Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:n9Rwo86Yrb",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/truong-nhom-thiet-ke-cong-nghe-moi-truong-n9Rwo86Yrb",
+   "title": "Trưởng Nhóm Thiết Kế Công Nghệ Môi Trường",
+   "company": "CÔNG TY TNHH ĐTXD VÀ CNMT DƯƠNG NHẬT",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/07/31/2023_07_31______af76de989ed95d8042162307f34db72a.png",
+   "locations": [
+    "Hồ Chí Minh"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "FULL_TIME",
+   "industry": "Môi trường",
+   "datePosted": "2026-10-29",
+   "validThrough": "2026-11-29T23:59:59+07:00",
+   "description": "- Quản lý tiến độ thực hiện trong nhóm.\n- Kiểm tra hoàn chỉnh Bộ hồ sơ kỹ thuật và bảng giá dự toán phần công nghệ.\n- Thực hiện khảo sát và nắm bắt thông tin yêu cầu của Hồ sơ mời thầu và Yêu cầu chào giá.\n- Đề xuất quy trình công nghệ, lên thiết kế, tính toán bản vẽ thiết kế dây chuyền, mặt bằng.\n- Thực hiện bộ hồ sơ kỹ thuật, đặc tính thiết bị và bảng giá dự toán phần công nghệ.\n- Tham gia họp làm rõ hồ sơ kỹ thuật với CĐT.",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "Môi trường"
+   ],
+   "relevance": 70,
+   "firstSeenAt": "2026-10-18T12:29:15.804Z",
+   "fetchedAt": "2026-10-29T12:43:03.737Z",
+   "verifiedAt": "2026-10-29T12:43:03.737Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:LqkEz0Rn93",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-suc-khoe-va-moi-truong-LqkEz0Rn93",
+   "title": "Nhân Viên An Toàn, Sức Khỏe Và Môi Trường",
+   "company": "Công Ty TNHH RockWool Vietnam",
+   "companyLogo": null,
+   "locations": [
+    "Tây Ninh"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "OTHER",
+   "industry": "Môi trường",
+   "datePosted": "2026-10-29",
+   "validThrough": "2026-11-29T23:59:59+07:00",
+   "description": "Quản lý và Thực thi Hệ thống An toàn:\nSử dụng thẻ điểm (scorecard) để đo lường, theo dõi và báo cáo tình hình tuân thủ quy định cũng như các sáng kiến cải tiến.\nĐảm bảo nhân viên và khách tham quan tuân thủ nghiêm ngặt các quy định về An toàn, Sức khỏe và Môi trường (SHE) của địa phương và Tập đoàn ROCKWOOL.\nTriển khai các chương trình SHE; xây dựng quy trình vận hành, hướng dẫn công việc và tài liệu đào tạo.\nGiám sát và Xử lý sự cố:\nQuản lý và giám sát an toàn đối với các nhà thầu trong các dự án mở rộng, cải tạo nhà máy.\nKiểm tra, điều tra và ghi nhận tất cả các sự cố tai nạn, rò rỉ hóa chất hoặc các tình huống suýt xảy ra (near- misses).\nTư vấn và Đào tạo:\nTổ chức và thực hiện các chương trình giáo dục, đào tạo về an toàn và môi trường cho người lao động.\nLà đầu mối liên hệ hàng ngày, tư vấn cho Giám đốc nhà máy và các cấp quản lý về các vấn đề liên quan đến SHE.\nKỹ năng & Chuyên môn:\n- Sử dụng thành thạo máy tính phục vụ cho công việc kinh doanh hàng ngày.\n- Khả năng giao tiếp và thuyết trình tốt.\n- Kỹ năng tạo dựng và xây dựng mạng lưới quan hệ cá nhân tốt.\n- Kỹ năng phân tích thông tin khách hàng và thị trường.\n- Kỹ năng đàm phán và thuyết phục giỏi.\n- Có khả năng giao tiếp tiếng Anh tốt (yêu cầu bắt buộc là có khả năng giao tiếp thông tin cơ bản).\nQuyền lợi\n- Nghỉ ngơi: 15 ngày phép năm hưởng nguyên lương.\n- Gắn kết: Tham gia các hoạt động du lịch, nghỉ mát hàng năm cùng công ty.\n- Phát triển: Review (xét duyệt) tăng lương hàng năm dựa trên năng lực; cơ hội tham gia các khóa đào tạo chuyên môn tại nước ngoài.\n- Chăm sóc sức khỏe: Khám sức khỏe định kỳ hàng năm tại các cơ sở y tế uy tín.\n- Thu nhập: Lương thưởng cạnh tranh, bao gồm lương tháng 13 và thưởng hiệu quả công việc (Non- contractual bonus).\n- Môi trường: Làm việc trong môi trường quốc tế chuyên nghiệp, đề cao sự tin tưởng và trao quyền.",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "An toàn lao động",
+    "Môi trường"
+   ],
+   "relevance": 70,
+   "firstSeenAt": "2026-10-29T12:43:03.737Z",
+   "fetchedAt": "2026-10-29T12:43:03.737Z",
+   "verifiedAt": "2026-10-29T12:43:03.737Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -13157,8 +13046,8 @@
    ],
    "relevance": 68,
    "firstSeenAt": "2026-10-23T12:31:01.810Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -13458,37 +13347,6 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:A9V8QNogqn",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-khong-yeu-cau-kinh-nghiem-A9V8QNogqn",
-   "title": "Nhân Viên An Toàn Lao Động - Không Yêu Cầu Kinh Nghiệm",
-   "company": "Công ty TNHH Thương Mại Và Kỹ Thuật Quốc Việt",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2018/08/31/2018_08_31______b5d6bd0aa011f01d493a8f645db42137.png",
-   "locations": [
-    "Hồ Chí Minh"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "OTHER",
-   "industry": "Lao động phổ thông",
-   "datePosted": "2026-10-24",
-   "validThrough": "2026-11-11T23:59:59+07:00",
-   "description": "Xây dựng quy chế, nội quy, theo quy trình biện pháp, đảm bảo an toàn vệ sinh lao động, PCCC.\nNhận diện mối nguy, phân tích đánh giá rủi ro liên quan tới công tác an toàn từng khu vực, đề ra giải pháp khắc phục, kiểm soát mối nguy.\nKiểm tra hồ sơ con người đầu vào. Kiểm tra MMTB thi công và Update lên hệ thống.\nGiám sát an toàn lao động, đào tạo an toàn đầu vào cho nhân viên. Điều tra, lập hồ sơ, xử lý vi phạm, báo cáo sự cố mất an toàn.\nTriển khai các công việc được cấp trên giao.",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "An toàn lao động"
-   ],
-   "relevance": 68,
-   "firstSeenAt": "2026-10-24T12:27:23.590Z",
-   "fetchedAt": "2026-10-28T00:42:37.886Z",
-   "verifiedAt": "2026-10-28T00:42:37.886Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
    "id": "job123:JD60wX15rn",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/thuc-tap-sinh-an-toan-lao-dong-JD60wX15rn",
@@ -13522,6 +13380,37 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
+   "id": "job123:A9V8QNogqn",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-khong-yeu-cau-kinh-nghiem-A9V8QNogqn",
+   "title": "Nhân Viên An Toàn Lao Động - Không Yêu Cầu Kinh Nghiệm",
+   "company": "Công ty TNHH Thương Mại Và Kỹ Thuật Quốc Việt",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2018/08/31/2018_08_31______b5d6bd0aa011f01d493a8f645db42137.png",
+   "locations": [
+    "Hồ Chí Minh"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "OTHER",
+   "industry": "Lao động phổ thông",
+   "datePosted": "2026-10-24",
+   "validThrough": "2026-11-11T23:59:59+07:00",
+   "description": "Xây dựng quy chế, nội quy, theo quy trình biện pháp, đảm bảo an toàn vệ sinh lao động, PCCC.\nNhận diện mối nguy, phân tích đánh giá rủi ro liên quan tới công tác an toàn từng khu vực, đề ra giải pháp khắc phục, kiểm soát mối nguy.\nKiểm tra hồ sơ con người đầu vào. Kiểm tra MMTB thi công và Update lên hệ thống.\nGiám sát an toàn lao động, đào tạo an toàn đầu vào cho nhân viên. Điều tra, lập hồ sơ, xử lý vi phạm, báo cáo sự cố mất an toàn.\nTriển khai các công việc được cấp trên giao.",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "An toàn lao động"
+   ],
+   "relevance": 68,
+   "firstSeenAt": "2026-10-24T12:27:23.590Z",
+   "fetchedAt": "2026-10-28T00:42:37.886Z",
+   "verifiedAt": "2026-10-28T00:42:37.886Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
    "id": "job123:ArX8A78mrV",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/giam-sat-an-toan-lao-dong-ArX8A78mrV",
@@ -13550,8 +13439,42 @@
    ],
    "relevance": 68,
    "firstSeenAt": "2026-10-19T12:39:45.957Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:dr8ZGPXvD4",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/giam-sat-an-toan-lao-dong-dr8ZGPXvD4",
+   "title": "Giám Sát An Toàn Lao Động",
+   "company": "Công ty Cổ phần Tập đoàn Đầu tư Xây dựng Ricons",
+   "companyLogo": null,
+   "locations": [
+    "Hồ Chí Minh"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "FULL_TIME",
+   "industry": "Ngành nghề khác",
+   "datePosted": "2026-10-19",
+   "validThrough": "2026-11-16T23:59:59+07:00",
+   "description": "- Triển khai, kiểm soát, đánh giá hệ thống QL AT&SKNN của công ty tại công trình phụ trách\n+ Lập kế hoạch an toàn hàng tháng của công trình\n+ Thiết lập kế hoạch biện pháp thi công an toàn theo từng hạng mục thi công dựa trên tiến độ công trình\n+ Triển khai 8 nội dung trong kế hoạch an toàn trên công trường\n- Lập kế hoạch đào tạo nhân sự kế thừa hàng quý, năm\n+ Huấn luyện công nhân mới\n+ Huấn luyện chuyên đề an toàn cho BCH CT 2 lần /tháng\n- Quản lý công tác an ninh công trình phụ trách\n+ Triển khai quy trình kiểm soát an ninh đầu công trường\n+ Họp định kỳ với đơn vị an ninh hàng tuần\n+ Phối hợp BCH CT đánh giá chất lượng đơn vị an ninh hàng tháng\n- Thực hiện các nhiệm vụ khác theo sự phân công của Trưởng Ban an toàn lao động.",
+   "requirements": {
+    "degree": [],
+    "certs": [
+     "+ Huấn luyện công nhân mới",
+     "+ Huấn luyện chuyên đề an toàn cho BCH CT 2 lần /tháng"
+    ]
+   },
+   "tags": [
+    "An toàn lao động"
+   ],
+   "relevance": 68,
+   "firstSeenAt": "2026-10-19T12:39:45.957Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -13591,40 +13514,6 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:dr8ZGPXvD4",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/giam-sat-an-toan-lao-dong-dr8ZGPXvD4",
-   "title": "Giám Sát An Toàn Lao Động",
-   "company": "Công ty Cổ phần Tập đoàn Đầu tư Xây dựng Ricons",
-   "companyLogo": null,
-   "locations": [
-    "Hồ Chí Minh"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Ngành nghề khác",
-   "datePosted": "2026-10-19",
-   "validThrough": "2026-11-16T23:59:59+07:00",
-   "description": "- Triển khai, kiểm soát, đánh giá hệ thống QL AT&SKNN của công ty tại công trình phụ trách\n+ Lập kế hoạch an toàn hàng tháng của công trình\n+ Thiết lập kế hoạch biện pháp thi công an toàn theo từng hạng mục thi công dựa trên tiến độ công trình\n+ Triển khai 8 nội dung trong kế hoạch an toàn trên công trường\n- Lập kế hoạch đào tạo nhân sự kế thừa hàng quý, năm\n+ Huấn luyện công nhân mới\n+ Huấn luyện chuyên đề an toàn cho BCH CT 2 lần /tháng\n- Quản lý công tác an ninh công trình phụ trách\n+ Triển khai quy trình kiểm soát an ninh đầu công trường\n+ Họp định kỳ với đơn vị an ninh hàng tuần\n+ Phối hợp BCH CT đánh giá chất lượng đơn vị an ninh hàng tháng\n- Thực hiện các nhiệm vụ khác theo sự phân công của Trưởng Ban an toàn lao động.",
-   "requirements": {
-    "degree": [],
-    "certs": [
-     "+ Huấn luyện công nhân mới",
-     "+ Huấn luyện chuyên đề an toàn cho BCH CT 2 lần /tháng"
-    ]
-   },
-   "tags": [
-    "An toàn lao động"
-   ],
-   "relevance": 68,
-   "firstSeenAt": "2026-10-19T12:39:45.957Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
    "id": "job123:1qwOamKkq8",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/ky-su-an-toan-lao-dong-luong-17-25-trieu-1qwOamKkq8",
@@ -13657,6 +13546,39 @@
    "firstSeenAt": "2026-10-19T00:28:43.769Z",
    "fetchedAt": "2026-10-28T12:43:56.648Z",
    "verifiedAt": "2026-10-28T12:43:56.648Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:JDajZgdE9G",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-JDajZgdE9G",
+   "title": "Nhân Viên An Toàn Lao Động",
+   "company": "Công Ty TNHH NovaTech Bắc Ninh",
+   "companyLogo": null,
+   "locations": [
+    "Bắc Ninh"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "FULL_TIME",
+   "industry": "Ngành nghề khác",
+   "datePosted": "2026-10-08",
+   "validThrough": "2026-10-23T23:59:59+07:00",
+   "description": "- Quản lý và giám sát các hoạt động an toàn trong nhà máy.\n- Quản lý đội An toàn – Vệ sinh viên- Cập nhật, lưu trữ và duy trì hồ sơ an toàn theo tiêu chuẩn RBA, ISO 45001 và quy định pháp luật Việt Nam- Chịu trách nhiệm đối ứng với cơ quan chức năng và khách hàng khi có các đợt thanh tra, kiểm tra về an toàn.",
+   "requirements": {
+    "degree": [],
+    "certs": [
+     "Quản lý đội An toàn – Vệ sinh viên- Cập nhật, lưu trữ và duy trì hồ sơ an toàn theo tiêu chuẩn RBA, ISO 45001 và quy định pháp luật Việt Nam- Chịu trách nhiệm đối ứng với cơ quan chức năng và khách hàng khi có các đợt thanh tra, kiểm tra về an toàn."
+    ]
+   },
+   "tags": [
+    "An toàn lao động"
+   ],
+   "relevance": 68,
+   "firstSeenAt": "2026-10-10T16:14:18.629Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -13783,8 +13705,8 @@
    ],
    "relevance": 68,
    "firstSeenAt": "2026-10-21T12:37:56.908Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -13816,8 +13738,8 @@
    ],
    "relevance": 68,
    "firstSeenAt": "2026-10-18T12:29:15.804Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -13847,8 +13769,8 @@
    ],
    "relevance": 68,
    "firstSeenAt": "2026-10-27T00:34:09.210Z",
-   "fetchedAt": "2026-10-27T00:34:09.210Z",
-   "verifiedAt": "2026-10-27T00:34:09.210Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -13880,70 +13802,6 @@
    "firstSeenAt": "2026-10-18T12:29:15.804Z",
    "fetchedAt": "2026-10-26T14:42:06.491Z",
    "verifiedAt": "2026-10-26T14:42:06.491Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:yDNQME2dqz",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-phong-qc-ky-thuat-moi-truong-vung-tau-yDNQME2dqz",
-   "title": "NHÂN VIÊN PHÒNG QC – KỸ THUẬT – MÔI TRƯỜNG - VŨNG TÀU",
-   "company": "Công ty CP Kết nối nhân lực Worklink Việt Nam",
-   "companyLogo": null,
-   "locations": [
-    "Hồ Chí Minh"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "OTHER",
-   "industry": "Kỹ thuật",
-   "datePosted": "2026-10-29",
-   "validThrough": "2026-11-29T23:59:59+07:00",
-   "description": "Mô tả công việc\nLàm việc tại bộ phận Kỹ thuật chất lượng và Môi trường.\nCông việc kỹ thuật:\nThực hiện đánh giá tại phòng thí nghiệm, phân tích chất lượng giấy.\nPhân tích quy trình tại khách hàng, đánh giá mẫu giấy và tham dự giám sát kiểm tra máy thực tế.\nTổng hợp kết quả, soạn thảo và trình bày báo cáo.\nTiến hành phối trộn sản phẩm trong phòng thí nghiệm, điều chỉnh sản phẩm, xử lý sự cố sản xuất và nghiên cứu nguyên liệu mới.\nCông việc chất lượng:\nThực hiện hệ thống quản lý chất lượng (QMS).\nKiểm tra chất lượng sản phẩm, quản lý chất lượng và thực hiện kiểm định, hiệu　chuẩn các thiết bị đo lường.\nCông việc môi trường:\nKhông yêu cầu kinh nghiệm\nNam/Nữ, 20- 40 tuổi, tốt nghiệp CĐ/ ĐH chuyên ngành kỹ thuật trở lên\nLập và trình bày các báo cáo, tài liệu báo cáo về môi trường.\nƯu tiên có kinh nghiệm tương đương\nRequirements\nThực hiện hệ thống quản lý môi trường (EMS).\nYêu cầu\nTiếng Nhật N3 trở lên\nQuyền lợi\nLương: Thoả thuận trên kinh nghiệm thực tế\nThời gian làm việc: 8h~16:30 (nghỉ trưa 1 tiếng), T2~T7\nPhụ cấp tiếng Nhật: N2 1tr5, N1 2tr5, chuyên cần 300K\nVề cơ bản thì không phải lên công ty làm việc vào ngày thứ 7 (làm ở nhà). Nếu yêu cầu công việc bắt buộc phải lên công ty thì công ty sẽ có chỉ thị.\nĐược hưởng đầy đủ các chế độ theo Luật Lao động của Việt Nam.\nDu lịch công ty, tiệc bộ phận hàng quý, bảo hiểm 24/7, nghỉ phép 12 ngày + 2 ngày theo chế độ nặng nhọc độc hại, khám sức khỏe 2 lần/năm\nĐược tham gia BHYT, BHXH, BHTN theo đúng luật định",
-   "requirements": {
-    "degree": [
-     "Nam/Nữ, 20- 40 tuổi, tốt nghiệp CĐ/ ĐH chuyên ngành kỹ thuật trở lên"
-    ],
-    "certs": []
-   },
-   "tags": [
-    "Môi trường"
-   ],
-   "relevance": 68,
-   "firstSeenAt": "2026-10-29T12:43:03.737Z",
-   "fetchedAt": "2026-10-29T12:43:03.737Z",
-   "verifiedAt": "2026-10-29T12:43:03.737Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:3q273yZ7DM",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-tu-van-moi-truong-3q273yZ7DM",
-   "title": "NHÂN VIÊN TƯ VẤN MÔI TRƯỜNG",
-   "company": "Công Ty TNHH Emc Vina",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/07/2023_02_07______53218d96223bd2cc6cf63fca267a18e0.png",
-   "locations": [
-    "Bắc Ninh"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Tư vấn/ Chăm sóc khách hàng",
-   "datePosted": "2026-10-28",
-   "validThrough": "2026-10-30T23:59:59+07:00",
-   "description": "- Tư vấn, phân tích, tham vấn về Luật bảo vệ môi trường đến khách hàng.\n- Lập các hồ sơ về môi trường như: Báo cáo DTM, giấy phép môi trường, vận hành thử nghiệm...",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "Môi trường"
-   ],
-   "relevance": 68,
-   "firstSeenAt": "2026-10-18T12:29:15.804Z",
-   "fetchedAt": "2026-10-29T00:40:02.087Z",
-   "verifiedAt": "2026-10-29T00:40:02.087Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -14079,6 +13937,37 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
+   "id": "job123:vrzBmYV2r0",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-xu-ly-nuoc-thai-vrzBmYV2r0",
+   "title": "Nhân Viên Xử Lý Nước Thải",
+   "company": "Công Ty TNHH LONG Vương Hải Phòng",
+   "companyLogo": null,
+   "locations": [
+    "Hải Phòng"
+   ],
+   "salary": null,
+   "salaryText": "Đang cập nhật",
+   "expMonths": null,
+   "employmentType": "FULL_TIME",
+   "industry": "Kỹ thuật",
+   "datePosted": "2026-09-25",
+   "validThrough": "2026-10-21T23:59:59+07:00",
+   "description": "- Thông tin chi tiết khi phỏng vấn\n- Quản lý thiết bị hệ thống nước tinh khiết, hệ thống điều khiển công trình công cộng, hệ thống xử lý nước thải...",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "Chất thải/Nước thải"
+   ],
+   "relevance": 68,
+   "firstSeenAt": "2026-10-19T12:39:45.957Z",
+   "fetchedAt": "2026-10-23T00:33:40.524Z",
+   "verifiedAt": "2026-10-23T00:33:40.524Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
    "id": "job123:yreJzxkLqz",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/ky-su-quan-ly-tram-xu-ly-nuoc-thai-yreJzxkLqz",
@@ -14112,37 +14001,6 @@
    "firstSeenAt": "2026-10-19T00:28:43.769Z",
    "fetchedAt": "2026-10-22T00:33:42.217Z",
    "verifiedAt": "2026-10-22T00:33:42.217Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:vrzBmYV2r0",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-xu-ly-nuoc-thai-vrzBmYV2r0",
-   "title": "Nhân Viên Xử Lý Nước Thải",
-   "company": "Công Ty TNHH LONG Vương Hải Phòng",
-   "companyLogo": null,
-   "locations": [
-    "Hải Phòng"
-   ],
-   "salary": null,
-   "salaryText": "Đang cập nhật",
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Kỹ thuật",
-   "datePosted": "2026-09-25",
-   "validThrough": "2026-10-21T23:59:59+07:00",
-   "description": "- Thông tin chi tiết khi phỏng vấn\n- Quản lý thiết bị hệ thống nước tinh khiết, hệ thống điều khiển công trình công cộng, hệ thống xử lý nước thải...",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "Chất thải/Nước thải"
-   ],
-   "relevance": 68,
-   "firstSeenAt": "2026-10-19T12:39:45.957Z",
-   "fetchedAt": "2026-10-23T00:33:40.524Z",
-   "verifiedAt": "2026-10-23T00:33:40.524Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -14353,6 +14211,70 @@
    "firstSeenAt": "2026-10-22T12:36:33.870Z",
    "fetchedAt": "2026-10-22T12:36:33.870Z",
    "verifiedAt": "2026-10-22T12:36:33.870Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:yDNQME2dqz",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-phong-qc-ky-thuat-moi-truong-vung-tau-yDNQME2dqz",
+   "title": "NHÂN VIÊN PHÒNG QC – KỸ THUẬT – MÔI TRƯỜNG - VŨNG TÀU",
+   "company": "Công ty CP Kết nối nhân lực Worklink Việt Nam",
+   "companyLogo": null,
+   "locations": [
+    "Hồ Chí Minh"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "OTHER",
+   "industry": "Kỹ thuật",
+   "datePosted": "2026-10-29",
+   "validThrough": "2026-11-29T23:59:59+07:00",
+   "description": "Mô tả công việc\nLàm việc tại bộ phận Kỹ thuật chất lượng và Môi trường.\nCông việc kỹ thuật:\nThực hiện đánh giá tại phòng thí nghiệm, phân tích chất lượng giấy.\nPhân tích quy trình tại khách hàng, đánh giá mẫu giấy và tham dự giám sát kiểm tra máy thực tế.\nTổng hợp kết quả, soạn thảo và trình bày báo cáo.\nTiến hành phối trộn sản phẩm trong phòng thí nghiệm, điều chỉnh sản phẩm, xử lý sự cố sản xuất và nghiên cứu nguyên liệu mới.\nCông việc chất lượng:\nThực hiện hệ thống quản lý chất lượng (QMS).\nKiểm tra chất lượng sản phẩm, quản lý chất lượng và thực hiện kiểm định, hiệu　chuẩn các thiết bị đo lường.\nCông việc môi trường:\nKhông yêu cầu kinh nghiệm\nNam/Nữ, 20- 40 tuổi, tốt nghiệp CĐ/ ĐH chuyên ngành kỹ thuật trở lên\nLập và trình bày các báo cáo, tài liệu báo cáo về môi trường.\nƯu tiên có kinh nghiệm tương đương\nRequirements\nThực hiện hệ thống quản lý môi trường (EMS).\nYêu cầu\nTiếng Nhật N3 trở lên\nQuyền lợi\nLương: Thoả thuận trên kinh nghiệm thực tế\nThời gian làm việc: 8h~16:30 (nghỉ trưa 1 tiếng), T2~T7\nPhụ cấp tiếng Nhật: N2 1tr5, N1 2tr5, chuyên cần 300K\nVề cơ bản thì không phải lên công ty làm việc vào ngày thứ 7 (làm ở nhà). Nếu yêu cầu công việc bắt buộc phải lên công ty thì công ty sẽ có chỉ thị.\nĐược hưởng đầy đủ các chế độ theo Luật Lao động của Việt Nam.\nDu lịch công ty, tiệc bộ phận hàng quý, bảo hiểm 24/7, nghỉ phép 12 ngày + 2 ngày theo chế độ nặng nhọc độc hại, khám sức khỏe 2 lần/năm\nĐược tham gia BHYT, BHXH, BHTN theo đúng luật định",
+   "requirements": {
+    "degree": [
+     "Nam/Nữ, 20- 40 tuổi, tốt nghiệp CĐ/ ĐH chuyên ngành kỹ thuật trở lên"
+    ],
+    "certs": []
+   },
+   "tags": [
+    "Môi trường"
+   ],
+   "relevance": 68,
+   "firstSeenAt": "2026-10-29T12:43:03.737Z",
+   "fetchedAt": "2026-10-29T12:43:03.737Z",
+   "verifiedAt": "2026-10-29T12:43:03.737Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:3q273yZ7DM",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-tu-van-moi-truong-3q273yZ7DM",
+   "title": "NHÂN VIÊN TƯ VẤN MÔI TRƯỜNG",
+   "company": "Công Ty TNHH Emc Vina",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/07/2023_02_07______53218d96223bd2cc6cf63fca267a18e0.png",
+   "locations": [
+    "Bắc Ninh"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "FULL_TIME",
+   "industry": "Tư vấn/ Chăm sóc khách hàng",
+   "datePosted": "2026-10-28",
+   "validThrough": "2026-10-30T23:59:59+07:00",
+   "description": "- Tư vấn, phân tích, tham vấn về Luật bảo vệ môi trường đến khách hàng.\n- Lập các hồ sơ về môi trường như: Báo cáo DTM, giấy phép môi trường, vận hành thử nghiệm...",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "Môi trường"
+   ],
+   "relevance": 68,
+   "firstSeenAt": "2026-10-18T12:29:15.804Z",
+   "fetchedAt": "2026-10-29T00:40:02.087Z",
+   "verifiedAt": "2026-10-29T00:40:02.087Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -14598,39 +14520,6 @@
    "firstSeenAt": "2026-10-22T12:36:33.870Z",
    "fetchedAt": "2026-10-22T12:36:33.870Z",
    "verifiedAt": "2026-10-22T12:36:33.870Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:JDajZgdE9G",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-JDajZgdE9G",
-   "title": "Nhân Viên An Toàn Lao Động",
-   "company": "Công Ty TNHH NovaTech Bắc Ninh",
-   "companyLogo": null,
-   "locations": [
-    "Bắc Ninh"
-   ],
-   "salary": null,
-   "salaryText": "Đang cập nhật",
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Ngành nghề khác",
-   "datePosted": "2026-10-08",
-   "validThrough": "2026-10-23T23:59:59+07:00",
-   "description": "- Quản lý và giám sát các hoạt động an toàn trong nhà máy.\n- Quản lý đội An toàn – Vệ sinh viên- Cập nhật, lưu trữ và duy trì hồ sơ an toàn theo tiêu chuẩn RBA, ISO 45001 và quy định pháp luật Việt Nam- Chịu trách nhiệm đối ứng với cơ quan chức năng và khách hàng khi có các đợt thanh tra, kiểm tra về an toàn.",
-   "requirements": {
-    "degree": [],
-    "certs": [
-     "Quản lý đội An toàn – Vệ sinh viên- Cập nhật, lưu trữ và duy trì hồ sơ an toàn theo tiêu chuẩn RBA, ISO 45001 và quy định pháp luật Việt Nam- Chịu trách nhiệm đối ứng với cơ quan chức năng và khách hàng khi có các đợt thanh tra, kiểm tra về an toàn."
-    ]
-   },
-   "tags": [
-    "An toàn lao động"
-   ],
-   "relevance": 68,
-   "firstSeenAt": "2026-10-10T16:14:18.629Z",
-   "fetchedAt": "2026-10-21T00:31:55.965Z",
-   "verifiedAt": "2026-10-21T00:31:55.965Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -15067,37 +14956,6 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:4qQ4oj4orX",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-quan-he-lao-dong-ehs-4qQ4oj4orX",
-   "title": "Nhân Viên Quan Hệ Lao Động EHS",
-   "company": "WNC - Công Ty TNHH NEWEB Việt Nam",
-   "companyLogo": "https://cdn1.123job.vn/123job/uploads/2024/03/04/2024_03_04______4ed2672129aa23ab3d0c0a9cdf5287ca.jpg",
-   "locations": [
-    "Hà Nam"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Quan hệ đối ngoại",
-   "datePosted": "2026-09-25",
-   "validThrough": "2026-10-15T23:59:59+07:00",
-   "description": "- Lên kế hoạch tổ chức hội nghị người lao động- Khảo sát sự hài lòng của CBNV- Thực hiện khen thưởng, ký luật- Lên kế hoạch tổ chức các hoạt động gắn kết người lao động: du lịch, ngày hội gia đình, tất niên,…",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "HSE/EHS"
-   ],
-   "relevance": 60,
-   "firstSeenAt": "2026-10-13T12:21:50.749Z",
-   "fetchedAt": "2026-10-27T12:42:24.083Z",
-   "verifiedAt": "2026-10-27T12:42:24.083Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
    "id": "job123:1qwOaMyjq8",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/tuyen-dung-chuyen-vien-an-toan-lao-dong-1qwOaMyjq8",
@@ -15157,8 +15015,8 @@
    ],
    "relevance": 60,
    "firstSeenAt": "2026-10-22T12:36:33.870Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -15281,8 +15139,8 @@
    ],
    "relevance": 60,
    "firstSeenAt": "2026-10-18T12:29:15.804Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -15314,8 +15172,8 @@
    ],
    "relevance": 60,
    "firstSeenAt": "2026-10-18T12:29:15.804Z",
-   "fetchedAt": "2026-10-26T14:42:06.491Z",
-   "verifiedAt": "2026-10-26T14:42:06.491Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -15345,8 +15203,8 @@
    ],
    "relevance": 60,
    "firstSeenAt": "2026-10-18T12:29:15.804Z",
-   "fetchedAt": "2026-10-27T00:34:09.210Z",
-   "verifiedAt": "2026-10-27T00:34:09.210Z",
+   "fetchedAt": "2026-10-30T00:42:09.170Z",
+   "verifiedAt": "2026-10-30T00:42:09.170Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
