@@ -3,8 +3,8 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 121,
-   "at": "2026-10-30T00:39:30.955Z",
+   "count": 122,
+   "at": "2026-10-30T12:39:56.566Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
@@ -12,32 +12,32 @@
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
    "count": 36,
-   "at": "2026-10-30T00:39:30.955Z",
+   "at": "2026-10-30T12:39:56.566Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
   "careerlink": {
    "name": "CareerLink.vn",
    "ok": false,
-   "count": 102,
-   "at": "2026-10-30T00:39:30.955Z",
+   "count": 101,
+   "at": "2026-10-30T12:39:56.566Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
    "ok": true,
-   "count": 395,
-   "at": "2026-10-30T00:39:30.955Z",
+   "count": 394,
+   "at": "2026-10-30T12:39:56.566Z",
    "errors": [
     "không có JobPosting: https://123job.vn/viec-lam/ehs-unit-leader-BqP42x3Rqz",
-    "không có JobPosting: https://123job.vn/viec-lam/ehs-trainer-29ALj260DJ",
     "không có JobPosting: https://123job.vn/viec-lam/chuyen-vien-ehs-y9BwYxY0rA",
     "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-JDajzpnN9G",
+    "không có JobPosting: https://123job.vn/viec-lam/ehs-trainer-29ALj260DJ",
     "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-JD60wWWdrn"
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-10-30T00:39:30.955Z"
+ "generatedAt": "2026-10-30T12:39:56.566Z"
 }
