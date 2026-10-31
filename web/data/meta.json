@@ -3,8 +3,8 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 122,
-   "at": "2026-10-31T00:44:41.716Z",
+   "count": 125,
+   "at": "2026-10-31T12:37:17.207Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
@@ -12,7 +12,7 @@
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
    "count": 32,
-   "at": "2026-10-31T00:44:41.716Z",
+   "at": "2026-10-31T12:37:17.207Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -20,15 +20,15 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 101,
-   "at": "2026-10-31T00:44:41.716Z",
+   "at": "2026-10-31T12:37:17.207Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
    "ok": true,
-   "count": 382,
-   "at": "2026-10-31T00:44:41.716Z",
+   "count": 380,
+   "at": "2026-10-31T12:37:17.207Z",
    "errors": [
     "không có JobPosting: https://123job.vn/viec-lam/hse-supervisor-JDajAzM69G",
     "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-hse-PDboz51E9R",
@@ -39,5 +39,5 @@
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-10-31T00:44:41.716Z"
+ "generatedAt": "2026-10-31T12:37:17.207Z"
 }
