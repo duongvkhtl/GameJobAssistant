@@ -4,7 +4,7 @@
    "name": "Apple iTunes API",
    "ok": true,
    "count": 122,
-   "at": "2026-11-07T12:38:45.321Z",
+   "at": "2026-11-08T00:46:05.060Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
@@ -12,7 +12,7 @@
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
    "count": 24,
-   "at": "2026-11-07T12:38:45.321Z",
+   "at": "2026-11-08T00:46:05.060Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -20,7 +20,7 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 101,
-   "at": "2026-11-07T12:38:45.321Z",
+   "at": "2026-11-08T00:46:05.060Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
@@ -28,7 +28,7 @@
    "name": "123job.vn",
    "ok": true,
    "count": 364,
-   "at": "2026-11-07T12:38:45.321Z",
+   "at": "2026-11-08T00:46:05.060Z",
    "errors": [
     "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-hse-PDboz51E9R",
     "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-5qmEd7kNq8",
@@ -39,5 +39,5 @@
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-11-07T12:38:45.321Z"
+ "generatedAt": "2026-11-08T00:46:05.060Z"
 }

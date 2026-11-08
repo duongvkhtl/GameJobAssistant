@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T12:38:45.321Z",
+ "generatedAt": "2026-11-08T00:46:05.060Z",
  "items": [
   {
    "id": "apple:6817645832",
@@ -15,9 +15,9 @@
    "platforms": [
     "iOS"
    ],
-   "releaseDate": "2026-11-07",
+   "releaseDate": "2026-11-08",
    "releaseDateKind": "release",
-   "status": "released",
+   "status": "upcoming",
    "regions": [
     "App Store VN"
    ],
@@ -38,9 +38,9 @@
    "storeUrl": "https://apps.apple.com/vn/app/%E4%B8%89%E5%9C%8B%E5%B9%BB%E6%83%B3%E9%8C%84-%E9%96%8B%E5%B1%80%E9%80%815%E6%98%9F%E9%97%9C%E7%BE%BD/id6817645832",
    "source": "Apple App Store (iTunes API)",
    "sourceUrl": "https://apps.apple.com/vn/app/%E4%B8%89%E5%9C%8B%E5%B9%BB%E6%83%B3%E9%8C%84-%E9%96%8B%E5%B1%80%E9%80%815%E6%98%9F%E9%97%9C%E7%BE%BD/id6817645832",
-   "updatedAt": "2026-11-07T08:00:00Z",
+   "updatedAt": "2026-11-08T08:00:00Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6826951733",
@@ -85,7 +85,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/moonfall-lunar-combat/id6826951733",
    "updatedAt": "2026-11-03T02:56:11Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6824855959",
@@ -121,7 +121,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/tilewink-daily-word-puzzle/id6824855959",
    "updatedAt": "2026-11-03T02:38:53Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6826728933",
@@ -157,7 +157,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/pass-round-donkey-yard-cards/id6826728933",
    "updatedAt": "2026-11-03T02:26:51Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6764720109",
@@ -200,7 +200,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/retrovault-player/id6764720109",
    "updatedAt": "2026-11-06T16:58:08Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6825150864",
@@ -237,7 +237,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/ice-rush/id6825150864",
    "updatedAt": "2026-11-03T01:03:12Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6823715029",
@@ -273,7 +273,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/serpent-and-ladder-dice-race/id6823715029",
    "updatedAt": "2026-11-04T23:21:47Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6823714733",
@@ -309,7 +309,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/shogi-deluxe/id6823714733",
    "updatedAt": "2026-11-03T00:25:22Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6809471304",
@@ -358,7 +358,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/busbunch-passenger-sort/id6809471304",
    "updatedAt": "2026-11-03T00:23:46Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6824701648",
@@ -395,7 +395,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/driftwood-sailing-adventure/id6824701648",
    "updatedAt": "2026-11-04T14:59:52Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6821851251",
@@ -435,7 +435,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/mafia-god-party-narrator/id6821851251",
    "updatedAt": "2026-11-03T00:13:24Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6828150197",
@@ -471,7 +471,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/granhult-the-gate-watch/id6828150197",
    "updatedAt": "2026-11-03T00:00:53Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6821989431",
@@ -507,7 +507,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/boomerangers/id6821989431",
    "updatedAt": "2026-11-04T19:48:15Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6816385496",
@@ -548,7 +548,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/our-harmony/id6816385496",
    "updatedAt": "2026-11-02T23:43:12Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6827106904",
@@ -595,7 +595,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/idle-fishing-tycoon-sea-empire/id6827106904",
    "updatedAt": "2026-11-02T22:57:58Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6827546298",
@@ -630,7 +630,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/chum-rush/id6827546298",
    "updatedAt": "2026-11-04T23:15:40Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6825684311",
@@ -667,7 +667,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/waterpark-shop-simulator/id6825684311",
    "updatedAt": "2026-11-04T10:58:35Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6818368861",
@@ -703,7 +703,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/last-word-chain-puzzle-game/id6818368861",
    "updatedAt": "2026-11-04T14:57:12Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6827349396",
@@ -739,7 +739,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/plank-panic-horde-survivor/id6827349396",
    "updatedAt": "2026-11-02T21:58:26Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6526476899",
@@ -776,7 +776,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/agentpark/id6526476899",
    "updatedAt": "2026-11-02T21:49:55Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6809437870",
@@ -812,7 +812,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/orbyths/id6809437870",
    "updatedAt": "2026-11-02T22:09:21Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6819419194",
@@ -848,7 +848,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/cosmic-connect/id6819419194",
    "updatedAt": "2026-11-02T20:33:04Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6828430188",
@@ -885,7 +885,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/money-pit-digger/id6828430188",
    "updatedAt": "2026-11-02T16:47:08Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6829416890",
@@ -919,7 +919,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/asterloop/id6829416890",
    "updatedAt": "2026-11-02T20:41:34Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6829150728",
@@ -954,7 +954,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/babborun/id6829150728",
    "updatedAt": "2026-11-03T20:30:06Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6825580988",
@@ -988,7 +988,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/bank-shot-extreme/id6825580988",
    "updatedAt": "2026-11-04T18:51:15Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6825074197",
@@ -1025,7 +1025,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/bibliopuff/id6825074197",
    "updatedAt": "2026-11-02T12:14:14Z",
    "firstSeenAt": "2026-11-03T00:46:32.563Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6826007526",
@@ -1061,13 +1061,13 @@
    "sourceUrl": "https://apps.apple.com/vn/app/big-wella-animal-adventure/id6826007526",
    "updatedAt": "2026-11-02T23:03:49Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6829470825",
    "kind": "store",
-   "name": "Breath Runner",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/e4/20/81e4207b-5995-3237-252e-9b0b90eb3638/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+   "name": "Breath Runner: Relaxing Game",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/33/d0/6033d02e-d9e1-64bb-e477-590ae91a9076/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
    "genre": "Casual",
    "genres": [
     "Games",
@@ -1086,17 +1086,17 @@
     "EN"
    ],
    "supportsVietnamese": false,
-   "description": "Breath Runner is a gentle game about slowing down.\n\nGuide a drifting leaf across soft, misty hills. Hold to breathe in and the leaf rises; release to breathe out and it floats down. Glide through golden rings to build your calm score, and weave past branches — you have three leaves per run.\n\nA soft on-screen guide and gentle haptics pace each breath, so the rhythm of the game becomes the rhythm of your breathing.\n\nBREATH MODE\nWant to play hands-free? Turn on optional breath mode and steer with your actual breath: breathe in quietly to rise, exhale audibly to drift down. Breath mode is off by d",
+   "description": "A relaxing game you play with your breath. Hold to breathe in and your leaf rises; release to breathe out and it drifts down across soft, misty hills.\nTurn on breath mode and steer hands-free with your real breathing.\nNo ads, no accounts, no in-app purchases. Just a calm few minutes.\n\nHOW IT PLAYS\n• Glide through golden rings to build your calm score\n• Weave past branches, with three leaves per run\n• A soft guide and gentle haptics pace each breath\n\nBREATH MODE\n• Optional: breathe in quietly to rise, exhale audibly to drift down\n• Off by default; audio is never recorded or stored\n\nFEATURES\n• O",
    "developer": "Josh von Gersdorff",
    "rating": null,
    "price": "29.000đ",
    "requirements": "iOS 26.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/breath-runner/id6829470825",
+   "storeUrl": "https://apps.apple.com/vn/app/breath-runner-relaxing-game/id6829470825",
    "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/breath-runner/id6829470825",
-   "updatedAt": "2026-11-02T20:38:34Z",
+   "sourceUrl": "https://apps.apple.com/vn/app/breath-runner-relaxing-game/id6829470825",
+   "updatedAt": "2026-11-07T19:51:23Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6826628802",
@@ -1132,7 +1132,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/broadside-pirate-adventures/id6826628802",
    "updatedAt": "2026-11-02T21:13:32Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6828510138",
@@ -1168,7 +1168,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/colleens-no-ad-word-game/id6828510138",
    "updatedAt": "2026-11-02T23:33:22Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6819962652",
@@ -1204,7 +1204,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/desk-wars-2-money-games/id6819962652",
    "updatedAt": "2026-11-02T23:07:06Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6824815009",
@@ -1240,7 +1240,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/drawmage/id6824815009",
    "updatedAt": "2026-11-02T19:26:03Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6829496048",
@@ -1276,7 +1276,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/elijah-saves-christmas/id6829496048",
    "updatedAt": "2026-11-05T13:47:41Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6829270491",
@@ -1312,7 +1312,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/elijahs-halloween-quest/id6829270491",
    "updatedAt": "2026-11-05T00:43:49Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6826056780",
@@ -1350,7 +1350,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/fieldline-squad-combat/id6826056780",
    "updatedAt": "2026-11-02T08:00:00Z",
    "firstSeenAt": "2026-11-03T00:46:32.563Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6818596748",
@@ -1386,7 +1386,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/first-catch/id6818596748",
    "updatedAt": "2026-11-02T08:00:00Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6828398936",
@@ -1423,7 +1423,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/forno-wood-fired-pizza/id6828398936",
    "updatedAt": "2026-11-02T20:28:42Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6803825299",
@@ -1478,7 +1478,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/chi%E1%BA%BFn-th%C3%BA-h%E1%BB%97n-chi%E1%BA%BFn/id6803825299",
    "updatedAt": "2026-11-05T03:27:25Z",
    "firstSeenAt": "2026-10-14T00:27:55.129Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6760513582",
@@ -1531,7 +1531,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/meow-knights-cat-idle-rpg/id6760513582",
    "updatedAt": "2026-11-04T00:16:11Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6801344210",
@@ -1592,7 +1592,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/riftly-idle-pixel-dungeon/id6801344210",
    "updatedAt": "2026-11-06T22:41:48Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6805060854",
@@ -1632,7 +1632,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/mortal-to-immortal-idle-rpg/id6805060854",
    "updatedAt": "2026-10-21T07:51:33Z",
    "firstSeenAt": "2026-10-26T00:34:01.020Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6766190033",
@@ -1681,7 +1681,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/soul-strike-idle-rpg/id6766190033",
    "updatedAt": "2026-10-28T02:02:14Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6824921322",
@@ -1737,7 +1737,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/riftborn-idle-rpg/id6824921322",
    "updatedAt": "2026-11-06T20:52:20Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6801541379",
@@ -1776,7 +1776,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/epic-idle-journey-rpg-battle/id6801541379",
    "updatedAt": "2026-10-17T00:42:27Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6775778491",
@@ -1818,7 +1818,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/lo%E1%BA%A1n-th%E1%BA%BF-3q-th%E1%BA%A7n-ma-l%E1%BB%87nh-oeg/id6775778491",
    "updatedAt": "2026-11-06T02:24:50Z",
    "firstSeenAt": "2026-10-27T00:29:20.637Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6788215554",
@@ -1868,7 +1868,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/archer-castle-afk-idle-rpg/id6788215554",
    "updatedAt": "2026-10-31T11:25:13Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6790351494",
@@ -1913,7 +1913,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/blade-shield-girl-idle-rpg/id6790351494",
    "updatedAt": "2026-10-15T06:11:14Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6803640658",
@@ -1953,7 +1953,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/realm-of-legends/id6803640658",
    "updatedAt": "2026-11-04T21:38:25Z",
    "firstSeenAt": "2026-10-28T12:39:21.374Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6742809054",
@@ -1997,7 +1997,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/majo-apocalypse-tactics-rpg/id6742809054",
    "updatedAt": "2026-10-07T02:20:01Z",
    "firstSeenAt": "2026-10-14T00:27:55.129Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6790783620",
@@ -2056,7 +2056,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/infinite-loot-loop-rpg/id6790783620",
    "updatedAt": "2026-11-05T21:44:35Z",
    "firstSeenAt": "2026-10-14T00:27:55.129Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6768233176",
@@ -2086,7 +2086,7 @@
    "developer": "MOCGAME JOINT STOCK PTE. LTD.",
    "rating": {
     "value": 4.9,
-    "count": 3506,
+    "count": 3567,
     "by": "App Store"
    },
    "price": "Free",
@@ -2096,7 +2096,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/tarot-v%C4%A9nh-h%E1%BA%B1ng-th%E1%BA%A7n-ng%E1%BB%AF/id6768233176",
    "updatedAt": "2026-11-02T02:49:07Z",
    "firstSeenAt": "2026-10-21T12:30:31.023Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6788977486",
@@ -2140,7 +2140,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/kamnyang-knight-idle-rpg/id6788977486",
    "updatedAt": "2026-10-27T01:42:32Z",
    "firstSeenAt": "2026-10-21T12:30:31.023Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6762611733",
@@ -2196,7 +2196,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/my-little-goddess-idle-rpg/id6762611733",
    "updatedAt": "2026-11-04T02:16:24Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6757690255",
@@ -2238,7 +2238,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/gale-knights-idle-rpg/id6757690255",
    "updatedAt": "2026-10-23T01:30:05Z",
    "firstSeenAt": "2026-10-24T12:24:43.501Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6791394610",
@@ -2282,7 +2282,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/champion-forge-idle-rpg/id6791394610",
    "updatedAt": "2026-11-03T06:28:44Z",
    "firstSeenAt": "2026-10-24T12:24:43.501Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6804233701",
@@ -2318,7 +2318,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/loot-guild-idle-rpg/id6804233701",
    "updatedAt": "2026-11-04T21:43:02Z",
    "firstSeenAt": "2026-10-21T12:30:31.023Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6758706577",
@@ -2358,7 +2358,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/giang-h%E1%BB%93-trong-tay/id6758706577",
    "updatedAt": "2026-08-23T07:27:00Z",
    "firstSeenAt": "2026-10-28T12:39:21.374Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6758699179",
@@ -2402,7 +2402,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/kh%E1%BA%BF-%C6%B0%E1%BB%9Bc-r%E1%BB%93ng/id6758699179",
    "updatedAt": "2026-09-17T04:37:03Z",
    "firstSeenAt": "2026-10-27T12:34:54.621Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6783718862",
@@ -2449,7 +2449,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/idle-last-shelter/id6783718862",
    "updatedAt": "2026-11-06T04:11:40Z",
    "firstSeenAt": "2026-10-21T12:30:31.023Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:1666196398",
@@ -2488,7 +2488,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/idle-oil-empire/id1666196398",
    "updatedAt": "2026-10-28T17:06:35Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6771715056",
@@ -2537,7 +2537,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/my-little-village/id6771715056",
    "updatedAt": "2026-10-16T14:33:44Z",
    "firstSeenAt": "2026-10-11T00:19:28.359Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6787988987",
@@ -2580,7 +2580,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/fish-away-idle-fishing/id6787988987",
    "updatedAt": "2026-11-05T19:08:16Z",
    "firstSeenAt": "2026-11-02T00:46:18.520Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6776496278",
@@ -2620,7 +2620,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/idle-td-ph%C3%B2ng-th%E1%BB%A7-h%E1%BA%AFc-%C3%A1m/id6776496278",
    "updatedAt": "2026-11-02T22:39:52Z",
    "firstSeenAt": "2026-11-01T12:38:08.439Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6801753585",
@@ -2674,7 +2674,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/abyss-crawler-idle-loot-rpg/id6801753585",
    "updatedAt": "2026-11-06T01:10:07Z",
    "firstSeenAt": "2026-11-01T12:38:08.439Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6757416717",
@@ -2716,7 +2716,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/grim-reaper-idle-medieval-arc/id6757416717",
    "updatedAt": "2026-10-29T05:12:16Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6812189088",
@@ -2770,7 +2770,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/age-of-stickman-idle-rpg/id6812189088",
    "updatedAt": "2026-10-27T02:10:56Z",
    "firstSeenAt": "2026-10-31T12:37:17.207Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6751321112",
@@ -2813,7 +2813,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/isekai-reset-idle-rpg/id6751321112",
    "updatedAt": "2026-10-21T07:00:00Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6768921423",
@@ -2871,7 +2871,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/steelborn-tank-idle-rpg/id6768921423",
    "updatedAt": "2026-11-02T12:51:28Z",
    "firstSeenAt": "2026-10-21T00:27:55.824Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6813402130",
@@ -2924,7 +2924,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/ww2-idle-tank-factory/id6813402130",
    "updatedAt": "2026-09-30T20:19:37Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6782027063",
@@ -2971,7 +2971,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/idle-fishing-charter/id6782027063",
    "updatedAt": "2026-11-02T02:12:09Z",
    "firstSeenAt": "2026-11-04T12:51:33.028Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6803383745",
@@ -3025,7 +3025,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/infinite-defense-idle-td-game/id6803383745",
    "updatedAt": "2026-10-28T13:28:37Z",
    "firstSeenAt": "2026-10-21T00:27:55.824Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6761125316",
@@ -3090,7 +3090,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/reactor-2-idle-nuclear-tycoon/id6761125316",
    "updatedAt": "2026-10-28T21:43:12Z",
    "firstSeenAt": "2026-10-18T12:22:05.751Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6820452501",
@@ -3132,7 +3132,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/yaksha-hunter-yokai-idle-rpg/id6820452501",
    "updatedAt": "2026-11-06T01:12:57Z",
    "firstSeenAt": "2026-11-04T12:51:33.028Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6795253167",
@@ -3173,7 +3173,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/quiet-grind-idle-rpg/id6795253167",
    "updatedAt": "2026-10-31T08:42:43Z",
    "firstSeenAt": "2026-11-06T00:50:18.392Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6752849675",
@@ -3220,7 +3220,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/supermarket-tycoon-empire/id6752849675",
    "updatedAt": "2026-11-05T21:35:26Z",
    "firstSeenAt": "2026-11-04T00:45:12.024Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6816922141",
@@ -3267,7 +3267,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/hoop-life-idle-game/id6816922141",
    "updatedAt": "2026-10-08T13:58:31Z",
    "firstSeenAt": "2026-10-24T12:24:43.501Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6753163785",
@@ -3314,7 +3314,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/cat-city-idle-tycoon-games/id6753163785",
    "updatedAt": "2026-10-28T16:55:46Z",
    "firstSeenAt": "2026-11-03T00:46:32.563Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6759914688",
@@ -3362,7 +3362,47 @@
    "sourceUrl": "https://apps.apple.com/vn/app/furry-fighters-idle-rpg/id6759914688",
    "updatedAt": "2026-11-05T10:25:25Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
+  },
+  {
+   "id": "apple:6761036123",
+   "kind": "store",
+   "name": "Girls' Frontline 2: Lưu Đày",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/81/4d/ce814db0-20a3-c433-c354-c10d23836376/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+   "genre": "Strategy",
+   "genres": [
+    "Games",
+    "Strategy",
+    "Role-Playing"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-08-25",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "VI"
+   ],
+   "supportsVietnamese": true,
+   "description": "Quyết định phát hành trò chơi điện tử G1 trên mạng số 236/QĐ-PTTH&TTĐT do Cục Phát Thanh, Truyền Hình và Thông Tin Điện Tử cấp ngày 09/04/2026.\n\nMột kỷ nguyên khép lại, kỷ nguyên mới mở ra. Một thế lực suy tàn, một thế lực trỗi dậy… Những người mang ngọn đuốc sẽ soi sáng thế giới mới đầy dũng cảm phía trước.\nSau khi cắt đứt mối liên hệ với G&K, Chỉ Huy từ biệt quá khứ và tiến vào vùng ô nhiễm. Trên hành trình ấy, họ gặp gỡ ngày càng nhiều cá nhân và các Doll. Mỗi người mang một câu chuyện riêng, và dần trở thành những mảnh ghép không thể thiếu trong đội hình của Chỉ Huy.\nVốn chỉ mong hoàn thàn",
+   "developer": "THS GAME JOIN STOCK COMPANY",
+   "rating": {
+    "value": 3.7,
+    "count": 108,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 13.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/girls-frontline-2-l%C6%B0u-%C4%91%C3%A0y/id6761036123",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/girls-frontline-2-l%C6%B0u-%C4%91%C3%A0y/id6761036123",
+   "updatedAt": "2026-10-28T23:39:09Z",
+   "firstSeenAt": "2026-11-08T00:46:05.060Z",
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6780936724",
@@ -3402,57 +3442,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/warnament-grand-strategy/id6780936724",
    "updatedAt": "2026-10-12T22:43:54Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
-  },
-  {
-   "id": "apple:6777958774",
-   "kind": "store",
-   "name": "Tribal Clash",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/6b/b8/aa6bb82a-a739-848e-3ba1-ae1dd691ea87/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-   "genre": "Strategy",
-   "genres": [
-    "Games",
-    "Strategy",
-    "Simulation"
-   ],
-   "platforms": [
-    "iOS"
-   ],
-   "releaseDate": "2026-07-17",
-   "releaseDateKind": "release",
-   "status": "released",
-   "regions": [
-    "App Store VN"
-   ],
-   "languages": [
-    "AR",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "JA",
-    "PT",
-    "RU",
-    "ZH",
-    "ES",
-    "ZH"
-   ],
-   "supportsVietnamese": false,
-   "description": "Lead your army to victory in an exciting real-time strategy battlefield!\n\nRecruit powerful heroes, train elite troops, and develop your own battle tactics. Command different unit types, strengthen your forces, and defeat enemies through strategic planning and skillful deployment.\n\nGame Features:\n• Real-time strategic battles\n• Diverse heroes and troop combinations\n• Upgrade and train powerful units\n• Multiple battle maps and challenges\n• Competitive ranking system\n• Easy to learn, difficult to master\n\nBuild your army, conquer your opponents, and become the ultimate commander!",
-   "developer": "Voodoo",
-   "rating": {
-    "value": 4.7,
-    "count": 223,
-    "by": "App Store"
-   },
-   "price": "Free",
-   "requirements": "iOS 15.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/tribal-clash/id6777958774",
-   "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/tribal-clash/id6777958774",
-   "updatedAt": "2026-10-28T19:16:55Z",
-   "firstSeenAt": "2026-11-07T00:46:05.573Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6764057351",
@@ -3491,7 +3481,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/pixglow-color-sort-puzzle/id6764057351",
    "updatedAt": "2026-10-27T21:39:21Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6789040217",
@@ -3547,7 +3537,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/colordoku-logic-puzzle/id6789040217",
    "updatedAt": "2026-10-27T01:28:01Z",
    "firstSeenAt": "2026-11-07T00:46:05.573Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6791427742",
@@ -3600,7 +3590,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/people-jam-seat-puzzle/id6791427742",
    "updatedAt": "2026-10-22T01:52:01Z",
    "firstSeenAt": "2026-10-13T00:22:11.971Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6798184270",
@@ -3638,7 +3628,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/coinfall-merge-puzzle/id6798184270",
    "updatedAt": "2026-10-13T10:16:33Z",
    "firstSeenAt": "2026-11-05T00:49:35.265Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6798905825",
@@ -3676,7 +3666,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/minimuses/id6798905825",
    "updatedAt": "2026-10-31T12:29:48Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6761761522",
@@ -3732,7 +3722,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/pixel-defenders-merge-td-game/id6761761522",
    "updatedAt": "2026-11-07T00:27:48Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6782771784",
@@ -3783,7 +3773,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/dungeon-odyssey/id6782771784",
    "updatedAt": "2026-11-04T04:57:01Z",
    "firstSeenAt": "2026-11-02T12:52:23.328Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6769701683",
@@ -3823,7 +3813,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/%C4%91%E1%BB%99i-t%C6%B0%E1%BB%9Bng-nh%C3%AD-nh%E1%BB%91/id6769701683",
    "updatedAt": "2026-10-20T07:07:57Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6808331835",
@@ -3859,7 +3849,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/tomo-gacha-digital-sim-world/id6808331835",
    "updatedAt": "2026-10-09T07:00:00Z",
    "firstSeenAt": "2026-11-07T00:46:05.573Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6789188503",
@@ -3900,7 +3890,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/m%E1%BB%99ng-thi%C3%AAn-ki%E1%BA%BFm-digigames/id6789188503",
    "updatedAt": "2026-10-24T10:32:52Z",
    "firstSeenAt": "2026-10-30T12:39:56.566Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6801368552",
@@ -3945,7 +3935,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/squishy-butter/id6801368552",
    "updatedAt": "2026-11-06T02:15:02Z",
    "firstSeenAt": "2026-10-19T12:32:11.429Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6754063550",
@@ -3986,7 +3976,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/lucky-pirates-ahoy/id6754063550",
    "updatedAt": "2026-11-04T02:09:34Z",
    "firstSeenAt": "2026-11-05T00:49:35.265Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6773619868",
@@ -4027,7 +4017,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/3q-g%E1%BB%8Di-t%C6%B0%E1%BB%9Bng-%C4%91i/id6773619868",
    "updatedAt": "2026-10-22T16:02:00Z",
    "firstSeenAt": "2026-10-21T00:27:55.824Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6789180274",
@@ -4085,7 +4075,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/gravewalker-roguelike-rpg/id6789180274",
    "updatedAt": "2026-08-31T21:46:34Z",
    "firstSeenAt": "2026-11-07T00:46:05.573Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6798101352",
@@ -4135,7 +4125,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/legacy-xi-ultimate-draft/id6798101352",
    "updatedAt": "2026-11-03T15:32:54Z",
    "firstSeenAt": "2026-11-02T12:52:23.328Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6815836570",
@@ -4171,7 +4161,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/lumenfall-action-mmorpg/id6815836570",
    "updatedAt": "2026-11-01T03:45:28Z",
    "firstSeenAt": "2026-11-05T00:49:35.265Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6776991025",
@@ -4210,7 +4200,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/zoo-prank-animal-simulator/id6776991025",
    "updatedAt": "2026-10-15T02:28:38Z",
    "firstSeenAt": "2026-11-07T00:46:05.573Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6802751999",
@@ -4250,7 +4240,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/zerolife-life-simulator/id6802751999",
    "updatedAt": "2026-11-06T01:32:06Z",
    "firstSeenAt": "2026-11-05T12:55:30.702Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6757908157",
@@ -4290,7 +4280,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/jojos-bizarre-adventure-gs/id6757908157",
    "updatedAt": "2026-08-13T07:00:00Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6761461013",
@@ -4350,7 +4340,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/gt-rivals-real-racing-sim/id6761461013",
    "updatedAt": "2026-10-29T09:13:57Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6793816422",
@@ -4386,7 +4376,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/formula-ride/id6793816422",
    "updatedAt": "2026-10-31T18:03:24Z",
    "firstSeenAt": "2026-10-31T12:37:17.207Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6810319396",
@@ -4427,7 +4417,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/geoprix-world-racing-sim/id6810319396",
    "updatedAt": "2026-10-27T19:57:51Z",
    "firstSeenAt": "2026-11-07T00:46:05.573Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6811774174",
@@ -4466,7 +4456,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/ramp-rider-moto-trials-jump/id6811774174",
    "updatedAt": "2026-10-20T00:21:53Z",
    "firstSeenAt": "2026-11-07T00:46:05.573Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6792741328",
@@ -4503,7 +4493,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/phom-t%C3%A1-l%E1%BA%A3-offline-card-game/id6792741328",
    "updatedAt": "2026-10-26T01:10:39Z",
    "firstSeenAt": "2026-10-21T00:27:55.824Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6746827417",
@@ -4543,47 +4533,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/%C4%91%E1%BA%A1o-h%E1%BB%AFu-xin-d%E1%BB%ABng-b%C6%B0%E1%BB%9Bc-tu-ti%C3%AAn/id6746827417",
    "updatedAt": "2026-09-03T04:04:49Z",
    "firstSeenAt": "2026-11-03T00:46:32.563Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
-  },
-  {
-   "id": "apple:6778374291",
-   "kind": "store",
-   "name": "Huyền Thoại Hương Cảng",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/5c/d7/695cd70c-1793-1ad6-76ad-26694f5753ad/AppIcon-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
-   "genre": "Role-Playing",
-   "genres": [
-    "Games",
-    "Role-Playing",
-    "Card"
-   ],
-   "platforms": [
-    "iOS"
-   ],
-   "releaseDate": "2026-07-29",
-   "releaseDateKind": "release",
-   "status": "released",
-   "regions": [
-    "App Store VN"
-   ],
-   "languages": [
-    "VI"
-   ],
-   "supportsVietnamese": true,
-   "description": "Huyền Thoại Hương Cảng là game mobile RPG thẻ tướng được cấp phép chính thức từ IP truyện tranh Người Trong Giang Hồ. Tái hiện trọn vẹn cốt truyện nguyên tác, mở ra chương mới đang chờ bạn viết tiếp!\n\n[Đấu đối kháng màn hình ngang cực đã]\nChuỗi combo liên hoàn, truy kích ra đòn mạnh mẽ mang đến trải nghiệm chiến đấu đã tay. Kết hợp hiệu ứng kỹ năng mãn nhãn, đưa bạn sống lại cảm giác “đại chiến đường phố” kinh điển của game thùng ngày xưa.\n\n[Dàn nhân vật kinh điển hội tụ]\nTrần Hạo Nam, Sơn Kê, Đại Thiên Nhị, Bao Bì, Đại Đầu, Đại Phi, Thập Tam Muội, Tưởng Thiên Dưỡng cùng nhiều nhân vật máu mặt",
-   "developer": "VELALIVE COMPANY LIMITED",
-   "rating": {
-    "value": 4.7,
-    "count": 389,
-    "by": "App Store"
-   },
-   "price": "Free",
-   "requirements": "iOS 12.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/huy%E1%BB%81n-tho%E1%BA%A1i-h%C6%B0%C6%A1ng-c%E1%BA%A3ng/id6778374291",
-   "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/huy%E1%BB%81n-tho%E1%BA%A1i-h%C6%B0%C6%A1ng-c%E1%BA%A3ng/id6778374291",
-   "updatedAt": "2026-08-13T03:20:15Z",
-   "firstSeenAt": "2026-11-05T12:55:30.702Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6819923986",
@@ -4620,7 +4570,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/coastal-defense-kingdom-td/id6819923986",
    "updatedAt": "2026-10-28T02:44:16Z",
    "firstSeenAt": "2026-11-01T12:38:08.439Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6805691988",
@@ -4704,7 +4654,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/merge-tower-defense-infinite/id6805691988",
    "updatedAt": "2026-11-04T10:53:06Z",
    "firstSeenAt": "2026-10-25T12:24:27.279Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6806354022",
@@ -4755,7 +4705,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/inktower-idle-tower-defense/id6806354022",
    "updatedAt": "2026-10-24T18:44:42Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6802927929",
@@ -4803,7 +4753,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/gear-plants-merge-defense/id6802927929",
    "updatedAt": "2026-11-05T02:16:01Z",
    "firstSeenAt": "2026-11-04T12:51:33.028Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6778697840",
@@ -4846,7 +4796,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/bunker-taptap-defense/id6778697840",
    "updatedAt": "2026-11-01T17:05:41Z",
    "firstSeenAt": "2026-10-15T00:27:20.126Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6758385728",
@@ -4902,7 +4852,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/soldier-defense/id6758385728",
    "updatedAt": "2026-11-05T04:52:38Z",
    "firstSeenAt": "2026-10-21T00:27:55.824Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6770472801",
@@ -4941,7 +4891,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/pof-con-%C4%91%C6%B0%E1%BB%9Dng-ma-ph%C3%A1p/id6770472801",
    "updatedAt": "2026-09-23T02:21:16Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6757860952",
@@ -5006,7 +4956,57 @@
    "sourceUrl": "https://apps.apple.com/vn/app/9-kings/id6757860952",
    "updatedAt": "2026-10-26T08:59:06Z",
    "firstSeenAt": "2026-10-20T12:29:41.582Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
+  },
+  {
+   "id": "apple:6777958774",
+   "kind": "store",
+   "name": "Tribal Clash",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/6b/b8/aa6bb82a-a739-848e-3ba1-ae1dd691ea87/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+   "genre": "Strategy",
+   "genres": [
+    "Games",
+    "Strategy",
+    "Simulation"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-07-17",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "AR",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "supportsVietnamese": false,
+   "description": "Lead your army to victory in an exciting real-time strategy battlefield!\n\nRecruit powerful heroes, train elite troops, and develop your own battle tactics. Command different unit types, strengthen your forces, and defeat enemies through strategic planning and skillful deployment.\n\nGame Features:\n• Real-time strategic battles\n• Diverse heroes and troop combinations\n• Upgrade and train powerful units\n• Multiple battle maps and challenges\n• Competitive ranking system\n• Easy to learn, difficult to master\n\nBuild your army, conquer your opponents, and become the ultimate commander!",
+   "developer": "Voodoo",
+   "rating": {
+    "value": 4.7,
+    "count": 223,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/tribal-clash/id6777958774",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/tribal-clash/id6777958774",
+   "updatedAt": "2026-10-28T19:16:55Z",
+   "firstSeenAt": "2026-11-07T00:46:05.573Z",
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6793532611",
@@ -5050,7 +5050,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/offline-tower-defence-ai-war/id6793532611",
    "updatedAt": "2026-11-05T11:39:24Z",
    "firstSeenAt": "2026-11-05T00:49:35.265Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6796484933",
@@ -5096,7 +5096,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/rotgun-merge-tower-defen%D1%81e/id6796484933",
    "updatedAt": "2026-10-27T13:56:14Z",
    "firstSeenAt": "2026-11-06T00:50:18.392Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6825620777",
@@ -5136,7 +5136,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/ufo-siege-tower-defense/id6825620777",
    "updatedAt": "2026-11-06T16:58:21Z",
    "firstSeenAt": "2026-11-04T12:51:33.028Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6760989993",
@@ -5183,7 +5183,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/gear-heroes-magic-defense/id6760989993",
    "updatedAt": "2026-08-12T23:00:59Z",
    "firstSeenAt": "2026-11-05T12:55:30.702Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6800611110",
@@ -5221,7 +5221,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/snake-away-casual-puzzle/id6800611110",
    "updatedAt": "2026-11-04T02:56:22Z",
    "firstSeenAt": "2026-11-02T00:46:18.520Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:1498869533",
@@ -5259,7 +5259,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/love-pins/id1498869533",
    "updatedAt": "2026-11-04T08:00:00Z",
    "firstSeenAt": "2026-11-05T12:55:30.702Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
    "id": "apple:6793924927",
@@ -5319,27 +5319,25 @@
    "sourceUrl": "https://apps.apple.com/vn/app/rotate-rings/id6793924927",
    "updatedAt": "2026-11-05T02:15:31Z",
    "firstSeenAt": "2026-11-06T00:50:18.392Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   },
   {
-   "id": "pocketgamer:https://www.pocketgamer.com/ungodly/new-gameplay-trailer-and-iphone-duo/",
+   "id": "pocketgamer:https://www.pocketgamer.com/dragonheir-silent-gods/tier-list/",
    "kind": "news",
-   "name": "UnGodly shows off bloody good barbarian action in its new gameplay trailer",
-   "icon": "https://media.pocketgamer.com/artwork/na-37466-1793964832/ungodly-gameplay-screenshot.jpg",
+   "name": "Dragonheir tier list - Characters ranked by elemental type",
+   "icon": "https://media.pocketgamer.com/artwork/ra-95145-1691073553/pg-dragonheir-tier-list-img-header.jpg",
    "status": "upcoming",
-   "platforms": [
-    "iOS"
-   ],
-   "platformNote": "Nền tảng suy ra từ nội dung tin",
+   "platforms": [],
+   "platformNote": "Tin không nêu rõ nền tảng",
    "regions": [],
-   "announcedAt": "2026-11-06",
+   "announcedAt": "2026-11-07",
    "releaseDate": null,
-   "description": "Of all the upcoming releases we've covered, one that's kept my curiosity is UnGodly, the upcoming hack 'n slash RPG from Azra Games and Mark Otero, one of the key figures behind Star Wars: Galaxy of Heroes. And in its most recent gameplay trailer, we not only got the announcement that it would be coming to iPhone Duo, but also a good look at its gameplay!\nIt's easy to see why UnGodly is so consist",
+   "description": "Updated on November 7th, 2026 - Version: 0.335.194360 - Added: Cia (The Weeping Nun), Celestine, Cyanos (The Librarian), Riviel (The Bloodspike), Holfast (The Carping Scholar), Fyrenzur (The Fire Wielder), Amalfriede (The Impure), Longbeau (The Duke), Tallyn (The Fort Commander)\nLet's talk about one of the latest popular MMORPGs, Dragonheir: Silent Gods. If you are a new player, it's important to ",
    "source": "Pocket Gamer",
-   "sourceUrl": "https://www.pocketgamer.com/ungodly/new-gameplay-trailer-and-iphone-duo/",
-   "updatedAt": "2026-11-06T17:00:00.000Z",
-   "firstSeenAt": "2026-11-07T00:46:05.573Z",
-   "fetchedAt": "2026-11-07T12:38:45.321Z"
+   "sourceUrl": "https://www.pocketgamer.com/dragonheir-silent-gods/tier-list/",
+   "updatedAt": "2026-11-07T04:27:00.000Z",
+   "firstSeenAt": "2026-11-08T00:46:05.060Z",
+   "fetchedAt": "2026-11-08T00:46:05.060Z"
   }
  ]
 }
