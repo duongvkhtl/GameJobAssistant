@@ -3,8 +3,8 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 139,
-   "at": "2026-11-13T05:31:42.682Z",
+   "count": 134,
+   "at": "2026-11-13T19:19:42.009Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
@@ -12,23 +12,23 @@
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
    "count": 28,
-   "at": "2026-11-13T05:31:42.682Z",
+   "at": "2026-11-13T19:19:42.009Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
   "careerlink": {
    "name": "CareerLink.vn",
    "ok": false,
-   "count": 91,
-   "at": "2026-11-13T05:31:42.682Z",
+   "count": 87,
+   "at": "2026-11-13T19:19:42.009Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
    "ok": true,
-   "count": 370,
-   "at": "2026-11-13T05:31:42.682Z",
+   "count": 375,
+   "at": "2026-11-13T19:19:42.009Z",
    "errors": [
     "không có JobPosting: https://123job.vn/viec-lam/chuyen-vien-hse-an-toan-lao-dong-wDWZoEY0qe",
     "không có JobPosting: https://123job.vn/viec-lam/chuyen-vien-an-toan-ehshse-tieng-trung-mrEQ0ma0ra",
@@ -39,5 +39,5 @@
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-11-13T05:31:42.682Z"
+ "generatedAt": "2026-11-13T19:19:42.009Z"
 }
