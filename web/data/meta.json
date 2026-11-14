@@ -3,8 +3,8 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 134,
-   "at": "2026-11-13T19:19:42.009Z",
+   "count": 136,
+   "at": "2026-11-14T05:23:08.007Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
@@ -12,7 +12,7 @@
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
    "count": 28,
-   "at": "2026-11-13T19:19:42.009Z",
+   "at": "2026-11-14T05:23:08.007Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -20,24 +20,24 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 87,
-   "at": "2026-11-13T19:19:42.009Z",
+   "at": "2026-11-14T05:23:08.007Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
    "ok": true,
-   "count": 375,
-   "at": "2026-11-13T19:19:42.009Z",
+   "count": 364,
+   "at": "2026-11-14T05:23:08.007Z",
    "errors": [
     "không có JobPosting: https://123job.vn/viec-lam/chuyen-vien-hse-an-toan-lao-dong-wDWZoEY0qe",
     "không có JobPosting: https://123job.vn/viec-lam/chuyen-vien-an-toan-ehshse-tieng-trung-mrEQ0ma0ra",
     "không có JobPosting: https://123job.vn/viec-lam/hse-junior-engineer-ky-su-hse-tieng-anh-BDnBzOOQDR",
-    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-KqLaO7olD1",
-    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-5qmEd7kNq8"
+    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-W9pXMeV49p",
+    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-KqLaO7olD1"
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-11-13T19:19:42.009Z"
+ "generatedAt": "2026-11-14T05:23:08.007Z"
 }
