@@ -3,8 +3,8 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 138,
-   "at": "2026-11-14T17:44:30.956Z",
+   "count": 142,
+   "at": "2026-11-15T05:19:06.182Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
@@ -12,7 +12,7 @@
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
    "count": 26,
-   "at": "2026-11-14T17:44:30.956Z",
+   "at": "2026-11-15T05:19:06.182Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -20,24 +20,23 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 83,
-   "at": "2026-11-14T17:44:30.956Z",
+   "at": "2026-11-15T05:19:06.182Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
-   "ok": true,
-   "count": 363,
-   "at": "2026-11-14T17:44:30.956Z",
+   "ok": false,
+   "count": 353,
+   "at": "2026-11-15T05:19:06.182Z",
    "errors": [
-    "không có JobPosting: https://123job.vn/viec-lam/chuyen-vien-hse-an-toan-lao-dong-wDWZoEY0qe",
-    "không có JobPosting: https://123job.vn/viec-lam/chuyen-vien-an-toan-ehshse-tieng-trung-mrEQ0ma0ra",
-    "không có JobPosting: https://123job.vn/viec-lam/hse-junior-engineer-ky-su-hse-tieng-anh-BDnBzOOQDR",
-    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ga-hse-4qQ4oWnmrX",
-    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-W9pXMeV49p"
+    "search \"hse\" p1: https://123job.vn/tuyen-dung?q=hse&page=1: HTTP 403",
+    "search \"ehs\" p1: https://123job.vn/tuyen-dung?q=ehs&page=1: HTTP 403",
+    "search \"an toàn lao động\" p1: https://123job.vn/tuyen-dung?q=an%20to%C3%A0n%20lao%20%C4%91%E1%BB%99ng&page=1: HTTP 403",
+    "Nguồn không phản hồi liên tiếp – dừng để không gây tải."
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-11-14T17:44:30.956Z"
+ "generatedAt": "2026-11-15T05:19:06.182Z"
 }

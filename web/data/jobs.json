@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T17:44:30.956Z",
+ "generatedAt": "2026-11-15T05:19:06.182Z",
  "items": [
   {
    "id": "careerlink:3572789",
@@ -1336,41 +1336,6 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "careerlink:3638024",
-   "source": "CareerLink",
-   "sourceUrl": "https://www.careerlink.vn/tim-viec-lam/pho-phong-an-toan-hse-part-leader/3638024",
-   "title": "PHÓ PHÒNG AN TOÀN - HSE PART LEADER",
-   "company": "Công Ty TNHH JCV Corp",
-   "companyLogo": "https://blob-careerlinkvn.careerlink.vn/company_logos/06f386d257720e4136ed49283ab472de.png",
-   "locations": [
-    "Hải Phòng"
-   ],
-   "salary": null,
-   "expMonths": 24,
-   "employmentType": "FULL_TIME",
-   "industry": "Sản xuất / Vận hành sản xuất, Môi trường / Xử lý chất thải, An Toàn Lao Động",
-   "datePosted": "2026-10-01",
-   "validThrough": "2026-10-31T23:59:59+00:00",
-   "description": "• Thực hiện, giám sát công tác An toàn, Môi trường, Phòng cháy chữa cháy và Hóa chất tại nhà máy.\n• Lập và theo dõi các báo cáo tuân thủ theo yêu cầu pháp luật về An toàn – Môi trường – PCCC – Hóa chất.\n• Hỗ trợ xây dựng và triển khai đối sách (CAPA) cho các đợt Audit từ khách hàng.\n• Thực hiện quản lý hệ thống phụ trợ (Utility), hệ thống điện và hệ thống PCCC: lập kế hoạch kiểm tra, bảo dưỡng, sửa chữa định kỳ.\n• Phân tích, đánh giá hiện trạng và đề xuất các biện pháp cải tiến nhằm giảm thiểu lãng phí.\n• Hỗ trợ áp dụng và duy trì hệ thống quản lý theo tiêu chuẩn ISO 9001 và ISO 14001.\n• Thực hiện báo cáo KPI, cutcost định kỳ theo yêu cầu.\n• Phối hợp với các bộ phận liên quan để đảm bảo tuân thủ quy định An toàn – Môi trường trong toàn nhà máy.\n* Kinh nghiệm / Kỹ năng chi tiết:\n • Tối thiểu 3 năm kinh nghiệm về Điện, An toàn, Môi trường, Phòng cháy chữa cháy, Hóa chất.\n • Ưu tiên có kinh nghiệm quản lý nhà máy và thực hiện báo cáo tuân thủ pháp luật.\n • Ưu tiên có kinh nghiệm quản lý, xử lý và đưa đối sách cho các đợt Audit từ khách hàng.\n • Ưu tiên có kinh nghiệm quản lý hệ thống Utility, điện và hệ thống PCCC.\n • Am hiểu luật pháp về An toàn, Môi trường, Phòng cháy chữa cháy, Hóa chất.\n • Am hiểu hệ thống quản lý ISO 9001, ISO 14001.\n • Thành thạo tin học văn phòng (Word, Excel, PowerPoint).\n • Kỹ năng phân tích, đánh giá và đề xuất cải tiến giảm lãng phí.\n • Kỹ năng lập báo cáo KPI, cutcost.\n • Kỹ năng giao tiếp tiếng Anh tốt.\n • Kỹ năng quản lý, giám sát và xử lý tình huống khẩn cấp.",
-   "requirements": {
-    "degree": [],
-    "certs": [
-     "Hỗ trợ áp dụng và duy trì hệ thống quản lý theo tiêu chuẩn ISO 9001 và ISO 14001.",
-     "Am hiểu hệ thống quản lý ISO 9001, ISO 14001."
-    ]
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động",
-    "Chất thải/Nước thải"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-10-11T00:21:13.646Z",
-   "fetchedAt": "2026-10-24T00:33:45.056Z",
-   "verifiedAt": "2026-10-24T00:33:45.056Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
    "id": "careerlink:3645852",
    "source": "CareerLink",
    "sourceUrl": "https://www.careerlink.vn/tim-viec-lam/nhan-vien-hse/3645852",
@@ -1476,46 +1441,6 @@
    "firstSeenAt": "2026-10-24T00:33:45.056Z",
    "fetchedAt": "2026-10-24T00:33:45.056Z",
    "verifiedAt": "2026-10-24T00:33:45.056Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "careerlink:3638323",
-   "source": "CareerLink",
-   "sourceUrl": "https://www.careerlink.vn/tim-viec-lam/nhan-vien-an-toan-lao-dong-hse-officer/3638323",
-   "title": "Nhân Viên An Toàn Lao Động (HSE Officer)",
-   "company": "Bureau Veritas Consumer Products Services Việt Nam",
-   "companyLogo": "https://static.careerlink.vn/image/94560ecd1b878940ebef988c112f6d72",
-   "locations": [
-    "Hồ Chí Minh",
-    "Hà Nội"
-   ],
-   "salary": {
-    "min": 12000000,
-    "max": 16000000,
-    "currency": "VND",
-    "unit": "MONTH"
-   },
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "An Toàn Lao Động",
-   "datePosted": "2026-10-01",
-   "validThrough": "2026-10-31T23:59:59+00:00",
-   "description": "- Chuẩn bị và nộp các báo cáo hóa chất của nhà máy trên hệ thống quản lý của cơ quan nhà nước theo quy định.\n- Hỗ trợ công tác quản lý hóa chất tổng thể và kiểm soát tồn kho hóa chất.\n- Thực hiện các công việc khác liên quan đến HSE theo sự phân công của cấp quản lý.\nCơ hội phát triển nghề nghiệp:\n- Có cơ hội phát triển thành nhân sự HSE thông qua việc tham gia trực tiếp vào các hoạt động quản lý hóa chất, tuân thủ pháp luật, an toàn lao động và bảo vệ môi trường.\n* Kinh nghiệm / Kỹ năng chi tiết:\n- Tốt nghiệp Đại học/Cao đẳng chuyên ngành Kỹ thuật, Quản lý chất lượng, hoặc An toàn lao động.\n- Sinh viên mới tốt nghiệp chuyên ngành HSE hoặc liên quan.\n- Kỹ năng làm việc nhóm, giải quyết vấn đề, giao tiếp và thuyết trình tốt.\n- Sử dụng thành thạo MS Office và tiếng Anh.",
-   "requirements": {
-    "degree": [
-     "Tốt nghiệp Đại học/Cao đẳng chuyên ngành Kỹ thuật, Quản lý chất lượng, hoặc An toàn lao động.",
-     "Sinh viên mới tốt nghiệp chuyên ngành HSE hoặc liên quan."
-    ],
-    "certs": []
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-10-25T00:25:52.481Z",
-   "fetchedAt": "2026-10-25T00:25:52.481Z",
-   "verifiedAt": "2026-10-25T00:25:52.481Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -5478,46 +5403,6 @@
    "firstSeenAt": "2026-10-24T00:33:45.056Z",
    "fetchedAt": "2026-10-24T00:33:45.056Z",
    "verifiedAt": "2026-10-24T00:33:45.056Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "careerlink:3637832",
-   "source": "CareerLink",
-   "sourceUrl": "https://www.careerlink.vn/tim-viec-lam/binh-duong-nhan-vien-hse/3637832",
-   "title": "[Bình Dương] Nhân Viên HSE",
-   "company": "Công Ty TNHH Vision International",
-   "companyLogo": "https://static.careerlink.vn/image/37a50e6ddcd6501cf51f389ccbf75459",
-   "locations": [
-    "Bình Dương"
-   ],
-   "salary": {
-    "min": 11000000,
-    "max": 13000000,
-    "currency": "VND",
-    "unit": "MONTH"
-   },
-   "expMonths": 12,
-   "employmentType": "FULL_TIME",
-   "industry": "Môi trường / Xử lý chất thải, An Toàn Lao Động",
-   "datePosted": "2026-10-01",
-   "validThrough": "2026-10-31T23:59:59+00:00",
-   "description": "- Xây dựng, triển khai và giám sát kế hoạch HSE hàng năm.\n- Xây dựng các chương trình và sức khoẻ, an toàn thích hợp để đảm bảo an toàn trong sản xuất.\n- Cập nhật, rà soát và ban hành các tài liệu liên quan đến HSE, ISO(14K&45K) & C-TPAT.\n- Cập nhật, triển khai và giám sát việc thực hiện các yêu cầu pháp lý, tiêu chuẩn của khách hàng liên quan đến trách nhiệm xã hội.\n- Trách nhiệm về dữ liệu và hồ sơ đánh giá an toàn, môi trường và năng lượng (chỉ số Higg, Enablon, khách hàng, nhà nước)\n- Lập và gửi báo cáo định kỳ cho cơ quan nhà nước và khách hàng khi được yêu cầu.\n- Hỗ trợ quản lý nhà cung cấp, nhà thầu phụ trong việc thực hiện các tiêu chuẩn của khách hàng và các yêu cầu pháp lý.\n* Kinh nghiệm / Kỹ năng chi tiết:\n- Tốt nghiệp cao đẳng trở lên các chuyên nghành có liên quan\n- 01 năm kinh nghiệm, chuyên ngành an toàn hoặc môi trường\n- Kỹ năng tin học văn phòng tốt (Excel)\n- Chịu được áp lực , chủ động trong công việc\n- Trung thực, tinh thần trách nhiệm",
-   "requirements": {
-    "degree": [
-     "Tốt nghiệp cao đẳng trở lên các chuyên nghành có liên quan",
-     "01 năm kinh nghiệm, chuyên ngành an toàn hoặc môi trường"
-    ],
-    "certs": []
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động",
-    "Chất thải/Nước thải"
-   ],
-   "relevance": 94,
-   "firstSeenAt": "2026-10-25T00:25:52.481Z",
-   "fetchedAt": "2026-10-25T00:25:52.481Z",
-   "verifiedAt": "2026-10-25T00:25:52.481Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
