@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T18:34:55.662Z",
+ "generatedAt": "2026-11-16T05:16:35.850Z",
  "items": [
   {
    "id": "apple:6812787190",
@@ -35,7 +35,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/catch-shoot-fishing-game/id6812787190",
    "updatedAt": "2027-03-13T08:00:00Z",
    "firstSeenAt": "2026-11-09T12:57:46.252Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6822587340",
@@ -79,7 +79,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/happy-trays-sushi-sort-puzzle/id6822587340",
    "updatedAt": "2026-11-10T08:00:00Z",
    "firstSeenAt": "2026-11-10T00:46:53.953Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6814703061",
@@ -115,7 +115,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/warlords-of-the-three-kingdoms/id6814703061",
    "updatedAt": "2026-11-12T16:50:39Z",
    "firstSeenAt": "2026-11-10T00:46:53.953Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6828757716",
@@ -158,7 +158,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/wiggle-royale-snake-arena/id6828757716",
    "updatedAt": "2026-11-10T08:00:00Z",
    "firstSeenAt": "2026-11-10T00:46:53.953Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6817645832",
@@ -199,13 +199,13 @@
    "sourceUrl": "https://apps.apple.com/vn/app/%E4%B8%89%E5%9C%8B%E5%B9%BB%E6%83%B3%E9%8C%84-%E9%96%8B%E5%B1%80%E9%80%815%E6%98%9F%E9%97%9C%E7%BE%BD/id6817645832",
    "updatedAt": "2026-11-16T08:00:00Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6823972912",
    "kind": "store",
    "name": "Unlatched",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/cc/49/d6cc4906-f0c2-7e7e-1a4d-36fe7eaee5d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/bc/ae/15bcaeda-dc58-a485-f286-b650ac8fe620/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
    "genre": "Puzzle",
    "genres": [
     "Games",
@@ -232,9 +232,9 @@
    "storeUrl": "https://apps.apple.com/vn/app/unlatched/id6823972912",
    "source": "Apple App Store (iTunes API)",
    "sourceUrl": "https://apps.apple.com/vn/app/unlatched/id6823972912",
-   "updatedAt": "2026-11-11T22:23:39Z",
+   "updatedAt": "2026-11-15T23:19:28Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6821312215",
@@ -270,7 +270,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/gravitycrush/id6821312215",
    "updatedAt": "2026-11-09T18:23:43Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6831307385",
@@ -315,7 +315,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/slidante-music-sliding-puzzle/id6831307385",
    "updatedAt": "2026-11-14T05:53:11Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6830890917",
@@ -352,7 +352,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/time-legion/id6830890917",
    "updatedAt": "2026-11-09T18:18:23Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6831251911",
@@ -389,7 +389,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/mad-guess-mystery-puzzles/id6831251911",
    "updatedAt": "2026-11-09T18:14:20Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6830824530",
@@ -426,7 +426,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/%D0%BC%D0%B0%D1%84%D0%B8%D1%8F-%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B8%D0%B3%D1%80%D0%B0-%D1%81-%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F%D0%BC%D0%B8/id6830824530",
    "updatedAt": "2026-11-11T01:04:25Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6823928253",
@@ -463,7 +463,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/brewmora/id6823928253",
    "updatedAt": "2026-11-09T17:22:19Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6831930332",
@@ -510,7 +510,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/organization-shadow-rule/id6831930332",
    "updatedAt": "2026-11-11T18:41:26Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6831637134",
@@ -546,7 +546,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/doorway-surfers/id6831637134",
    "updatedAt": "2026-11-10T19:03:57Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6830187638",
@@ -594,7 +594,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/ramp-n-roll/id6830187638",
    "updatedAt": "2026-11-14T18:22:42Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6818808734",
@@ -629,7 +629,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/rexdoku/id6818808734",
    "updatedAt": "2026-11-09T16:15:13Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6824236823",
@@ -671,7 +671,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/feltdot-pixel-art-puzzle/id6824236823",
    "updatedAt": "2026-11-13T03:22:28Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6831137565",
@@ -708,7 +708,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/planet-pop-farflung-roguelike/id6831137565",
    "updatedAt": "2026-11-09T15:36:59Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6832006768",
@@ -744,7 +744,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/hop-cup/id6832006768",
    "updatedAt": "2026-11-09T15:28:41Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6826433920",
@@ -783,7 +783,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/ladybug-pairs-match-for-kids/id6826433920",
    "updatedAt": "2026-11-09T15:17:07Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6825009628",
@@ -819,7 +819,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/curly-cats-cat-escape-puzzle/id6825009628",
    "updatedAt": "2026-11-12T03:58:06Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6832067411",
@@ -855,7 +855,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/yadigar-tamir-at%C3%B6lyesi/id6832067411",
    "updatedAt": "2026-11-13T20:30:35Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6821680379",
@@ -891,7 +891,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/lcm-football-club-manager/id6821680379",
    "updatedAt": "2026-11-11T01:00:07Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6831699528",
@@ -927,7 +927,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/flexina-run/id6831699528",
    "updatedAt": "2026-11-09T14:56:01Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6830144597",
@@ -962,7 +962,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/pinball-cross/id6830144597",
    "updatedAt": "2026-11-09T14:50:11Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6831809690",
@@ -1004,7 +1004,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/miette-absorption/id6831809690",
    "updatedAt": "2026-11-09T14:41:22Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6825810400",
@@ -1041,7 +1041,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/draw-infinite/id6825810400",
    "updatedAt": "2026-11-09T14:25:18Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6818048506",
@@ -1077,7 +1077,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/find-kkorong-hidden-traveler/id6818048506",
    "updatedAt": "2026-11-10T08:00:00Z",
    "firstSeenAt": "2026-11-10T00:46:53.953Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6822107004",
@@ -1111,7 +1111,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/gobs-gears/id6822107004",
    "updatedAt": "2026-11-13T20:28:58Z",
    "firstSeenAt": "2026-11-10T00:46:53.953Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6821291368",
@@ -1191,7 +1191,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/puttfall-golf-on-your-wrist/id6821291368",
    "updatedAt": "2026-11-10T08:00:00Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6778380721",
@@ -1228,7 +1228,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/thrifty-business/id6778380721",
    "updatedAt": "2026-11-10T08:00:00Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6817926964",
@@ -1264,7 +1264,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/overseed/id6817926964",
    "updatedAt": "2026-11-09T18:14:05Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6830464551",
@@ -1300,13 +1300,13 @@
    "sourceUrl": "https://apps.apple.com/vn/app/pixel-sniper/id6830464551",
    "updatedAt": "2026-11-09T17:11:09Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6821886776",
    "kind": "store",
    "name": "FishingDays: Pixel Fishing",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/fd/63/ecfd6351-e042-049c-1e53-952bd1df756e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/4b/e5/324be55e-f476-127a-ca2d-35273681df08/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
    "genre": "Role-Playing",
    "genres": [
     "Games",
@@ -1324,6 +1324,7 @@
     "App Store VN"
    ],
    "languages": [
+    "EN",
     "JA"
    ],
    "supportsVietnamese": false,
@@ -1335,9 +1336,9 @@
    "storeUrl": "https://apps.apple.com/vn/app/fishingdays-pixel-fishing/id6821886776",
    "source": "Apple App Store (iTunes API)",
    "sourceUrl": "https://apps.apple.com/vn/app/fishingdays-pixel-fishing/id6821886776",
-   "updatedAt": "2026-11-09T11:18:01Z",
+   "updatedAt": "2026-11-15T23:38:42Z",
    "firstSeenAt": "2026-11-10T00:46:53.953Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6831038615",
@@ -1372,7 +1373,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/l%C3%A6r-klokken-med-drager/id6831038615",
    "updatedAt": "2026-11-12T00:36:08Z",
    "firstSeenAt": "2026-11-10T00:46:53.953Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6825624629",
@@ -1407,7 +1408,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/break-free-maze-escape/id6825624629",
    "updatedAt": "2026-11-09T08:26:19Z",
    "firstSeenAt": "2026-11-10T00:46:53.953Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6828492763",
@@ -1444,7 +1445,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/lasso-tones/id6828492763",
    "updatedAt": "2026-11-10T02:56:03Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6823471927",
@@ -1480,7 +1481,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/naipe-card-logic-puzzle/id6823471927",
    "updatedAt": "2026-11-11T14:11:38Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6827159796",
@@ -1517,13 +1518,13 @@
    "sourceUrl": "https://apps.apple.com/vn/app/olibolis-twinkle-town/id6827159796",
    "updatedAt": "2026-11-11T05:48:07Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6811483104",
    "kind": "store",
    "name": "Sandfall: Sand Art Painting",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/16/3f/f1163fae-6c62-7db6-f59a-814e38930bd0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/99/15/ef991550-d447-f22f-83b6-3574054469d4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
    "genre": "Casual",
    "genres": [
     "Games",
@@ -1551,9 +1552,9 @@
    "storeUrl": "https://apps.apple.com/vn/app/sandfall-sand-art-painting/id6811483104",
    "source": "Apple App Store (iTunes API)",
    "sourceUrl": "https://apps.apple.com/vn/app/sandfall-sand-art-painting/id6811483104",
-   "updatedAt": "2026-11-12T02:20:37Z",
+   "updatedAt": "2026-11-15T20:49:56Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6830397409",
@@ -1590,7 +1591,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/snakey-gardens/id6830397409",
    "updatedAt": "2026-11-12T02:20:35Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6824827291",
@@ -1626,7 +1627,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/tallyfall-tally-roguelike/id6824827291",
    "updatedAt": "2026-11-09T12:48:49Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6825478063",
@@ -1661,7 +1662,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/tapslingers-duel/id6825478063",
    "updatedAt": "2026-11-09T16:31:51Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6830704697",
@@ -1701,7 +1702,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/terrigear-mech-squad-rts/id6830704697",
    "updatedAt": "2026-11-14T23:39:26Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6832031037",
@@ -1736,7 +1737,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/the-club-owner/id6832031037",
    "updatedAt": "2026-11-12T07:18:51Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6817685433",
@@ -1772,7 +1773,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/whisker-lane-cat-rescue/id6817685433",
    "updatedAt": "2026-11-11T18:43:09Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6829170727",
@@ -1812,7 +1813,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/white-night-manor-mystery/id6829170727",
    "updatedAt": "2026-11-09T08:00:00Z",
    "firstSeenAt": "2026-11-10T00:46:53.953Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6825759474",
@@ -1860,7 +1861,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/isometry/id6825759474",
    "updatedAt": "2026-11-12T00:13:48Z",
    "firstSeenAt": "2026-11-09T12:57:46.252Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6832187810",
@@ -1896,7 +1897,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/f-a-o-e-d-fly-attack/id6832187810",
    "updatedAt": "2026-11-08T21:39:46Z",
    "firstSeenAt": "2026-11-09T12:57:46.252Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6831968486",
@@ -1932,7 +1933,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/grow-island-retro/id6831968486",
    "updatedAt": "2026-11-08T19:05:40Z",
    "firstSeenAt": "2026-11-09T12:57:46.252Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6826644772",
@@ -1970,7 +1971,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/atahualpa-chess/id6826644772",
    "updatedAt": "2026-11-08T08:00:00Z",
    "firstSeenAt": "2026-11-09T12:57:46.252Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6803825299",
@@ -2025,7 +2026,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/chi%E1%BA%BFn-th%C3%BA-h%E1%BB%97n-chi%E1%BA%BFn/id6803825299",
    "updatedAt": "2026-11-05T03:27:25Z",
    "firstSeenAt": "2026-10-14T00:27:55.129Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6766190033",
@@ -2064,7 +2065,7 @@
    "developer": "Valar Technology Joint Stock Company",
    "rating": {
     "value": 4.4,
-    "count": 299,
+    "count": 300,
     "by": "App Store"
    },
    "price": "Free",
@@ -2074,13 +2075,13 @@
    "sourceUrl": "https://apps.apple.com/vn/app/soul-strike-idle-rpg/id6766190033",
    "updatedAt": "2026-11-11T02:01:40Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6801344210",
    "kind": "store",
    "name": "Riftly: Idle Pixel Dungeon",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/d9/86/d2d986a8-97f5-1334-93e0-8da6d2e314ed/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/b5/e2/06b5e2ca-58be-8c15-f757-f096417fe18c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
    "genre": "Adventure",
    "genres": [
     "Games",
@@ -2133,9 +2134,9 @@
    "storeUrl": "https://apps.apple.com/vn/app/riftly-idle-pixel-dungeon/id6801344210",
    "source": "Apple App Store (iTunes API)",
    "sourceUrl": "https://apps.apple.com/vn/app/riftly-idle-pixel-dungeon/id6801344210",
-   "updatedAt": "2026-11-13T17:21:38Z",
+   "updatedAt": "2026-11-15T23:12:17Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6805060854",
@@ -2175,7 +2176,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/mortal-to-immortal-idle-rpg/id6805060854",
    "updatedAt": "2026-11-10T08:09:47Z",
    "firstSeenAt": "2026-10-26T00:34:01.020Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6820433624",
@@ -2215,7 +2216,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/reaper-forge-idle-loot-rpg/id6820433624",
    "updatedAt": "2026-11-11T01:12:09Z",
    "firstSeenAt": "2026-11-10T00:46:53.953Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6824921322",
@@ -2271,7 +2272,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/riftborn-idle-rpg/id6824921322",
    "updatedAt": "2026-11-14T17:05:17Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6801541379",
@@ -2300,7 +2301,7 @@
    "developer": "Freeplay LLC",
    "rating": {
     "value": 4.8,
-    "count": 626,
+    "count": 640,
     "by": "App Store"
    },
    "price": "Free",
@@ -2310,7 +2311,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/epic-idle-journey-rpg-battle/id6801541379",
    "updatedAt": "2026-10-17T00:42:27Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6803640658",
@@ -2350,7 +2351,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/realm-of-legends/id6803640658",
    "updatedAt": "2026-11-11T21:56:21Z",
    "firstSeenAt": "2026-10-28T12:39:21.374Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6818945632",
@@ -2402,7 +2403,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/murim-rebirth/id6818945632",
    "updatedAt": "2026-11-15T00:16:42Z",
    "firstSeenAt": "2026-11-14T17:44:30.956Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6775778491",
@@ -2444,7 +2445,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/lo%E1%BA%A1n-th%E1%BA%BF-3q-th%E1%BA%A7n-ma-l%E1%BB%87nh-oeg/id6775778491",
    "updatedAt": "2026-11-06T02:24:50Z",
    "firstSeenAt": "2026-10-27T00:29:20.637Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6812189088",
@@ -2490,7 +2491,7 @@
    "developer": "Fansipan Limited",
    "rating": {
     "value": 5,
-    "count": 23,
+    "count": 22,
     "by": "App Store"
    },
    "price": "Free",
@@ -2500,7 +2501,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/age-of-stickman-idle-rpg/id6812189088",
    "updatedAt": "2026-11-09T03:35:13Z",
    "firstSeenAt": "2026-10-31T12:37:17.207Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6790351494",
@@ -2545,7 +2546,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/blade-shield-girl-idle-rpg/id6790351494",
    "updatedAt": "2026-10-15T06:11:14Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6791432040",
@@ -2599,7 +2600,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/hunter-tower-offline-idle-rpg/id6791432040",
    "updatedAt": "2026-11-04T04:15:12Z",
    "firstSeenAt": "2026-11-08T12:37:32.184Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6790783620",
@@ -2658,7 +2659,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/infinite-loot-loop-rpg/id6790783620",
    "updatedAt": "2026-11-05T21:44:35Z",
    "firstSeenAt": "2026-10-14T00:27:55.129Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6791432231",
@@ -2689,7 +2690,7 @@
    "developer": "Valar Technology Joint Stock Company",
    "rating": {
     "value": 4.9,
-    "count": 5649,
+    "count": 5805,
     "by": "App Store"
    },
    "price": "Free",
@@ -2699,7 +2700,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/sword-x-staff/id6791432231",
    "updatedAt": "2026-11-04T08:00:00Z",
    "firstSeenAt": "2026-11-14T17:44:30.956Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6742809054",
@@ -2743,7 +2744,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/majo-apocalypse-tactics-rpg/id6742809054",
    "updatedAt": "2026-10-07T02:20:01Z",
    "firstSeenAt": "2026-10-14T00:27:55.129Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6768233176",
@@ -2773,7 +2774,7 @@
    "developer": "MOCGAME JOINT STOCK PTE. LTD.",
    "rating": {
     "value": 4.9,
-    "count": 3956,
+    "count": 3974,
     "by": "App Store"
    },
    "price": "Free",
@@ -2783,7 +2784,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/tarot-v%C4%A9nh-h%E1%BA%B1ng-th%E1%BA%A7n-ng%E1%BB%AF/id6768233176",
    "updatedAt": "2026-11-11T07:24:45Z",
    "firstSeenAt": "2026-10-21T12:30:31.023Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6788977486",
@@ -2827,7 +2828,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/kamnyang-knight-idle-rpg/id6788977486",
    "updatedAt": "2026-11-12T05:02:31Z",
    "firstSeenAt": "2026-10-21T12:30:31.023Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6762611733",
@@ -2883,7 +2884,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/my-little-goddess-idle-rpg/id6762611733",
    "updatedAt": "2026-11-04T02:16:24Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6757690255",
@@ -2915,7 +2916,7 @@
    "developer": "LightCON Co., Ltd.",
    "rating": {
     "value": 4.8,
-    "count": 29,
+    "count": 30,
     "by": "App Store"
    },
    "price": "Free",
@@ -2925,7 +2926,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/gale-knights-idle-rpg/id6757690255",
    "updatedAt": "2026-11-13T01:31:11Z",
    "firstSeenAt": "2026-10-24T12:24:43.501Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6791394610",
@@ -2959,7 +2960,7 @@
    "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
    "rating": {
     "value": 5,
-    "count": 123,
+    "count": 133,
     "by": "App Store"
    },
    "price": "Free",
@@ -2969,7 +2970,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/champion-forge-idle-rpg/id6791394610",
    "updatedAt": "2026-11-03T06:28:44Z",
    "firstSeenAt": "2026-10-24T12:24:43.501Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6812604943",
@@ -3010,7 +3011,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/5-minute-hero-roguelite-rpg/id6812604943",
    "updatedAt": "2026-11-08T01:29:11Z",
    "firstSeenAt": "2026-11-14T17:44:30.956Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6790170062",
@@ -3049,7 +3050,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/troll-toll-idle-rpg/id6790170062",
    "updatedAt": "2026-10-18T17:21:41Z",
    "firstSeenAt": "2026-11-14T17:44:30.956Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6804233701",
@@ -3085,7 +3086,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/loot-guild-idle-rpg/id6804233701",
    "updatedAt": "2026-11-14T20:38:04Z",
    "firstSeenAt": "2026-10-21T12:30:31.023Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6783718862",
@@ -3132,7 +3133,56 @@
    "sourceUrl": "https://apps.apple.com/vn/app/idle-last-shelter/id6783718862",
    "updatedAt": "2026-11-06T04:11:40Z",
    "firstSeenAt": "2026-10-21T12:30:31.023Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6771715056",
+   "kind": "store",
+   "name": "My Little Village",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/2c/27/492c272f-3104-a4d7-715c-60c6dd5e4589/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Simulation",
+   "genres": [
+    "Games",
+    "Simulation",
+    "Entertainment",
+    "Casual"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-07-31",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "ZH",
+    "ES",
+    "ZH",
+    "VI"
+   ],
+   "supportsVietnamese": true,
+   "description": "My Little Village - a Vietnamese village-building game in an idle simulation style. Build houses, expand your neighborhood, recruit residents, trade, and grow your very own rural community! A simulation game that captures the essence of traditional Vietnamese life, deeply filled with nostalgic childhood memories.\n\nBUILD & EXPAND YOUR VILLAGE \nStart from a few simple cottages, and step-by-step build and upgrade them into a bustling, lively neighborhood. Construct residential houses, street-corner tea stalls, rural markets, schools, medical clinics, and dozens of other community buildings. Each ",
+   "developer": "COROCHTI COMPANY LIMITED",
+   "rating": {
+    "value": 4.8,
+    "count": 6212,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/my-little-village/id6771715056",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/my-little-village/id6771715056",
+   "updatedAt": "2026-11-11T17:22:18Z",
+   "firstSeenAt": "2026-10-11T00:19:28.359Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:1666196398",
@@ -3161,7 +3211,7 @@
    "developer": "Supercent Inc.",
    "rating": {
     "value": 4.6,
-    "count": 149,
+    "count": 150,
     "by": "App Store"
    },
    "price": "Free",
@@ -3171,7 +3221,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/idle-oil-empire/id1666196398",
    "updatedAt": "2026-10-28T17:06:35Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6788215554",
@@ -3211,7 +3261,7 @@
    "developer": "Toast.Co.,Ltd",
    "rating": {
     "value": 4.9,
-    "count": 269,
+    "count": 267,
     "by": "App Store"
    },
    "price": "Free",
@@ -3221,24 +3271,22 @@
    "sourceUrl": "https://apps.apple.com/vn/app/archer-castle-afk-idle-rpg/id6788215554",
    "updatedAt": "2026-11-14T02:58:08Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
-   "id": "apple:6771715056",
+   "id": "apple:6757416717",
    "kind": "store",
-   "name": "My Little Village",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/2c/27/492c272f-3104-a4d7-715c-60c6dd5e4589/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-   "genre": "Simulation",
+   "name": "Grim Reaper Idle: Medieval Arc",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/6a/66/a26a667f-6f4d-6fd5-93af-cbc344d7ebd6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Role-Playing",
    "genres": [
     "Games",
-    "Simulation",
-    "Entertainment",
-    "Casual"
+    "Role-Playing"
    ],
    "platforms": [
     "iOS"
    ],
-   "releaseDate": "2026-07-31",
+   "releaseDate": "2026-09-17",
    "releaseDateKind": "release",
    "status": "released",
    "regions": [
@@ -3246,84 +3294,26 @@
    ],
    "languages": [
     "EN",
-    "FR",
-    "DE",
     "JA",
     "KO",
-    "ZH",
-    "ES",
-    "ZH",
-    "VI"
+    "ZH"
    ],
-   "supportsVietnamese": true,
-   "description": "My Little Village - a Vietnamese village-building game in an idle simulation style. Build houses, expand your neighborhood, recruit residents, trade, and grow your very own rural community! A simulation game that captures the essence of traditional Vietnamese life, deeply filled with nostalgic childhood memories.\n\nBUILD & EXPAND YOUR VILLAGE \nStart from a few simple cottages, and step-by-step build and upgrade them into a bustling, lively neighborhood. Construct residential houses, street-corner tea stalls, rural markets, schools, medical clinics, and dozens of other community buildings. Each ",
-   "developer": "COROCHTI COMPANY LIMITED",
+   "supportsVietnamese": false,
+   "description": "Grim Reaper Idle: Medieval Arc, handcrafted by a master pixel artist!\n\n◀◀ OFFICIAL COMMUNITY ▶▶\nhttps://discord.gg/EEqg9pd9k4\n\nDid the Grim Reaper exist even in the Dark Ages, when all light had vanished?!\n\nA kingdom in ruins, a cursed order of knights, and mages who awakened forbidden powers…\nAmid the chaos of this dark era, Grim Reaper Idle: Medieval Arc descends!\n\n◀◀ They say people draw with words these days? ▶▶\nHandcrafted pixel art with a human touch no AI can imitate!\nDiscover the work of a master artist who poured heart and soul into every single frame.\n\n◀◀ The sound effects are… human",
+   "developer": "DAERI SOFT",
    "rating": {
-    "value": 4.8,
-    "count": 6156,
+    "value": 5,
+    "count": 22,
     "by": "App Store"
    },
    "price": "Free",
-   "requirements": "iOS 15.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/my-little-village/id6771715056",
+   "requirements": "iOS 15.5+",
+   "storeUrl": "https://apps.apple.com/vn/app/grim-reaper-idle-medieval-arc/id6757416717",
    "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/my-little-village/id6771715056",
-   "updatedAt": "2026-11-11T17:22:18Z",
-   "firstSeenAt": "2026-10-11T00:19:28.359Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
-  },
-  {
-   "id": "apple:6824882284",
-   "kind": "store",
-   "name": "Strixel - Foodie Haven",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/6e/fa/ee6efa5a-e52b-1373-ccc4-64a840948a2e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-   "genre": "Simulation",
-   "genres": [
-    "Games",
-    "Simulation",
-    "Casual",
-    "Entertainment"
-   ],
-   "platforms": [
-    "iOS"
-   ],
-   "releaseDate": "2026-11-06",
-   "releaseDateKind": "release",
-   "status": "released",
-   "regions": [
-    "App Store VN"
-   ],
-   "languages": [
-    "EN",
-    "FR",
-    "DE",
-    "ID",
-    "JA",
-    "KO",
-    "PT",
-    "ZH",
-    "ES",
-    "TH",
-    "ZH",
-    "TR",
-    "VI"
-   ],
-   "supportsVietnamese": true,
-   "description": "Open one little food cart and grow it into cozy food streets that live by day and by night.\n\nStrixel is a cozy idle game about street food and the neighbours who make a street feel like home. Your first street is a quiet Vietnamese alley: cook pho, banh mi, broken rice and iced coffee, level up your carts, and come back to find the street still busy, the grill still smoking, and a little gold waiting for you.\n\nCOOK THE STREET'S FAVOURITES\nOn the Vietnamese street: pho, bun bo Hue, banh mi, com tam, sticky rice, grilled skewers, iced coffee with condensed milk and more. Shop the market for ingr",
-   "developer": "Phuc Pham",
-   "rating": {
-    "value": 4.6,
-    "count": 5,
-    "by": "App Store"
-   },
-   "price": "Free",
-   "requirements": "iOS 15.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/strixel-foodie-haven/id6824882284",
-   "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/strixel-foodie-haven/id6824882284",
-   "updatedAt": "2026-11-12T19:39:33Z",
-   "firstSeenAt": "2026-11-14T17:44:30.956Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "sourceUrl": "https://apps.apple.com/vn/app/grim-reaper-idle-medieval-arc/id6757416717",
+   "updatedAt": "2026-10-29T05:12:16Z",
+   "firstSeenAt": "2026-10-10T14:05:46.653Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6801753585",
@@ -3377,22 +3367,24 @@
    "sourceUrl": "https://apps.apple.com/vn/app/abyss-crawler-idle-loot-rpg/id6801753585",
    "updatedAt": "2026-11-06T01:10:07Z",
    "firstSeenAt": "2026-11-01T12:38:08.439Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
-   "id": "apple:6757416717",
+   "id": "apple:6824882284",
    "kind": "store",
-   "name": "Grim Reaper Idle: Medieval Arc",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/6a/66/a26a667f-6f4d-6fd5-93af-cbc344d7ebd6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-   "genre": "Role-Playing",
+   "name": "Strixel - Foodie Haven",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/f6/d8/3bf6d80d-383d-c051-fa87-3fd60e452cad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Simulation",
    "genres": [
     "Games",
-    "Role-Playing"
+    "Simulation",
+    "Casual",
+    "Entertainment"
    ],
    "platforms": [
     "iOS"
    ],
-   "releaseDate": "2026-09-17",
+   "releaseDate": "2026-11-06",
    "releaseDateKind": "release",
    "status": "released",
    "regions": [
@@ -3400,26 +3392,35 @@
    ],
    "languages": [
     "EN",
+    "FR",
+    "DE",
+    "ID",
     "JA",
     "KO",
-    "ZH"
+    "PT",
+    "ZH",
+    "ES",
+    "TH",
+    "ZH",
+    "TR",
+    "VI"
    ],
-   "supportsVietnamese": false,
-   "description": "Grim Reaper Idle: Medieval Arc, handcrafted by a master pixel artist!\n\n◀◀ OFFICIAL COMMUNITY ▶▶\nhttps://discord.gg/EEqg9pd9k4\n\nDid the Grim Reaper exist even in the Dark Ages, when all light had vanished?!\n\nA kingdom in ruins, a cursed order of knights, and mages who awakened forbidden powers…\nAmid the chaos of this dark era, Grim Reaper Idle: Medieval Arc descends!\n\n◀◀ They say people draw with words these days? ▶▶\nHandcrafted pixel art with a human touch no AI can imitate!\nDiscover the work of a master artist who poured heart and soul into every single frame.\n\n◀◀ The sound effects are… human",
-   "developer": "DAERI SOFT",
+   "supportsVietnamese": true,
+   "description": "Open one little food cart and grow it into cozy food streets that live by day and by night.\n\nStrixel is a cozy idle game about street food and the neighbours who make a street feel like home. Your first street is a quiet Vietnamese alley: cook pho, banh mi, broken rice and iced coffee, level up your carts, and come back to find the street still busy, the grill still smoking, and a little gold waiting for you.\n\nCOOK THE STREET'S FAVOURITES\nOn the Vietnamese street: pho, bun bo Hue, banh mi, com tam, sticky rice, grilled skewers, iced coffee with condensed milk and more. Shop the market for ingr",
+   "developer": "Phuc Pham",
    "rating": {
-    "value": 5,
-    "count": 22,
+    "value": 4.6,
+    "count": 8,
     "by": "App Store"
    },
    "price": "Free",
-   "requirements": "iOS 15.5+",
-   "storeUrl": "https://apps.apple.com/vn/app/grim-reaper-idle-medieval-arc/id6757416717",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/strixel-foodie-haven/id6824882284",
    "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/grim-reaper-idle-medieval-arc/id6757416717",
-   "updatedAt": "2026-10-29T05:12:16Z",
-   "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "sourceUrl": "https://apps.apple.com/vn/app/strixel-foodie-haven/id6824882284",
+   "updatedAt": "2026-11-16T02:48:30Z",
+   "firstSeenAt": "2026-11-14T17:44:30.956Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6776496278",
@@ -3449,7 +3450,7 @@
    "developer": "MAKER STUDIOS LIMITED LIABILITY COMPANY",
    "rating": {
     "value": 4.7,
-    "count": 28,
+    "count": 29,
     "by": "App Store"
    },
    "price": "Free",
@@ -3459,7 +3460,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/idle-td-ph%C3%B2ng-th%E1%BB%A7-h%E1%BA%AFc-%C3%A1m/id6776496278",
    "updatedAt": "2026-11-11T01:23:38Z",
    "firstSeenAt": "2026-11-10T00:46:53.953Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6814373193",
@@ -3489,7 +3490,7 @@
    "developer": "KAN ONLINE ENTERTAINMENT JOINT STOCK COMPANY",
    "rating": {
     "value": 4.7,
-    "count": 3335,
+    "count": 3391,
     "by": "App Store"
    },
    "price": "Free",
@@ -3499,47 +3500,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/th%E1%BA%BF-gi%E1%BB%9Bi-n%C6%B0%E1%BB%9Bc-sinh-t%E1%BB%93n/id6814373193",
    "updatedAt": "2026-11-12T08:51:35Z",
    "firstSeenAt": "2026-11-08T12:37:32.184Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
-  },
-  {
-   "id": "apple:6827513405",
-   "kind": "store",
-   "name": "Hotpot Go Round",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/33/d1/e933d15a-6f81-ef7a-fc01-5dfb4eb44427/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-   "genre": "Simulation",
-   "genres": [
-    "Games",
-    "Simulation",
-    "Casual"
-   ],
-   "platforms": [
-    "iOS"
-   ],
-   "releaseDate": "2026-11-03",
-   "releaseDateKind": "release",
-   "status": "released",
-   "regions": [
-    "App Store VN"
-   ],
-   "languages": [
-    "EN"
-   ],
-   "supportsVietnamese": false,
-   "description": "Hotpot Go Round is a cozy management game about a tiny conveyor-belt hotpot shop. Open your shop, load plates onto the belt, and watch guests sit around it, dip their food in bubbling hotpot and order more. Cook fast, serve right, keep guests happy and the money keeps flowing.\n\nCook and sell\n- The belt never stops: keep an eye on what guests like and don't let plates go cold.\n- Many broths, from sour and spicy Thai hotpot to light and sweet mushroom hotpot.\n- The more you sell a dish, the better you get at it. Raise its stars to charge more and keep guests coming back.\n\nFlavor garden behind th",
-   "developer": "Vu Quang Truong",
-   "rating": {
-    "value": 2.3,
-    "count": 3,
-    "by": "App Store"
-   },
-   "price": "Free",
-   "requirements": "iOS 15.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/hotpot-go-round/id6827513405",
-   "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/hotpot-go-round/id6827513405",
-   "updatedAt": "2026-11-10T06:36:41Z",
-   "firstSeenAt": "2026-11-14T17:44:30.956Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6782027063",
@@ -3586,54 +3547,47 @@
    "sourceUrl": "https://apps.apple.com/vn/app/idle-fishing-charter/id6782027063",
    "updatedAt": "2026-11-02T02:12:09Z",
    "firstSeenAt": "2026-11-04T12:51:33.028Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
-   "id": "apple:6791890657",
+   "id": "apple:6827513405",
    "kind": "store",
-   "name": "Cyber Strike Manager Idle",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/4d/c7/de4dc77e-c648-3d04-6765-0f59c02ab95c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-   "genre": "Strategy",
+   "name": "Hotpot Go Round",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/33/d1/e933d15a-6f81-ef7a-fc01-5dfb4eb44427/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+   "genre": "Simulation",
    "genres": [
     "Games",
-    "Strategy",
-    "Simulation"
+    "Simulation",
+    "Casual"
    ],
    "platforms": [
     "iOS"
    ],
-   "releaseDate": "2026-08-27",
+   "releaseDate": "2026-11-03",
    "releaseDateKind": "release",
    "status": "released",
    "regions": [
     "App Store VN"
    ],
    "languages": [
-    "EN",
-    "FR",
-    "DE",
-    "JA",
-    "KO",
-    "ZH",
-    "ES",
-    "ZH"
+    "EN"
    ],
    "supportsVietnamese": false,
-   "description": "Take control of your own tactical esports club and build the ultimate squad of skilled players!\nCompete in intense 5v5 matches, sign new players, open packs, and create a team capable of defeating any opponent. Improve your lineup, upgrade player skills, develop scouting, and strengthen key roles such as sniper, captain, entry, support, and lurker to increase your team’s power.\nTake part in leagues, tournaments, and daily activities, earn money, unlock stronger players, and expand your roster. Make smart decisions, choose the right upgrades for every challenge, and prepare your squad for incre",
-   "developer": "HOOKAH GAMES IT SERVICE L.L.C",
+   "description": "Hotpot Go Round is a cozy management game about a tiny conveyor-belt hotpot shop. Open your shop, load plates onto the belt, and watch guests sit around it, dip their food in bubbling hotpot and order more. Cook fast, serve right, keep guests happy and the money keeps flowing.\n\nCook and sell\n- The belt never stops: keep an eye on what guests like and don't let plates go cold.\n- Many broths, from sour and spicy Thai hotpot to light and sweet mushroom hotpot.\n- The more you sell a dish, the better you get at it. Raise its stars to charge more and keep guests coming back.\n\nFlavor garden behind th",
+   "developer": "Vu Quang Truong",
    "rating": {
-    "value": 5,
-    "count": 41,
+    "value": 2.3,
+    "count": 3,
     "by": "App Store"
    },
    "price": "Free",
    "requirements": "iOS 15.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/cyber-strike-manager-idle/id6791890657",
+   "storeUrl": "https://apps.apple.com/vn/app/hotpot-go-round/id6827513405",
    "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/cyber-strike-manager-idle/id6791890657",
-   "updatedAt": "2026-11-06T23:41:26Z",
+   "sourceUrl": "https://apps.apple.com/vn/app/hotpot-go-round/id6827513405",
+   "updatedAt": "2026-11-10T06:36:41Z",
    "firstSeenAt": "2026-11-14T17:44:30.956Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6751321112",
@@ -3676,7 +3630,54 @@
    "sourceUrl": "https://apps.apple.com/vn/app/isekai-reset-idle-rpg/id6751321112",
    "updatedAt": "2026-11-13T02:13:59Z",
    "firstSeenAt": "2026-11-03T12:51:08.961Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6791890657",
+   "kind": "store",
+   "name": "Cyber Strike Manager Idle",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/4d/c7/de4dc77e-c648-3d04-6765-0f59c02ab95c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+   "genre": "Strategy",
+   "genres": [
+    "Games",
+    "Strategy",
+    "Simulation"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-08-27",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "supportsVietnamese": false,
+   "description": "Take control of your own tactical esports club and build the ultimate squad of skilled players!\nCompete in intense 5v5 matches, sign new players, open packs, and create a team capable of defeating any opponent. Improve your lineup, upgrade player skills, develop scouting, and strengthen key roles such as sniper, captain, entry, support, and lurker to increase your team’s power.\nTake part in leagues, tournaments, and daily activities, earn money, unlock stronger players, and expand your roster. Make smart decisions, choose the right upgrades for every challenge, and prepare your squad for incre",
+   "developer": "HOOKAH GAMES IT SERVICE L.L.C",
+   "rating": {
+    "value": 5,
+    "count": 52,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/cyber-strike-manager-idle/id6791890657",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/cyber-strike-manager-idle/id6791890657",
+   "updatedAt": "2026-11-06T23:41:26Z",
+   "firstSeenAt": "2026-11-14T17:44:30.956Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6768921423",
@@ -3734,7 +3735,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/steelborn-tank-idle-rpg/id6768921423",
    "updatedAt": "2026-11-09T16:20:38Z",
    "firstSeenAt": "2026-10-21T00:27:55.824Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6816922141",
@@ -3770,8 +3771,8 @@
    "description": "WELCOME TO HOOP STAR: IDLE CLICKER – THE ULTIMATE BASKETBALL RISE!\nStep into the world of JORDEN, an unknown street baller with nothing but a worn-out court, a ball, and a dream to become a legend. In this addictive idle clicker and life simulator, you’ll grind your way from street games to the pro stage—rising from “the kid nobody passes to” into a global basketball icon and business tycoon.\nFROM STREET COURTS TO THE SPOTLIGHTJORDEN starts with nothing but grit and determination. Watch his journey from zero to hero as he battles through intense games and relentless training. Every tap brings ",
    "developer": "聪 马",
    "rating": {
-    "value": 5,
-    "count": 51,
+    "value": 4.9,
+    "count": 52,
     "by": "App Store"
    },
    "price": "Free",
@@ -3781,55 +3782,48 @@
    "sourceUrl": "https://apps.apple.com/vn/app/hoop-life-idle-game/id6816922141",
    "updatedAt": "2026-10-08T13:58:31Z",
    "firstSeenAt": "2026-11-11T19:20:25.142Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
-   "id": "apple:6759914688",
+   "id": "apple:6795253167",
    "kind": "store",
-   "name": "Furry Fighters : Idle RPG",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/00/7a/9d007a8a-0b95-a610-1a90-a10964d04321/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-   "genre": "Action",
+   "name": "Quiet Grind — Idle RPG",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/95/0a/20950a90-acd5-34fd-f69b-6ed134be1805/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+   "genre": "Simulation",
    "genres": [
     "Games",
-    "Action",
+    "Simulation",
     "Role-Playing"
    ],
    "platforms": [
     "iOS"
    ],
-   "releaseDate": "2026-08-21",
+   "releaseDate": "2026-09-25",
    "releaseDateKind": "release",
    "status": "released",
    "regions": [
     "App Store VN"
    ],
    "languages": [
-    "CA",
     "EN",
     "FR",
     "DE",
     "JA",
-    "KO",
-    "ZH",
-    "ES",
-    "ZH"
+    "PT",
+    "ES"
    ],
    "supportsVietnamese": false,
-   "description": "They are fluffy. They are furious.\nAnd they are your last hope.\n\nWelcome to Furry Fighters: Idle RPG, a dangerously cute idle hack and slash where a ranged cat wizard Milo and a melee hamster brawler Leo face endless waves of mutant monsters in a world where humans are extinct.\n\n[Double Trouble: Cat and Hamster Duo]\nMilo snipes from afar. Leo punches up front.\nYou control both. Timing, position, and combo skills matter.\n\n[Nightfall = Monster Mayhem]\nPeaceful by day, chaos by night.\nMutant waves hit in droves. Clear hundreds at once and feel the rush.\n\n[Auto Battle Meets Tactical Brains]\nHands-",
-   "developer": "RIFF GAMES Co., Ltd.",
-   "rating": {
-    "value": 4.8,
-    "count": 55,
-    "by": "App Store"
-   },
+   "description": "Quiet Grind is an idle RPG for people with lives. Train 30 skills, battle through five adventure zones, and keep making progress — even when you're not playing.\n\nMine ore, chop wood, catch fish, smith gear, steep and enchant. Every skill has its own tools, recipes and mastery track, and they feed each other: what you gather becomes what you craft, and what you craft makes you stronger.\n\nPROGRESS WHILE YOU'RE AWAY\nClose the app and your character keeps training. Come back to a satisfying pile of gains — up to 8 hours of away progress in the free game, 24 with the optional unlock.\n\nNO ADS. NO EN",
+   "developer": "Jasper Blaauw",
+   "rating": null,
    "price": "Free",
-   "requirements": "iOS 13.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/furry-fighters-idle-rpg/id6759914688",
+   "requirements": "iOS 18.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/quiet-grind-idle-rpg/id6795253167",
    "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/furry-fighters-idle-rpg/id6759914688",
-   "updatedAt": "2026-11-11T03:05:01Z",
-   "firstSeenAt": "2026-11-13T05:31:42.682Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "sourceUrl": "https://apps.apple.com/vn/app/quiet-grind-idle-rpg/id6795253167",
+   "updatedAt": "2026-11-14T14:18:23Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6803383745",
@@ -3872,8 +3866,8 @@
    "description": "INFINITE DEFENSE: IDLE TD GAME\n\nDefend your base against endless waves of monsters! Build powerful towers, summon mighty heroes, and watch your defenses grow stronger even while you're away. Infinite Defense combines classic tower defense strategy with satisfying idle progression - perfect for quick sessions or long-term growth.\n\nSTRATEGIC TOWER DEFENSE\nPlace and upgrade a variety of towers, each with unique abilities. Plan your layout carefully to hold the line against increasingly powerful enemy waves.\n\nIDLE PROGRESSION\nYour towers keep fighting and earning rewards even when you're offline. ",
    "developer": "HORUS ENTERTAINMENT PTE. LTD.",
    "rating": {
-    "value": 4.5,
-    "count": 37,
+    "value": 4.6,
+    "count": 38,
     "by": "App Store"
    },
    "price": "Free",
@@ -3883,7 +3877,54 @@
    "sourceUrl": "https://apps.apple.com/vn/app/infinite-defense-idle-td-game/id6803383745",
    "updatedAt": "2026-11-15T12:20:11Z",
    "firstSeenAt": "2026-10-21T00:27:55.824Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6752849675",
+   "kind": "store",
+   "name": "Supermarket Tycoon Empire",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/5f/0a/fa5f0aae-5a7d-cc38-01bd-3e38d509e0d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Casual",
+   "genres": [
+    "Games",
+    "Casual",
+    "Simulation"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-08-13",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "supportsVietnamese": false,
+   "description": "Turn a tiny corner store into a thriving retail empire in this wildly addictive idle supermarket tycoon game!Includes optional purchases and loot boxes with random rewards.\n\nBuild, manage, and grow your very own supermarket in this fun and casual idle game. Stock shelves, set prices, and outsmart the competition to create the ultimate shopping experience. With board game twists, special promotions, and offline progress — this is your chance to become a true business tycoon!\n\nKey Features:\n\nIdle Supermarket Building\nGrow your supermarket empire! Upgrade shelf quantity, increase product prices, ",
+   "developer": "Celestial Roads LLC",
+   "rating": {
+    "value": 4.9,
+    "count": 2858,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/supermarket-tycoon-empire/id6752849675",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/supermarket-tycoon-empire/id6752849675",
+   "updatedAt": "2026-11-12T20:39:37Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6761036123",
@@ -3923,7 +3964,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/girls-frontline-2-l%C6%B0u-%C4%91%C3%A0y/id6761036123",
    "updatedAt": "2026-10-28T23:39:09Z",
    "firstSeenAt": "2026-11-08T00:46:05.060Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6789040217",
@@ -3969,7 +4010,7 @@
    "developer": "RICH NERVE PTE. LTD.",
    "rating": {
     "value": 4.9,
-    "count": 254,
+    "count": 258,
     "by": "App Store"
    },
    "price": "Free",
@@ -3979,60 +4020,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/colordoku-logic-puzzle/id6789040217",
    "updatedAt": "2026-11-10T02:51:34Z",
    "firstSeenAt": "2026-11-07T00:46:05.573Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
-  },
-  {
-   "id": "apple:6791427742",
-   "kind": "store",
-   "name": "People Jam: Seat Puzzle",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/af/41/c4af41bb-0e22-9b7c-9477-dad5ea677431/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-   "genre": "Casual",
-   "genres": [
-    "Games",
-    "Casual",
-    "Puzzle"
-   ],
-   "platforms": [
-    "iOS"
-   ],
-   "releaseDate": "2026-07-25",
-   "releaseDateKind": "release",
-   "status": "released",
-   "regions": [
-    "App Store VN"
-   ],
-   "languages": [
-    "EN",
-    "FR",
-    "DE",
-    "ID",
-    "IT",
-    "JA",
-    "KO",
-    "PT",
-    "RU",
-    "ZH",
-    "ES",
-    "ZH",
-    "TR",
-    "VI"
-   ],
-   "supportsVietnamese": true,
-   "description": "Bus Jam — Pick the Right Color, Avoid the Crash! \n\nPassengers are waiting on a moving conveyor belt. Each one has a color — red, blue, yellow, green. Your job? Tap the bus that matches their color and send it to pick them up. Simple, right? Wait — the buses are parked all over the lot, and every bus has a direction arrow.\n\n How It Works\nWatch the conveyor belt. A red passenger appears. Tap the red bus.  That bus will drive along its arrow path to pick up the passenger, then leave the lot. New passengers keep coming as the belt cycles.\n\nDon’t Let Buses Collide\nBuses move along fixed arrows. If ",
-   "developer": "Solid Games LIMITED",
-   "rating": {
-    "value": 4.5,
-    "count": 610,
-    "by": "App Store"
-   },
-   "price": "Free",
-   "requirements": "iOS 15.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/people-jam-seat-puzzle/id6791427742",
-   "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/people-jam-seat-puzzle/id6791427742",
-   "updatedAt": "2026-10-22T01:52:01Z",
-   "firstSeenAt": "2026-10-13T00:22:11.971Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6764057351",
@@ -4071,7 +4059,60 @@
    "sourceUrl": "https://apps.apple.com/vn/app/pixglow-color-sort-puzzle/id6764057351",
    "updatedAt": "2026-10-27T21:39:21Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6791427742",
+   "kind": "store",
+   "name": "People Jam: Seat Puzzle",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/ae/65/aeae650e-2c8d-ef01-5670-8912eb895129/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Casual",
+   "genres": [
+    "Games",
+    "Casual",
+    "Puzzle"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-07-25",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN",
+    "FR",
+    "DE",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH",
+    "TR",
+    "VI"
+   ],
+   "supportsVietnamese": true,
+   "description": "Bus Jam — Pick the Right Color, Avoid the Crash! \n\nPassengers are waiting on a moving conveyor belt. Each one has a color — red, blue, yellow, green. Your job? Tap the bus that matches their color and send it to pick them up. Simple, right? Wait — the buses are parked all over the lot, and every bus has a direction arrow.\n\n How It Works\nWatch the conveyor belt. A red passenger appears. Tap the red bus.  That bus will drive along its arrow path to pick up the passenger, then leave the lot. New passengers keep coming as the belt cycles.\n\nDon’t Let Buses Collide\nBuses move along fixed arrows. If ",
+   "developer": "Solid Games LIMITED",
+   "rating": {
+    "value": 4.5,
+    "count": 611,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/people-jam-seat-puzzle/id6791427742",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/people-jam-seat-puzzle/id6791427742",
+   "updatedAt": "2026-11-16T02:18:23Z",
+   "firstSeenAt": "2026-10-13T00:22:11.971Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6798184270",
@@ -4099,7 +4140,7 @@
    "developer": "清 张",
    "rating": {
     "value": 4.6,
-    "count": 183,
+    "count": 187,
     "by": "App Store"
    },
    "price": "Free",
@@ -4109,7 +4150,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/coinfall-merge-puzzle/id6798184270",
    "updatedAt": "2026-10-13T10:16:33Z",
    "firstSeenAt": "2026-11-05T00:49:35.265Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6803813939",
@@ -4141,7 +4182,7 @@
    "developer": "Beijing Wanjia Zhuhua Technology Co., Ltd",
    "rating": {
     "value": 4.7,
-    "count": 82,
+    "count": 86,
     "by": "App Store"
    },
    "price": "Free",
@@ -4151,7 +4192,55 @@
    "sourceUrl": "https://apps.apple.com/vn/app/fashion-makeover-puzzle/id6803813939",
    "updatedAt": "2026-11-11T01:07:36Z",
    "firstSeenAt": "2026-11-10T19:25:45.554Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6797907221",
+   "kind": "store",
+   "name": "Fill Sand: Block Puzzle",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/8e/e4/558ee47e-0665-ef88-f9d0-a514e1b2b99c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Puzzle",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Puzzle",
+    "Casual"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-08-27",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "supportsVietnamese": false,
+   "description": "Watch the sand pour.\n\nEvery single grain moves for real — it falls, it piles, it slides. Drop one\nblock and thousands of colored grains stream in, the picture above breaks\napart, and the colors settle somewhere you never planned for.\n\nSand Fill is the oddly satisfying block puzzle where physics does the talking.\n\n\nHOW TO PLAY\n\n• Look at the sand picture above — colors, shapes, layers.\n• Drag a block onto the grid below.\n• The block drinks up every grain that matches its color.\n• The rest of the sand collapses and resettles. Read it again.\n• Empty the whole picture before time runs out.\n\nOne fi",
+   "developer": "Stormborn Inc.",
+   "rating": {
+    "value": 4,
+    "count": 69,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/fill-sand-block-puzzle/id6797907221",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/fill-sand-block-puzzle/id6797907221",
+   "updatedAt": "2026-11-11T07:35:12Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6798905825",
@@ -4189,7 +4278,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/minimuses/id6798905825",
    "updatedAt": "2026-10-31T12:29:48Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6761761522",
@@ -4235,7 +4324,7 @@
    "developer": "ONDI TECHNOLOGY JSC",
    "rating": {
     "value": 4.6,
-    "count": 402,
+    "count": 403,
     "by": "App Store"
    },
    "price": "Free",
@@ -4245,7 +4334,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/pixel-defenders-merge-td-game/id6761761522",
    "updatedAt": "2026-11-07T00:27:48Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6769701683",
@@ -4285,23 +4374,23 @@
    "sourceUrl": "https://apps.apple.com/vn/app/%C4%91%E1%BB%99i-t%C6%B0%E1%BB%9Bng-nh%C3%AD-nh%E1%BB%91/id6769701683",
    "updatedAt": "2026-10-20T07:07:57Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
-   "id": "apple:6808331835",
+   "id": "apple:6822843308",
    "kind": "store",
-   "name": "Tomo Gacha: Digital Sim World",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/d8/ab/a8d8abb1-b5f2-1991-3cf0-e732577cde06/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-   "genre": "Adventure",
+   "name": "My Dressmaker",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/f9/47/31f947b1-f279-7ed2-695c-8c18806a37bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Role-Playing",
    "genres": [
     "Games",
-    "Adventure",
-    "Simulation"
+    "Role-Playing",
+    "Music"
    ],
    "platforms": [
     "iOS"
    ],
-   "releaseDate": "2026-10-09",
+   "releaseDate": "2026-11-06",
    "releaseDateKind": "release",
    "status": "released",
    "regions": [
@@ -4311,17 +4400,62 @@
     "EN"
    ],
    "supportsVietnamese": false,
-   "description": "Welcome to an amazing cozy life simulator set on the digital world of your dreams! Explore a vibrant cozy town, make friends with unique chibi avatar neighbors, discover their amazing stories, complete platformer challenges, and unlock all the secrets of this cozy world!\n\nGAMEPLAY: Explore, Jump & Help!\nFreedom to Explore: This amazing island world simulator  hides secrets, hidden crossing paths, and puzzles. Stroll down town streets, climb the highest points, and find every secret in this digital life sim!\nCozy Platforming: Test your skills with an amazing platformer! Overcome obstacles, jump",
-   "developer": "Marina Sharova",
-   "rating": null,
+   "description": "Every dress has a story. Make yours in My Dressmaker.\n\nStep into a world of beautiful fabrics, memorable clients, and small-town gossip. Bring your designs to life, from the first idea in your sketchbook to the final stitch, and create dresses for the moments that matter.\n\nCREATE FROM SCRATCH\nMeasure your clients, choose your designs, and combine fabrics and colors to suit their style. Cut your pattern pieces, assemble them on the mannequin, and guide each seam through the sewing machine.\n\nMAKE EVERY DETAIL YOURS\nExperiment with sleeves, skirts, collars, and finishing touches. Add accessories ",
+   "developer": "INSTITUT DE GENECH",
+   "rating": {
+    "value": 5,
+    "count": 3,
+    "by": "App Store"
+   },
    "price": "Free",
-   "requirements": "iOS 13.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/tomo-gacha-digital-sim-world/id6808331835",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/my-dressmaker/id6822843308",
    "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/tomo-gacha-digital-sim-world/id6808331835",
-   "updatedAt": "2026-10-09T07:00:00Z",
-   "firstSeenAt": "2026-11-15T18:34:55.662Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "sourceUrl": "https://apps.apple.com/vn/app/my-dressmaker/id6822843308",
+   "updatedAt": "2026-11-06T22:31:49Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6754063550",
+   "kind": "store",
+   "name": "Lucky Pirates - Ahoy",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/42/16/274216cd-4db3-c159-6a38-08792a40a3ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Casual",
+   "genres": [
+    "Games",
+    "Casual",
+    "Adventure"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-09-14",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN",
+    "KO"
+   ],
+   "supportsVietnamese": false,
+   "description": "Set sail across the vast ocean and lead your own pirate crew on a legendary voyage!\nBattle dangerous foes, discover diverse treasures, and grow without end—\nexplore a sea full of danger and mystery!\n\n◆ Game Features ◆\n\n▶ Build Your Own Pirate Crew\nRecruit sailors, assemble your dream ship, and forge the ultimate pirate crew.\n\n▶ Thrilling Combat System\nFight a wide range of enemies in strategic, action-packed battles.\n\n▶ Choice-Driven Growth System\nA wide variety of skills to choose from!\nYour choices completely reshape your combat style.\n\n▶ Endless Ocean Exploration\nExplore diverse seas, each ",
+   "developer": "JunYoung Park",
+   "rating": {
+    "value": 4.8,
+    "count": 13,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/lucky-pirates-ahoy/id6754063550",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/lucky-pirates-ahoy/id6754063550",
+   "updatedAt": "2026-11-12T23:56:25Z",
+   "firstSeenAt": "2026-11-05T00:49:35.265Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6801368552",
@@ -4366,7 +4500,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/squishy-butter/id6801368552",
    "updatedAt": "2026-11-13T02:52:55Z",
    "firstSeenAt": "2026-10-19T12:32:11.429Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6789188503",
@@ -4397,7 +4531,7 @@
    "developer": "DIGINEXT GROUP JOINT STOCK COMPANY",
    "rating": {
     "value": 4.8,
-    "count": 234,
+    "count": 233,
     "by": "App Store"
    },
    "price": "Free",
@@ -4407,48 +4541,92 @@
    "sourceUrl": "https://apps.apple.com/vn/app/m%E1%BB%99ng-thi%C3%AAn-ki%E1%BA%BFm-digigames/id6789188503",
    "updatedAt": "2026-11-12T01:23:56Z",
    "firstSeenAt": "2026-10-30T12:39:56.566Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
-   "id": "apple:6754063550",
+   "id": "apple:6813894016",
    "kind": "store",
-   "name": "Lucky Pirates - Ahoy",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/42/16/274216cd-4db3-c159-6a38-08792a40a3ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "name": "Duck Gacha: Collecting Game",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/43/59/6143599f-8511-147d-7ee4-eab3fe3186a1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
    "genre": "Casual",
    "genres": [
     "Games",
     "Casual",
-    "Adventure"
+    "Simulation"
    ],
    "platforms": [
     "iOS"
    ],
-   "releaseDate": "2026-09-14",
+   "releaseDate": "2026-10-23",
    "releaseDateKind": "release",
    "status": "released",
    "regions": [
     "App Store VN"
    ],
    "languages": [
+    "AF",
+    "AR",
+    "AZ",
+    "EU",
+    "BN",
+    "BG",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
     "EN",
-    "KO"
+    "ET",
+    "FI",
+    "FR",
+    "GL",
+    "DE",
+    "EL",
+    "HE",
+    "HI",
+    "HU",
+    "IS",
+    "ID",
+    "GA",
+    "IT",
+    "JA",
+    "KO",
+    "LV",
+    "LT",
+    "LB",
+    "MS",
+    "MT",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "SK",
+    "SL",
+    "ES",
+    "SV",
+    "TA",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "UR",
+    "VI",
+    "CY"
    ],
-   "supportsVietnamese": false,
-   "description": "Set sail across the vast ocean and lead your own pirate crew on a legendary voyage!\nBattle dangerous foes, discover diverse treasures, and grow without end—\nexplore a sea full of danger and mystery!\n\n◆ Game Features ◆\n\n▶ Build Your Own Pirate Crew\nRecruit sailors, assemble your dream ship, and forge the ultimate pirate crew.\n\n▶ Thrilling Combat System\nFight a wide range of enemies in strategic, action-packed battles.\n\n▶ Choice-Driven Growth System\nA wide variety of skills to choose from!\nYour choices completely reshape your combat style.\n\n▶ Endless Ocean Exploration\nExplore diverse seas, each ",
-   "developer": "JunYoung Park",
-   "rating": {
-    "value": 4.8,
-    "count": 13,
-    "by": "App Store"
-   },
+   "supportsVietnamese": true,
+   "description": "Duck Gacha is a cozy idle clicker: a capsule machine, a duck park that grows with you, and six maps to explore.\n\nIDLE AND CLICKER PLAY\nTap to charge the capsule machine, or buy upgrades that tap and open for you. Away from the game, the machine keeps working: when you return, you see the capsules it opened and the coins it earned.\n\nOPEN CAPSULES AND COLLECT DUCKS\nFeed the capsule machine and open ducks of every rarity. Repeat ducks upgrade the ducks you already own.\n\nEXPLORE SIX MAPS\nSunny Meadow, Ducky Beach, Autumn Pond, Frosty Lake, Candy Carnival and Starlight Lagoon each have their own lo",
+   "developer": "Sabri Can Cetinbas",
+   "rating": null,
    "price": "Free",
    "requirements": "iOS 15.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/lucky-pirates-ahoy/id6754063550",
+   "storeUrl": "https://apps.apple.com/vn/app/duck-gacha-collecting-game/id6813894016",
    "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/lucky-pirates-ahoy/id6754063550",
-   "updatedAt": "2026-11-12T23:56:25Z",
-   "firstSeenAt": "2026-11-05T00:49:35.265Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "sourceUrl": "https://apps.apple.com/vn/app/duck-gacha-collecting-game/id6813894016",
+   "updatedAt": "2026-11-04T16:24:37Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6798101352",
@@ -4498,7 +4676,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/legacy-xi-ultimate-draft/id6798101352",
    "updatedAt": "2026-11-03T15:32:54Z",
    "firstSeenAt": "2026-11-14T17:44:30.956Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6776991025",
@@ -4527,7 +4705,7 @@
    "developer": "CTC TECHNOLOGY LIMITED",
    "rating": {
     "value": 4.5,
-    "count": 405,
+    "count": 408,
     "by": "App Store"
    },
    "price": "Free",
@@ -4537,7 +4715,136 @@
    "sourceUrl": "https://apps.apple.com/vn/app/zoo-prank-animal-simulator/id6776991025",
    "updatedAt": "2026-11-12T19:05:22Z",
    "firstSeenAt": "2026-11-07T00:46:05.573Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6746760369",
+   "kind": "store",
+   "name": "Everlife 2 - Life Simulator",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/4d/cd/224dcdc0-18db-5047-cb80-202ccaca079e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+   "genre": "Strategy",
+   "genres": [
+    "Games",
+    "Strategy",
+    "Role-Playing"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-09-17",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TH",
+    "ZH",
+    "VI"
+   ],
+   "supportsVietnamese": true,
+   "description": "Build a life. Then build a legacy.\n\nEverlife 2 is a free life simulator with no ads and over a million words of story. Grow up, fall in love, chase a career, make a few terrible decisions, and leave a family behind to deal with them.\n\n• More than 13,000 cards across school, love, work, family, health, crime and fame\n• Branching storylines that unfold over years, with multiple endings\n• 350 jobs, dozens of skills and over 120 kinds of creative projects\n• 14 towns, each with its own scenery, climate, holiday, stories and elections\n• Play for generations as your heirs inherit the money, the house",
+   "developer": "Eververse LLC",
+   "rating": {
+    "value": 5,
+    "count": 12,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 17.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/everlife-2-life-simulator/id6746760369",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/everlife-2-life-simulator/id6746760369",
+   "updatedAt": "2026-11-11T17:04:06Z",
+   "firstSeenAt": "2026-11-13T05:31:42.682Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6784124888",
+   "kind": "store",
+   "name": "Bus Simulator India: Maleo",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/95/57/e6955747-2d39-a723-bf1d-462479683f83/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Racing",
+   "genres": [
+    "Games",
+    "Racing",
+    "Simulation"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-09-03",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN"
+   ],
+   "supportsVietnamese": false,
+   "description": "Bus Simulator India (BUSSIN) is one of the most immersive Indian bus simulator games, letting you experience what it’s like to be a real bus driver in India - from crowded city traffic to long highway journeys.\nDrive through realistic Indian environments, handle chaotic traffic, and master real driving challenges in this bus driving game India players will love. With detailed buses, iconic horns, and authentic road conditions, BUSSIN delivers a true Indian traffic simulator experience.\n\n:oncoming_bus: Key Features:\n\n:art: Create and customize your own bus livery\n:video_game: Easy and intuitive",
+   "developer": "CV. Maleo Media Kreatif",
+   "rating": {
+    "value": 4,
+    "count": 10,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/bus-simulator-india-maleo/id6784124888",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/bus-simulator-india-maleo/id6784124888",
+   "updatedAt": "2026-09-04T02:39:29Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6817126925",
+   "kind": "store",
+   "name": "Tuning Simulator",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/d3/a3/37d3a3eb-98b4-e088-2420-e1dd3492ff5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+   "genre": "Racing",
+   "genres": [
+    "Games",
+    "Racing",
+    "Education",
+    "Simulation"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-10-10",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN"
+   ],
+   "supportsVietnamese": false,
+   "description": "A simulated engine on a dyno, run by a standalone ECU you tune yourself. Change the fuel map, the timing or the boost and watch what happens to the power curve, the mixture and the knock sensor.\n\nIt behaves like the real thing. The engine model runs every combustion event. Lean it out and it misfires. Add too much timing and it knocks, then cracks a piston. Fit bigger injectors without telling the ECU and it floods.\n\nTHE ECU\n- Fuel VE, lambda targets, ignition, boost target and wastegate duty, idle, warmup, cranking, accel enrichment and dead times\n- Closed loop, knock control, rev and boost l",
+   "developer": "Scott Busby",
+   "rating": null,
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/tuning-simulator/id6817126925",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/tuning-simulator/id6817126925",
+   "updatedAt": "2026-11-15T20:49:30Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6817087704",
@@ -4594,104 +4901,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/ant-colony-simulator-pet-ants/id6817087704",
    "updatedAt": "2026-11-15T16:58:29Z",
    "firstSeenAt": "2026-11-15T18:34:55.662Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
-  },
-  {
-   "id": "apple:6746760369",
-   "kind": "store",
-   "name": "Everlife 2 - Life Simulator",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/4d/cd/224dcdc0-18db-5047-cb80-202ccaca079e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-   "genre": "Strategy",
-   "genres": [
-    "Games",
-    "Strategy",
-    "Role-Playing"
-   ],
-   "platforms": [
-    "iOS"
-   ],
-   "releaseDate": "2026-09-17",
-   "releaseDateKind": "release",
-   "status": "released",
-   "regions": [
-    "App Store VN"
-   ],
-   "languages": [
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "JA",
-    "KO",
-    "PT",
-    "RU",
-    "ZH",
-    "ES",
-    "TH",
-    "ZH",
-    "VI"
-   ],
-   "supportsVietnamese": true,
-   "description": "Build a life. Then build a legacy.\n\nEverlife 2 is a free life simulator with no ads and over a million words of story. Grow up, fall in love, chase a career, make a few terrible decisions, and leave a family behind to deal with them.\n\n• More than 13,000 cards across school, love, work, family, health, crime and fame\n• Branching storylines that unfold over years, with multiple endings\n• 350 jobs, dozens of skills and over 120 kinds of creative projects\n• 14 towns, each with its own scenery, climate, holiday, stories and elections\n• Play for generations as your heirs inherit the money, the house",
-   "developer": "Eververse LLC",
-   "rating": {
-    "value": 5,
-    "count": 11,
-    "by": "App Store"
-   },
-   "price": "Free",
-   "requirements": "iOS 17.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/everlife-2-life-simulator/id6746760369",
-   "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/everlife-2-life-simulator/id6746760369",
-   "updatedAt": "2026-11-11T17:04:06Z",
-   "firstSeenAt": "2026-11-13T05:31:42.682Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
-  },
-  {
-   "id": "apple:6821128741",
-   "kind": "store",
-   "name": "Armor Sandbox: 2D Physics",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/c2/31/fdc23136-efc8-2b11-b449-61298ab910a8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-   "genre": "Simulation",
-   "genres": [
-    "Games",
-    "Simulation",
-    "Entertainment",
-    "Casual"
-   ],
-   "platforms": [
-    "iOS"
-   ],
-   "releaseDate": "2026-10-22",
-   "releaseDateKind": "release",
-   "status": "released",
-   "regions": [
-    "App Store VN"
-   ],
-   "languages": [
-    "EN",
-    "PT",
-    "RU",
-    "ZH",
-    "ES"
-   ],
-   "supportsVietnamese": false,
-   "description": "Armor Sandbox is a 2D physics sandbox and ballistics simulator. Pick something to shoot, pick something to shoot at, and watch what actually happens: armour penetration, ricochets, spalling, fire and explosions, all from real physics.\n\nNothing here is a canned animation. Every armour plate, every projectile and every fragment is made of particles that carry real material properties: density, strength, toughness, melting point, heat capacity. Deformation, fracture, spalling, heat, fire and detonation all come from those numbers. Swap the steel for glass and it shatters instead of denting, becau",
-   "developer": "VBJ VENTURES LTDA",
-   "rating": {
-    "value": 4.8,
-    "count": 8,
-    "by": "App Store"
-   },
-   "price": "Free",
-   "requirements": "iOS 15.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/armor-sandbox-2d-physics/id6821128741",
-   "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/armor-sandbox-2d-physics/id6821128741",
-   "updatedAt": "2026-11-14T18:19:37Z",
-   "firstSeenAt": "2026-11-15T18:34:55.662Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6757908157",
@@ -4731,7 +4941,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/jojos-bizarre-adventure-gs/id6757908157",
    "updatedAt": "2026-08-13T07:00:00Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6761461013",
@@ -4791,7 +5001,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/gt-rivals-real-racing-sim/id6761461013",
    "updatedAt": "2026-10-29T09:13:57Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6793816422",
@@ -4827,7 +5037,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/formula-ride/id6793816422",
    "updatedAt": "2026-10-31T18:03:24Z",
    "firstSeenAt": "2026-11-13T05:31:42.682Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6810319396",
@@ -4868,7 +5078,50 @@
    "sourceUrl": "https://apps.apple.com/vn/app/geoprix-world-racing-sim/id6810319396",
    "updatedAt": "2026-11-08T22:46:13Z",
    "firstSeenAt": "2026-11-14T05:23:08.007Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6829970428",
+   "kind": "store",
+   "name": "AutoRace: Idle Racing",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/19/2b/6b192bcd-f9da-da86-39c8-07ed4d8fc738/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Racing",
+   "genres": [
+    "Games",
+    "Racing",
+    "Casual"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-11-13",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "supportsVietnamese": false,
+   "description": "Your car drives itself. Your choices win the race!\n\nAutoRace! is a fast, one-thumb racing game. Tap the left or right side of the screen to switch lanes, hold at GO for a Turbo start, and pick one of three skill cards at every gate to charge past the field.\n\n[TAP, BOOST, OVERTAKE]\n• Tap left or right to change lanes and slip past rivals\n• Hold the screen at GO for a Turbo launch\n• Pick 1 of 3 skill cards at each gate and turn the race around\n\n[BUILD YOUR CAR]\n• Collect engines, bodies, tires, front wings and rear wings\n• Merge same-grade parts into higher grades, all the way to Grade 13\n• Ever",
+   "developer": "Peb Inc.",
+   "rating": null,
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/autorace-idle-racing/id6829970428",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/autorace-idle-racing/id6829970428",
+   "updatedAt": "2026-11-13T15:21:21Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6792741328",
@@ -4905,7 +5158,57 @@
    "sourceUrl": "https://apps.apple.com/vn/app/phom-t%C3%A1-l%E1%BA%A3-offline-card-game/id6792741328",
    "updatedAt": "2026-10-26T01:10:39Z",
    "firstSeenAt": "2026-10-21T00:27:55.824Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6822105774",
+   "kind": "store",
+   "name": "Flip Match: Matching Card Game",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/24/5e/2d245e6c-4e6c-60c5-f4b2-dc2520eb34eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+   "genre": "Board",
+   "genres": [
+    "Games",
+    "Board",
+    "Puzzle"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-11-06",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN",
+    "FR",
+    "DE",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TH",
+    "ZH",
+    "TR",
+    "VI"
+   ],
+   "supportsVietnamese": true,
+   "description": "Flip Match is the classic memory card game, rebuilt for quick fun alone or with friends.\n\nFlip two cards. Same picture? It's a match. Different? Remember where they were and try again. Clear the board in as few moves as you can.\n\nPLAY YOUR WAY\n• Solo — beat your own best time and move count\n• Versus bot — five levels, from Wobbly Chick to Divine Dragon\n• Same device — pass the phone around, up to 4 players\n• Online rooms — create a room, share the 6-digit code or link, up to 4 players\n• Teams and bots — pick the same team number to play together, or fill empty seats with bots\n• Campaign — a 60",
+   "developer": "Kien Nguyen",
+   "rating": null,
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/flip-match-matching-card-game/id6822105774",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/flip-match-matching-card-game/id6822105774",
+   "updatedAt": "2026-11-15T23:27:47Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6746827417",
@@ -4945,7 +5248,53 @@
    "sourceUrl": "https://apps.apple.com/vn/app/%C4%91%E1%BA%A1o-h%E1%BB%AFu-xin-d%E1%BB%ABng-b%C6%B0%E1%BB%9Bc-tu-ti%C3%AAn/id6746827417",
    "updatedAt": "2026-09-03T04:04:49Z",
    "firstSeenAt": "2026-11-03T00:46:32.563Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6788647921",
+   "kind": "store",
+   "name": "Catedrop: Card Puzzle",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/66/04/0a6604c1-0984-f213-b1bb-54e4a17246e8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+   "genre": "Puzzle",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Casual"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-08-02",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "ES"
+   ],
+   "supportsVietnamese": false,
+   "description": "Collect cards, reveal hidden ones, and clear every stage!\n\nWelcome to Catedrop, a fresh card puzzle where every move opens new possibilities.\n\nCollect matching cards into their groups to remove them from the board and uncover the hidden cards beneath. Each decision changes the puzzle, so planning ahead is the key to success.\n\nEasy to learn and satisfying to play, Catedrop offers relaxing puzzles that reward smart thinking without overwhelming complexity.\n\nFeatures\n\n• Clear every card to complete each stage\n• Think ahead and discover the best path\n• Simple controls with engaging puzzle gameplay",
+   "developer": "GOODROID,Inc.",
+   "rating": {
+    "value": 4.6,
+    "count": 83,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/catedrop-card-puzzle/id6788647921",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/catedrop-card-puzzle/id6788647921",
+   "updatedAt": "2026-10-30T11:50:30Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6823951781",
@@ -4989,7 +5338,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/valeshard-hero-tower-defense/id6823951781",
    "updatedAt": "2026-11-11T00:55:48Z",
    "firstSeenAt": "2026-11-08T12:37:32.184Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6806354022",
@@ -5040,7 +5389,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/inktower-idle-tower-defense/id6806354022",
    "updatedAt": "2026-10-24T18:44:42Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6805691988",
@@ -5124,7 +5473,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/merge-tower-defense-infinite/id6805691988",
    "updatedAt": "2026-11-09T14:38:33Z",
    "firstSeenAt": "2026-10-25T12:24:27.279Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6778697840",
@@ -5167,7 +5516,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/bunker-taptap-defense/id6778697840",
    "updatedAt": "2026-11-12T20:30:41Z",
    "firstSeenAt": "2026-10-15T00:27:20.126Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6815304121",
@@ -5215,7 +5564,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/heros-underground-shift/id6815304121",
    "updatedAt": "2026-11-14T06:50:21Z",
    "firstSeenAt": "2026-11-10T00:46:53.953Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6808790342",
@@ -5252,7 +5601,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/everhex/id6808790342",
    "updatedAt": "2026-11-13T20:10:34Z",
    "firstSeenAt": "2026-11-14T17:44:30.956Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6819923986",
@@ -5289,7 +5638,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/coastal-defense-kingdom-td/id6819923986",
    "updatedAt": "2026-10-28T02:44:16Z",
    "firstSeenAt": "2026-11-01T12:38:08.439Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6802927929",
@@ -5337,7 +5686,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/gear-plants-merge-defense/id6802927929",
    "updatedAt": "2026-11-05T02:16:01Z",
    "firstSeenAt": "2026-11-04T12:51:33.028Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6757860952",
@@ -5392,7 +5741,7 @@
    "developer": "Playdigious",
    "rating": {
     "value": 4.3,
-    "count": 112,
+    "count": 113,
     "by": "App Store"
    },
    "price": "Free",
@@ -5402,7 +5751,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/9-kings/id6757860952",
    "updatedAt": "2026-11-12T13:31:32Z",
    "firstSeenAt": "2026-10-20T12:29:41.582Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6758385728",
@@ -5458,46 +5807,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/soldier-defense/id6758385728",
    "updatedAt": "2026-11-05T04:52:38Z",
    "firstSeenAt": "2026-10-21T00:27:55.824Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
-  },
-  {
-   "id": "apple:6758211113",
-   "kind": "store",
-   "name": "Infinite Crafter (TD)",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/a8/1d/2ba81d54-305e-6bc2-edca-656139a3123b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-   "genre": "Action",
-   "genres": [
-    "Games",
-    "Action"
-   ],
-   "platforms": [
-    "iOS"
-   ],
-   "releaseDate": "2026-10-16",
-   "releaseDateKind": "release",
-   "status": "released",
-   "regions": [
-    "App Store VN"
-   ],
-   "languages": [
-    "EN"
-   ],
-   "supportsVietnamese": false,
-   "description": "Infinite Crafter is a strategy game where the four elements become your greatest weapons. Combine Water, Fire, Earth, and Wind to craft powerful abilities, build your defense, and stop endless waves of enemies from breaking through.\n\nSummon. Merge. Defend.\n\nEvery battle starts the same — four elements, an empty grid, and waves incoming. What you build from there is entirely up to you. Merge elements to discover 100+ unique combinations, each unlocking new elements, new strategies, and new ways to play. Some merges are obvious. Others will catch you off guard. Finding them all is half the game.",
-   "developer": "Rollic Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
-   "rating": {
-    "value": 4.2,
-    "count": 39,
-    "by": "App Store"
-   },
-   "price": "Free",
-   "requirements": "iOS 15.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/infinite-crafter-td/id6758211113",
-   "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/infinite-crafter-td/id6758211113",
-   "updatedAt": "2026-10-16T07:00:00Z",
-   "firstSeenAt": "2026-11-08T12:37:32.184Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6770472801",
@@ -5526,7 +5836,7 @@
    "developer": "ALO DIGITAL TECHNOLOGY JOINT STOCK COMPANY",
    "rating": {
     "value": 4.9,
-    "count": 716,
+    "count": 718,
     "by": "App Store"
    },
    "price": "Free",
@@ -5536,7 +5846,129 @@
    "sourceUrl": "https://apps.apple.com/vn/app/pof-con-%C4%91%C6%B0%E1%BB%9Dng-ma-ph%C3%A1p/id6770472801",
    "updatedAt": "2026-11-11T02:52:32Z",
    "firstSeenAt": "2026-10-10T14:05:46.653Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6758211113",
+   "kind": "store",
+   "name": "Infinite Crafter (TD)",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/a8/1d/2ba81d54-305e-6bc2-edca-656139a3123b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Action",
+   "genres": [
+    "Games",
+    "Action"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-10-16",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN"
+   ],
+   "supportsVietnamese": false,
+   "description": "Infinite Crafter is a strategy game where the four elements become your greatest weapons. Combine Water, Fire, Earth, and Wind to craft powerful abilities, build your defense, and stop endless waves of enemies from breaking through.\n\nSummon. Merge. Defend.\n\nEvery battle starts the same — four elements, an empty grid, and waves incoming. What you build from there is entirely up to you. Merge elements to discover 100+ unique combinations, each unlocking new elements, new strategies, and new ways to play. Some merges are obvious. Others will catch you off guard. Finding them all is half the game.",
+   "developer": "Rollic Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+   "rating": {
+    "value": 4.2,
+    "count": 40,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/infinite-crafter-td/id6758211113",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/infinite-crafter-td/id6758211113",
+   "updatedAt": "2026-10-16T07:00:00Z",
+   "firstSeenAt": "2026-11-08T12:37:32.184Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6780751871",
+   "kind": "store",
+   "name": "CR: Korilakkuma Tower Defense",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/7f/66/c77f667e-f564-2a84-2292-28106f5e4adf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Strategy",
+   "genres": [
+    "Games",
+    "Strategy",
+    "Casual"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-11-09",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN"
+   ],
+   "supportsVietnamese": false,
+   "description": "MEMBERSHIP REQUIRED - Exclusive to Crunchyroll Mega and Ultimate Fan Memberships\n\nKorilakkuma Takes the Spotlight in a Kawaii Tower Defense Game!\n\nCalling all Rilakkuma and San-X fans! Step into the cozy, charming world of Korilakkuma Tower Defense, a casual strategy game featuring kawaii characters, tactical tower defense battles, and collectible toys!\n\nThe Story \nIt was a quiet, relaxing day in Korilakkuma’s cute toy kingdom… until the sneaky Kiiroitori Troop crashed the party! Now they’re marching in to disturb the peaceful playroom.\nIt’s up to Korilakkuma and a lovable crew of toy companio",
+   "developer": "Crunchyroll, LLC",
+   "rating": null,
+   "price": "Free",
+   "requirements": "iOS 17.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/cr-korilakkuma-tower-defense/id6780751871",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/cr-korilakkuma-tower-defense/id6780751871",
+   "updatedAt": "2026-11-09T23:17:33Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6813341401",
+   "kind": "store",
+   "name": "Node Defense",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/48/26/384826b0-5434-c069-1495-1780d97785ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Casual",
+   "genres": [
+    "Games",
+    "Casual",
+    "Strategy"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-11-01",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "supportsVietnamese": false,
+   "description": "Unknown enemies are closing in on your base in the depths of space!\n\nFire, Water, Earth, Wind, Dark, and Light—master Node Linking and unleash the power of elements!\nDefend your base with ever-strengthening cosmic energy alongside brilliant constellations lighting up the night sky!\n\n1. Design Your Own Node Network\nYour one and only base stands alone in the void of space.\nConnect nodes to channel starlight and transform it into powerful projectiles.\nEvery connection reshapes your strategy, creating countless ways to defend.\n\n2. Combine Cosmic Elements and Powers\nLink an Earth Node to a Fire Nod",
+   "developer": "ZZOO Inc.",
+   "rating": {
+    "value": 4.6,
+    "count": 18,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/node-defense/id6813341401",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/node-defense/id6813341401",
+   "updatedAt": "2026-11-01T07:00:00Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:6800611110",
@@ -5564,7 +5996,7 @@
    "developer": "MELLOWPLAY INTERACTIVE LIMITED",
    "rating": {
     "value": 4.8,
-    "count": 80,
+    "count": 82,
     "by": "App Store"
    },
    "price": "Free",
@@ -5574,7 +6006,7 @@
    "sourceUrl": "https://apps.apple.com/vn/app/snake-away-casual-puzzle/id6800611110",
    "updatedAt": "2026-11-04T02:56:22Z",
    "firstSeenAt": "2026-11-02T00:46:18.520Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "apple:1498869533",
@@ -5612,13 +6044,13 @@
    "sourceUrl": "https://apps.apple.com/vn/app/love-pins/id1498869533",
    "updatedAt": "2026-11-04T08:00:00Z",
    "firstSeenAt": "2026-11-05T12:55:30.702Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
-   "id": "apple:6793924927",
+   "id": "apple:6801039859",
    "kind": "store",
-   "name": "Rotate Rings",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/77/c0/7377c091-3e7b-1461-6711-b3db14d13ed5/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+   "name": "Crazy Story: Plot Twist",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/b2/03/73b203fa-44f7-451f-67bf-198934d91828/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
    "genre": "Casual",
    "genres": [
     "Games",
@@ -5629,7 +6061,7 @@
    "platforms": [
     "iOS"
    ],
-   "releaseDate": "2026-08-05",
+   "releaseDate": "2026-08-20",
    "releaseDateKind": "release",
    "status": "released",
    "regions": [
@@ -5637,42 +6069,116 @@
    ],
    "languages": [
     "AR",
-    "NL",
     "EN",
     "FR",
     "DE",
     "HI",
     "ID",
-    "IT",
     "JA",
     "KO",
+    "MS",
     "PT",
     "RU",
     "ZH",
     "ES",
-    "SV",
     "TH",
     "ZH",
-    "TR",
-    "UK",
     "VI"
    ],
    "supportsVietnamese": true,
-   "description": "Spin, align, and unlock! Welcome to Rotate Rings — the ultimatespatial logic puzzle designed to relax your mind and sharpen your brain.\nObserve the interlockedstructures, rotate each ring, and line up the hidden gaps to break the locks layer by layer. Simple to learn, deeply satisfying to master.\nHOW TO PLAY\n• Rotate: Tap and drag to spin rings to the target angle.\n• Align: Match the open gaps across multiple layers.\n• Untangle: Free the interlocking loops one by one.\n• Solve: Plan your moves carefully to clear stages efficiently.\nKEY FEATURES\n• Satisfying Tactile Feel: Smoothphysics, fluid an",
-   "developer": "HURELAX PTE. LTD.",
+   "description": "Crazy Story: Plot Twist — A mystery puzzle adventure full of secrets and surprises!\n\nEvery story hides a secret, and every scene contains clues waiting to be discovered.\n\nIn Crazy Story: Plot Twist, you become a detective and explore mysterious situations by observing details, analyzing clues, and solving challenging puzzles. Uncover hidden truths and reveal the surprising twists behind each story.\n\nBehind ordinary scenes may lie important evidence. Every choice, every discovery, and every deduction brings you closer to the final answer.\n\nGame Features:\n\nFind Hidden Clues\nSearch every scene ca",
+   "developer": "Guangzhou SmallStep Information Technology Co., Ltd",
    "rating": {
-    "value": 4.7,
-    "count": 4587,
+    "value": 4.6,
+    "count": 134,
     "by": "App Store"
    },
    "price": "Free",
    "requirements": "iOS 15.0+",
-   "storeUrl": "https://apps.apple.com/vn/app/rotate-rings/id6793924927",
+   "storeUrl": "https://apps.apple.com/vn/app/crazy-story-plot-twist/id6801039859",
    "source": "Apple App Store (iTunes API)",
-   "sourceUrl": "https://apps.apple.com/vn/app/rotate-rings/id6793924927",
-   "updatedAt": "2026-11-05T02:15:31Z",
-   "firstSeenAt": "2026-11-06T00:50:18.392Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "sourceUrl": "https://apps.apple.com/vn/app/crazy-story-plot-twist/id6801039859",
+   "updatedAt": "2026-11-12T19:46:56Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6781525746",
+   "kind": "store",
+   "name": "Zoodoku！",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/ef/fa/82effa2d-f4b1-ca44-684f-db25f221ae07/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+   "genre": "Puzzle",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Casual"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-07-26",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [
+    "EN"
+   ],
+   "supportsVietnamese": false,
+   "description": "Relax your mind with Zoodoku, an animal logic puzzle that blends Sudoku-style reasoning with Minesweeper-like deduction.\nFind the perfect territory for every animal. Place exactly one animal in each colored region while making sure no two animals share the same row or column or touch each other, even diagonally.\nEvery brain puzzle has one unique solution. There are no numbers, no math, and no guessing - only observation, deduction, and pure logic.\n\nSIMPLE RULES, DEEP STRATEGY\n• One Animal per Territory\nPlace exactly one animal inside each colored region.\n• One per Row and Column\nNo two animals",
+   "developer": "HURELAX PTE. LTD.",
+   "rating": {
+    "value": 4.8,
+    "count": 305,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 15.1+",
+   "storeUrl": "https://apps.apple.com/vn/app/zoodoku/id6781525746",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/zoodoku/id6781525746",
+   "updatedAt": "2026-11-16T02:37:33Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "apple:6785419179",
+   "kind": "store",
+   "name": "Quack Bag: Duck Mafia",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/82/12/3f821233-5642-25a4-4472-e9bb31c43728/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "genre": "Strategy",
+   "genres": [
+    "Games",
+    "Strategy",
+    "Role-Playing"
+   ],
+   "platforms": [
+    "iOS"
+   ],
+   "releaseDate": "2026-08-12",
+   "releaseDateKind": "release",
+   "status": "released",
+   "regions": [
+    "App Store VN"
+   ],
+   "languages": [],
+   "supportsVietnamese": false,
+   "description": "Build the bag. Merge the gear. Rule the streets!\n\nWelcome to Quack Bag: Duck Mafia — the explosive bag-building auto battler where cute ducks become fearless gang leaders in nonstop street battles!\n\nPack your bag with powerful weapons, merge gear into stronger firepower, and blast through waves of rival gangs in fast-paced, strategy-driven combat. Every slot matters. Every combo hits harder. Every run gives you a new way to dominate the streets.\n\nIf you love backpack strategy, merge upgrades, auto battles, and tower defense-style survival, this is your next obsession.\n\nBUILD THE PERFECT BAG\n\nY",
+   "developer": "Noodle Games Limited",
+   "rating": {
+    "value": 4.6,
+    "count": 324,
+    "by": "App Store"
+   },
+   "price": "Free",
+   "requirements": "iOS 15.0+",
+   "storeUrl": "https://apps.apple.com/vn/app/quack-bag-duck-mafia/id6785419179",
+   "source": "Apple App Store (iTunes API)",
+   "sourceUrl": "https://apps.apple.com/vn/app/quack-bag-duck-mafia/id6785419179",
+   "updatedAt": "2026-11-13T22:24:52Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "droidgamers:https://www.droidgamers.com/news/poppy-playtime-chapter-5/",
@@ -5692,7 +6198,7 @@
    "sourceUrl": "https://www.droidgamers.com/news/poppy-playtime-chapter-5/",
    "updatedAt": "2026-11-13T18:20:00.000Z",
    "firstSeenAt": "2026-11-14T17:44:30.956Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "droidgamers:https://www.droidgamers.com/news/gobs-gears/",
@@ -5712,7 +6218,49 @@
    "sourceUrl": "https://www.droidgamers.com/news/gobs-gears/",
    "updatedAt": "2026-11-11T19:16:00.000Z",
    "firstSeenAt": "2026-11-12T19:39:17.758Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "pocketgamer:https://www.pocketgamer.com/the-red-cathedral/official-launch-android-ios/",
+   "kind": "news",
+   "name": "The Red Cathedral brings its competitive cathedral-building board game to iOS and Android",
+   "icon": "https://media.pocketgamer.com/artwork/na-38753-1789474813/the-red-cathedral-keyart.jpg",
+   "status": "upcoming",
+   "platforms": [
+    "Android",
+    "iOS"
+   ],
+   "platformNote": "Nền tảng suy ra từ nội dung tin",
+   "regions": [],
+   "announcedAt": "2026-11-16",
+   "releaseDate": null,
+   "description": "It&rsquo;s been a little while coming, but Devir&rsquo;s digital edition of The Red Cathedral is finally out on iOS and Android (and on PC through Steam, for that matter). I wrote about it back when it was first announced in May, and Iwan had another look in September once it got a release date, so we&rsquo;ve been keeping tabs on this one for most of the year.\nYou&rsquo;re after the Tsar&rsquo;s ",
+   "source": "Pocket Gamer",
+   "sourceUrl": "https://www.pocketgamer.com/the-red-cathedral/official-launch-android-ios/",
+   "updatedAt": "2026-11-16T01:30:00.000Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
+  },
+  {
+   "id": "pocketgamer:https://www.pocketgamer.com/little-library/announcement/",
+   "kind": "news",
+   "name": "Little Library brings village life sim and bookshop management to iOS and Android this November",
+   "icon": "https://media.pocketgamer.com/artwork/na-38904-1794782348/little-lubrary-announcement-header.jpg",
+   "status": "upcoming",
+   "platforms": [
+    "Android",
+    "iOS"
+   ],
+   "platformNote": "Nền tảng suy ra từ nội dung tin",
+   "regions": [],
+   "announcedAt": "2026-11-16",
+   "releaseDate": null,
+   "description": "Only a few weeks after Kettle Street gave you a bare flat and a list of odd jobs around Kettleby, another cosy life sim is handing you a struggling village to help out. Little Library launches on iOS and Android later this month, and the village in question is Maplewood, which has just got itself a brand-new library and not a lot of money to run it with.\nKeeping the doors open is on you. There&rsq",
+   "source": "Pocket Gamer",
+   "sourceUrl": "https://www.pocketgamer.com/little-library/announcement/",
+   "updatedAt": "2026-11-16T01:00:00.000Z",
+   "firstSeenAt": "2026-11-16T05:16:35.850Z",
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "pocketgamer:https://www.pocketgamer.com/feed-the-scorchpot/android-early-access/",
@@ -5733,7 +6281,7 @@
    "sourceUrl": "https://www.pocketgamer.com/feed-the-scorchpot/android-early-access/",
    "updatedAt": "2026-11-15T04:00:00.000Z",
    "firstSeenAt": "2026-11-15T18:34:55.662Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   },
   {
    "id": "pocketgamer:https://www.pocketgamer.com/viking-rise/codes/",
@@ -5751,7 +6299,7 @@
    "sourceUrl": "https://www.pocketgamer.com/viking-rise/codes/",
    "updatedAt": "2026-11-14T02:54:00.000Z",
    "firstSeenAt": "2026-11-15T05:19:06.182Z",
-   "fetchedAt": "2026-11-15T18:34:55.662Z"
+   "fetchedAt": "2026-11-16T05:16:35.850Z"
   }
  ]
 }
