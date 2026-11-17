@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T21:43:53.890Z",
+ "generatedAt": "2026-11-17T06:58:00.576Z",
  "items": [
   {
    "id": "careerlink:3572789",
@@ -1537,8 +1537,8 @@
    ],
    "relevance": 100,
    "firstSeenAt": "2026-10-13T00:25:02.711Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -1569,40 +1569,8 @@
    ],
    "relevance": 100,
    "firstSeenAt": "2026-11-10T19:28:28.969Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:KqLaOAXgD1",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/ky-su-an-toan-lao-dong-hse-KqLaOAXgD1",
-   "title": "Kỹ Sư An Toàn Lao Động (HSE)",
-   "company": "Công ty tnhh hs",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2018/10/19/2018_10_19______44ec1497593085bf07353d1d313b8ba1.png",
-   "locations": [
-    "Long An"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Ngành nghề khác",
-   "datePosted": "2026-11-14",
-   "validThrough": "2026-11-28T23:59:59+07:00",
-   "description": "Thực hiện các công việc liên quan đến ATVSLĐ trong nhà máy sản xuất:\n- Công tác PCCC;\n- Quản lý an toàn hóa chất;\n- Tham gia xây dựng hệ thống HSE;\n- Và các nội dung khác phát sinh liên quan đến HSE của doanh nghiệp.\n- Đào tạo, kiểm tra, quản lý, đánh giá hồ sơ HSE;\n- Công tác môi trường;\n- Quản lý an toàn vệ sinh lao động;\n- Công tác điều tra tai nạn lao động và sự cố;",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-11-13T19:22:28.288Z",
-   "fetchedAt": "2026-11-16T21:46:48.841Z",
-   "verifiedAt": "2026-11-16T21:46:48.841Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -1638,6 +1606,38 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
+   "id": "job123:KqLaOAXgD1",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/ky-su-an-toan-lao-dong-hse-KqLaOAXgD1",
+   "title": "Kỹ Sư An Toàn Lao Động (HSE)",
+   "company": "Công ty tnhh hs",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2018/10/19/2018_10_19______44ec1497593085bf07353d1d313b8ba1.png",
+   "locations": [
+    "Long An"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "FULL_TIME",
+   "industry": "Ngành nghề khác",
+   "datePosted": "2026-11-14",
+   "validThrough": "2026-11-28T23:59:59+07:00",
+   "description": "Thực hiện các công việc liên quan đến ATVSLĐ trong nhà máy sản xuất:\n- Công tác PCCC;\n- Quản lý an toàn hóa chất;\n- Tham gia xây dựng hệ thống HSE;\n- Và các nội dung khác phát sinh liên quan đến HSE của doanh nghiệp.\n- Đào tạo, kiểm tra, quản lý, đánh giá hồ sơ HSE;\n- Công tác môi trường;\n- Quản lý an toàn vệ sinh lao động;\n- Công tác điều tra tai nạn lao động và sự cố;",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "HSE/EHS",
+    "An toàn lao động"
+   ],
+   "relevance": 100,
+   "firstSeenAt": "2026-11-13T19:22:28.288Z",
+   "fetchedAt": "2026-11-16T21:46:48.841Z",
+   "verifiedAt": "2026-11-16T21:46:48.841Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
    "id": "job123:ND4ZKYg8rv",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-hse-ND4ZKYg8rv",
@@ -1667,8 +1667,8 @@
    ],
    "relevance": 100,
    "firstSeenAt": "2026-11-10T19:28:28.969Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -1769,8 +1769,8 @@
    ],
    "relevance": 100,
    "firstSeenAt": "2026-10-10T15:14:50.541Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -1842,40 +1842,6 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:ArX8AjGNrV",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-hse-ArX8AjGNrV",
-   "title": "NHÂN VIÊN HSE",
-   "company": "Công Ty CP Nguyên Liệu Thực Phẩm Á Châu Sài Gòn",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/16/2023_02_16______39941ae8b8d802aa941e89f306f66dbe.png",
-   "locations": [
-    "Long An"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "An toàn lao động",
-   "datePosted": "2026-11-10",
-   "validThrough": "2026-12-12T23:59:59+07:00",
-   "description": "Huấn luyện & Đào tạo: Tổ chức các lớp đào tạo về an toàn lao động, hướng dẫn sử dụng thiết bị bảo hộ cá nhân (PPE) cho nhân viên mới và định kỳ cho nhân viên cũ.\nPhòng cháy chữa cháy (PCCC) & Ứng phó sự cố: Quản lý, bảo dưỡng hệ thống PCCC, thiết bị cứu hộ và xây dựng kế hoạch ứng phó khẩn cấp (diễn tập PCCC, tràn đổ hóa chất).\nĐiều tra và Báo cáo: Điều tra các vụ tai nạn lao động, sự cố môi trường, tìm nguyên nhân gốc rễ và lập báo cáo gửi cấp trên cũng như cơ quan chức năng.\nXây dựng và Kiểm soát Quy trình An toàn: Xây dựng, cập nhật các chính sách, quy trình, quy định về An toàn- Sức khỏe- Môi trường (HSE) phù hợp với quy định pháp luật và tiêu chuẩn nhà máy.\nGiám sát thực tế (Site Safety): Kiểm tra hàng ngày/định kỳ tại xưởng sản xuất để phát hiện các mối nguy (máy móc, cháy nổ, điện, hóa chất) và yêu cầu khắc phục ngay lập tức.\nQuản lý Sức khỏe nghề nghiệp: Theo dõi, kiểm tra môi trường làm việc (đo đạc tiếng ồn, ánh sáng, bụi, nồng độ hóa chất) và tổ chức khám sức khỏe định kỳ cho người lao động.\nQuản lý môi trường: Giám sát quy trình thu gom, phân loại, lưu giữ và xử lý chất thải nguy hại, chất thải công nghiệp theo quy định.\nCác nhiệm vụ khác theo phân công.",
-   "requirements": {
-    "degree": [],
-    "certs": [
-     "Huấn luyện & Đào tạo: Tổ chức các lớp đào tạo về an toàn lao động, hướng dẫn sử dụng thiết bị bảo hộ cá nhân (PPE) cho nhân viên mới và định kỳ cho nhân viên cũ."
-    ]
-   },
-   "tags": [
-    "HSE/EHS",
-    "An toàn lao động"
-   ],
-   "relevance": 100,
-   "firstSeenAt": "2026-11-10T19:28:28.969Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
    "id": "job123:ND4ZKyQyrv",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-hse-ND4ZKyQyrv",
@@ -1940,6 +1906,40 @@
    "firstSeenAt": "2026-10-28T12:43:56.648Z",
    "fetchedAt": "2026-11-15T18:39:44.460Z",
    "verifiedAt": "2026-11-15T18:39:44.460Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:ArX8AjGNrV",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-hse-ArX8AjGNrV",
+   "title": "NHÂN VIÊN HSE",
+   "company": "Công Ty CP Nguyên Liệu Thực Phẩm Á Châu Sài Gòn",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/16/2023_02_16______39941ae8b8d802aa941e89f306f66dbe.png",
+   "locations": [
+    "Long An"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "FULL_TIME",
+   "industry": "An toàn lao động",
+   "datePosted": "2026-11-10",
+   "validThrough": "2026-12-12T23:59:59+07:00",
+   "description": "Huấn luyện & Đào tạo: Tổ chức các lớp đào tạo về an toàn lao động, hướng dẫn sử dụng thiết bị bảo hộ cá nhân (PPE) cho nhân viên mới và định kỳ cho nhân viên cũ.\nPhòng cháy chữa cháy (PCCC) & Ứng phó sự cố: Quản lý, bảo dưỡng hệ thống PCCC, thiết bị cứu hộ và xây dựng kế hoạch ứng phó khẩn cấp (diễn tập PCCC, tràn đổ hóa chất).\nĐiều tra và Báo cáo: Điều tra các vụ tai nạn lao động, sự cố môi trường, tìm nguyên nhân gốc rễ và lập báo cáo gửi cấp trên cũng như cơ quan chức năng.\nXây dựng và Kiểm soát Quy trình An toàn: Xây dựng, cập nhật các chính sách, quy trình, quy định về An toàn- Sức khỏe- Môi trường (HSE) phù hợp với quy định pháp luật và tiêu chuẩn nhà máy.\nGiám sát thực tế (Site Safety): Kiểm tra hàng ngày/định kỳ tại xưởng sản xuất để phát hiện các mối nguy (máy móc, cháy nổ, điện, hóa chất) và yêu cầu khắc phục ngay lập tức.\nQuản lý Sức khỏe nghề nghiệp: Theo dõi, kiểm tra môi trường làm việc (đo đạc tiếng ồn, ánh sáng, bụi, nồng độ hóa chất) và tổ chức khám sức khỏe định kỳ cho người lao động.\nQuản lý môi trường: Giám sát quy trình thu gom, phân loại, lưu giữ và xử lý chất thải nguy hại, chất thải công nghiệp theo quy định.\nCác nhiệm vụ khác theo phân công.",
+   "requirements": {
+    "degree": [],
+    "certs": [
+     "Huấn luyện & Đào tạo: Tổ chức các lớp đào tạo về an toàn lao động, hướng dẫn sử dụng thiết bị bảo hộ cá nhân (PPE) cho nhân viên mới và định kỳ cho nhân viên cũ."
+    ]
+   },
+   "tags": [
+    "HSE/EHS",
+    "An toàn lao động"
+   ],
+   "relevance": 100,
+   "firstSeenAt": "2026-11-10T19:28:28.969Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -5365,8 +5365,8 @@
    ],
    "relevance": 94,
    "firstSeenAt": "2026-10-28T12:43:56.648Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -6672,7 +6672,7 @@
    "expMonths": null,
    "employmentType": "FULL_TIME",
    "industry": "An toàn lao động",
-   "datePosted": "2026-11-13",
+   "datePosted": "2026-11-15",
    "validThrough": "2026-11-27T23:59:59+07:00",
    "description": "* Công tác PCCC- Xây dựng, hoàn thiện quy định, quy trình PCCC nội bộ.\n- Quản lý, kiểm tra thiết bị, tài sản PCCC và hồ sơ báo cáo cho cơ quan nhà nước.\n- Giám sát vận hành, kiểm tra định kỳ hệ thống và thiết bị PCCC.\n- Phụ trách tập huấn, phối hợp diễn tập PCCC.* Công tác An toàn lao động (ATLĐ – VSLĐ)- Xây dựng kế hoạch, quy trình, quy định ATLĐ hằng năm.\n- Thực hiện báo cáo, đánh giá rủi ro, huấn luyện ATLĐ.\n- Giám sát ATLĐ – VSLĐ, triển khai 5S, điều tra tai nạn lao động.\n- Quản lý thiết bị, công cụ cần kiểm định/đăng kiểm.* Công tác Môi trường- Thực hiện quan trắc, báo cáo môi trường, chất thải, phí môi trường theo quy định.\n- Xây dựng quy định, quy trình kiểm soát môi trường nội bộ.\n- Quản lý hóa chất nguy hiểm, chất thải rắn/nguy hại.\n- Báo cáo định kỳ cho Trưởng phòng và Ban TGĐ.",
    "requirements": {
@@ -6687,8 +6687,8 @@
    ],
    "relevance": 86,
    "firstSeenAt": "2026-11-10T19:28:28.969Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -6706,7 +6706,7 @@
    "expMonths": null,
    "employmentType": "PART_TIME",
    "industry": "An toàn lao động",
-   "datePosted": "2026-11-12",
+   "datePosted": "2026-11-15",
    "validThrough": "2026-12-06T23:59:59+07:00",
    "description": "- Đánh giá và đề xuất biện pháp đảm bảo an toàn lao động, môi trường- Xây dựng tiêu chuẩn chính sách về an toàn lao động và bảo vệ sức khỏe- Giám sát nhắc nhở CNV tuân thủ quy định về an toàn, sức khỏe và môi trường lao động trong doanh nghiệp.\n- Tuân thủ tất cả các quy định và quy chuẩn về an toàn lao động và bảo vệ môi trường- Nhận diện, phân tích và đánh giá những rủi ro tiềm ẩn trong môi trường làm việc và đưa ra giải pháp.\n- Thực hiện các biện pháp kiểm soát rủi ro để giảm thiểu nguy cơ xảy ra tai nạn lao động- Báo cáo kịp thời về các sự cố an toàn lao động và bảo vệ môi trường cho cấp quản lý, đề xuất phương án xử lý.\n- Thực hiện các công việc khác khi được phân công.",
    "requirements": {
@@ -6719,8 +6719,8 @@
    ],
    "relevance": 86,
    "firstSeenAt": "2026-10-10T15:44:18.162Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -6770,7 +6770,7 @@
    "expMonths": null,
    "employmentType": "FULL_TIME",
    "industry": "An toàn lao động",
-   "datePosted": "2026-11-12",
+   "datePosted": "2026-11-15",
    "validThrough": "2026-12-06T23:59:59+07:00",
    "description": "- Đánh giá và đề xuất biện pháp đảm bảo an toàn lao động, môi trường- Xây dựng tiêu chuẩn chính sách về an toàn lao động và bảo vệ sức khỏe- Giám sát nhắc nhở CNV tuân thủ quy định về an toàn, sức khỏe và môi trường lao động trong doanh nghiệp.\n- Tuân thủ tất cả các quy định và quy chuẩn về an toàn lao động và bảo vệ môi trường- Nhận diện, phân tích và đánh giá những rủi ro tiềm ẩn trong môi trường làm việc và đưa ra giải pháp.\n- Thực hiện các biện pháp kiểm soát rủi ro để giảm thiểu nguy cơ xảy ra tai nạn lao động- Báo cáo kịp thời về các sự cố an toàn lao động và bảo vệ môi trường cho cấp quản lý, đề xuất phương án xử lý.\n- Thực hiện các công việc khác khi được phân công.",
    "requirements": {
@@ -6783,8 +6783,8 @@
    ],
    "relevance": 86,
    "firstSeenAt": "2026-10-10T15:44:18.162Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -6918,8 +6918,8 @@
    ],
    "relevance": 86,
    "firstSeenAt": "2026-11-10T19:28:28.969Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -6950,8 +6950,8 @@
    ],
    "relevance": 86,
    "firstSeenAt": "2026-10-28T12:43:56.648Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -7048,8 +7048,8 @@
    ],
    "relevance": 86,
    "firstSeenAt": "2026-10-28T12:43:56.648Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -7067,7 +7067,7 @@
    "expMonths": null,
    "employmentType": "FULL_TIME",
    "industry": "An toàn lao động",
-   "datePosted": "2026-11-11",
+   "datePosted": "2026-11-15",
    "validThrough": "2026-11-20T23:59:59+07:00",
    "description": "- Làm việc tại phòng EHS (An toàn, sức khỏe, môi trường, PCCC)- Chuẩn bị và quản lý tài liệu có liên quan- Phối hợp các phòng ban đối ứng các cuộc đánh giá nội bộ, khách hàng, hoặc bên thứ ba.\n- Thực hiện các báo cáo và công việc theo phân công của cấp trên",
    "requirements": {
@@ -7080,8 +7080,8 @@
    ],
    "relevance": 86,
    "firstSeenAt": "2026-10-11T00:27:13.506Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -8013,8 +8013,8 @@
    ],
    "relevance": 84,
    "firstSeenAt": "2026-11-10T19:28:28.969Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -8049,8 +8049,8 @@
    ],
    "relevance": 84,
    "firstSeenAt": "2026-11-10T19:28:28.969Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -8083,8 +8083,8 @@
    ],
    "relevance": 84,
    "firstSeenAt": "2026-10-28T12:43:56.648Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -8119,8 +8119,8 @@
    ],
    "relevance": 84,
    "firstSeenAt": "2026-11-10T19:28:28.969Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -8702,8 +8702,8 @@
    ],
    "relevance": 78,
    "firstSeenAt": "2026-11-10T19:28:28.969Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -8734,8 +8734,8 @@
    ],
    "relevance": 78,
    "firstSeenAt": "2026-10-28T12:43:56.648Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -8767,8 +8767,8 @@
    ],
    "relevance": 78,
    "firstSeenAt": "2026-10-10T15:14:50.541Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -8799,8 +8799,8 @@
    ],
    "relevance": 78,
    "firstSeenAt": "2026-10-28T12:43:56.648Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -8833,8 +8833,8 @@
    ],
    "relevance": 78,
    "firstSeenAt": "2026-10-28T12:43:56.648Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -8897,8 +8897,8 @@
    ],
    "relevance": 78,
    "firstSeenAt": "2026-10-13T00:25:02.711Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -8919,37 +8919,6 @@
    "datePosted": "2026-11-15",
    "validThrough": "2026-12-25T23:59:59+07:00",
    "description": "Vận hành, bảo trì hệ thống xử lý nước thải, khí thải",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "Môi trường"
-   ],
-   "relevance": 78,
-   "firstSeenAt": "2026-10-18T12:29:15.804Z",
-   "fetchedAt": "2026-11-16T05:19:14.428Z",
-   "verifiedAt": "2026-11-16T05:19:14.428Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:LDlW1PA3q6",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-van-hanh-moi-truong-LDlW1PA3q6",
-   "title": "NHÂN VIÊN VẬN HÀNH MÔI TRƯỜNG",
-   "company": "BAF Viet Nam",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2025/06/19/2025_06_19______d28b2476f537ae3f50a1fbbc0916614c.png",
-   "locations": [
-    "Bình Phước"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Môi trường",
-   "datePosted": "2026-11-15",
-   "validThrough": "2026-12-11T23:59:59+07:00",
-   "description": "- Kiểm tra, giám sát việc tuân thủ quy trình kỹ thuật trong vận hành hệ thống nước thải, nước cấp, khí thải...\n- Đề xuất bảo trì, sửa chữa hoặc thay thế thiết bị, vật tư, hóa chất phục vụ công tác vận hành.\n- Phối hợp với các bộ phận liên quan để xử lý sự cố kỹ thuật và đảm bảo hoạt động hệ thống môi trường ổn định.",
    "requirements": {
     "degree": [],
     "certs": []
@@ -8992,6 +8961,37 @@
    "firstSeenAt": "2026-10-19T00:28:43.769Z",
    "fetchedAt": "2026-11-14T17:47:11.329Z",
    "verifiedAt": "2026-11-14T17:47:11.329Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:LDlW1PA3q6",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-van-hanh-moi-truong-LDlW1PA3q6",
+   "title": "NHÂN VIÊN VẬN HÀNH MÔI TRƯỜNG",
+   "company": "BAF Viet Nam",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2025/06/19/2025_06_19______d28b2476f537ae3f50a1fbbc0916614c.png",
+   "locations": [
+    "Bình Phước"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "FULL_TIME",
+   "industry": "Môi trường",
+   "datePosted": "2026-11-15",
+   "validThrough": "2026-12-11T23:59:59+07:00",
+   "description": "- Kiểm tra, giám sát việc tuân thủ quy trình kỹ thuật trong vận hành hệ thống nước thải, nước cấp, khí thải...\n- Đề xuất bảo trì, sửa chữa hoặc thay thế thiết bị, vật tư, hóa chất phục vụ công tác vận hành.\n- Phối hợp với các bộ phận liên quan để xử lý sự cố kỹ thuật và đảm bảo hoạt động hệ thống môi trường ổn định.",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "Môi trường"
+   ],
+   "relevance": 78,
+   "firstSeenAt": "2026-10-18T12:29:15.804Z",
+   "fetchedAt": "2026-11-16T05:19:14.428Z",
+   "verifiedAt": "2026-11-16T05:19:14.428Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -9962,8 +9962,8 @@
    ],
    "relevance": 76,
    "firstSeenAt": "2026-11-10T19:28:28.969Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -10026,8 +10026,8 @@
    ],
    "relevance": 76,
    "firstSeenAt": "2026-11-10T19:28:28.969Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -10059,39 +10059,6 @@
    "firstSeenAt": "2026-10-18T00:31:22.681Z",
    "fetchedAt": "2026-11-16T21:46:48.841Z",
    "verifiedAt": "2026-11-16T21:46:48.841Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:y9BwbQeyrA",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/giam-sat-an-toan-lao-dong-y9BwbQeyrA",
-   "title": "Giám Sát An Toàn Lao Động",
-   "company": "Công ty TNHH Văn Lang",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2024/08/02/2024_08_02______663e561eb91380e9aac4e174f7de00ab.png",
-   "locations": [
-    "Long An"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Ngành nghề khác",
-   "datePosted": "2026-11-11",
-   "validThrough": "2026-11-16T23:59:59+07:00",
-   "description": "- Theo dõi, giám sát an toàn lao động hàng ngày tại công trường- Hướng dẫn và kiểm soát việc tuân thủ các tiêu chuẩn HSE- Tổ chức các buổi huấn luyện ATLĐ định kỳ.\n- Thông tin chi tiết khi phỏng vấn",
-   "requirements": {
-    "degree": [],
-    "certs": [
-     "Theo dõi, giám sát an toàn lao động hàng ngày tại công trường- Hướng dẫn và kiểm soát việc tuân thủ các tiêu chuẩn HSE- Tổ chức các buổi huấn luyện ATLĐ định kỳ."
-    ]
-   },
-   "tags": [
-    "An toàn lao động"
-   ],
-   "relevance": 76,
-   "firstSeenAt": "2026-10-22T12:36:33.870Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -10185,8 +10152,8 @@
    ],
    "relevance": 76,
    "firstSeenAt": "2026-10-24T12:27:23.590Z",
-   "fetchedAt": "2026-11-13T19:22:28.288Z",
-   "verifiedAt": "2026-11-13T19:22:28.288Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -10204,7 +10171,7 @@
    "expMonths": null,
    "employmentType": "FULL_TIME",
    "industry": "Ngành nghề khác",
-   "datePosted": "2026-11-12",
+   "datePosted": "2026-11-15",
    "validThrough": "2026-12-06T23:59:59+07:00",
    "description": "- Đánh giá và đề xuất biện pháp đảm bảo an toàn lao động, môi trường- Xây dựng tiêu chuẩn chính sách về an toàn lao động và bảo vệ sức khỏe- Giám sát nhắc nhở CNV tuân thủ quy định về an toàn, sức khỏe và môi trường lao động trong doanh nghiệp.\n- Tuân thủ tất cả các quy định và quy chuẩn về an toàn lao động và bảo vệ môi trường- Nhận diện, phân tích và đánh giá những rủi ro tiềm ẩn trong môi trường làm việc và đưa ra giải pháp.\n- Thực hiện các biện pháp kiểm soát rủi ro để giảm thiểu nguy cơ xảy ra tai nạn lao động- Báo cáo kịp thời về các sự cố an toàn lao động và bảo vệ môi trường cho cấp quản lý, đề xuất phương án xử lý.\n- Thực hiện các công việc khác khi được phân công.",
    "requirements": {
@@ -10216,8 +10183,8 @@
    ],
    "relevance": 76,
    "firstSeenAt": "2026-10-18T00:31:22.681Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -10508,6 +10475,39 @@
    "firstSeenAt": "2026-10-19T12:39:45.957Z",
    "fetchedAt": "2026-10-22T12:36:33.870Z",
    "verifiedAt": "2026-10-22T12:36:33.870Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
+   "id": "job123:y9BwbQeyrA",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/giam-sat-an-toan-lao-dong-y9BwbQeyrA",
+   "title": "Giám Sát An Toàn Lao Động",
+   "company": "Công ty TNHH Văn Lang",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2024/08/02/2024_08_02______663e561eb91380e9aac4e174f7de00ab.png",
+   "locations": [
+    "Long An"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "FULL_TIME",
+   "industry": "Ngành nghề khác",
+   "datePosted": "2026-11-11",
+   "validThrough": "2026-11-16T23:59:59+07:00",
+   "description": "- Theo dõi, giám sát an toàn lao động hàng ngày tại công trường- Hướng dẫn và kiểm soát việc tuân thủ các tiêu chuẩn HSE- Tổ chức các buổi huấn luyện ATLĐ định kỳ.\n- Thông tin chi tiết khi phỏng vấn",
+   "requirements": {
+    "degree": [],
+    "certs": [
+     "Theo dõi, giám sát an toàn lao động hàng ngày tại công trường- Hướng dẫn và kiểm soát việc tuân thủ các tiêu chuẩn HSE- Tổ chức các buổi huấn luyện ATLĐ định kỳ."
+    ]
+   },
+   "tags": [
+    "An toàn lao động"
+   ],
+   "relevance": 76,
+   "firstSeenAt": "2026-10-22T12:36:33.870Z",
+   "fetchedAt": "2026-11-14T05:25:49.161Z",
+   "verifiedAt": "2026-11-14T05:25:49.161Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -11844,37 +11844,6 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
-   "id": "job123:39JmneA7Dm",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-39JmneA7Dm",
-   "title": "Nhân Viên An Toàn Lao Động",
-   "company": "Công ty TNHH Sản xuất Toàn Cầu LIXIL Việt Nam",
-   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/07/2023_02_07______9f86225b6ac18a8bab1efd5b76231747.png",
-   "locations": [
-    "Đồng Nai"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "FULL_TIME",
-   "industry": "Ngành nghề khác",
-   "datePosted": "2026-11-05",
-   "validThrough": "2026-11-07T23:59:59+07:00",
-   "description": "- Lập kế hoạch, quản lý phương châm an toàn nhà máy theo định kỳ hàng năm.\n- Hướng dẫn đào tạo nhân viên mới- Xây dựng thiết lập các quy định an toàn vệ sinh lao động của nhà máy- Tuần tra việc tuân thủ quy định của các bộ phận- Các công việc liên quan khác theo sự chỉ đạo của cấp trên.",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "An toàn lao động"
-   ],
-   "relevance": 68,
-   "firstSeenAt": "2026-10-10T16:14:18.629Z",
-   "fetchedAt": "2026-11-05T12:58:24.378Z",
-   "verifiedAt": "2026-11-05T12:58:24.378Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
    "id": "job123:A9V8Qmpbqn",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/chuyen-vien-an-toan-lao-dong-A9V8Qmpbqn",
@@ -11945,6 +11914,37 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
+   "id": "job123:3qZazbYQr4",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/can-bo-an-toan-lao-dong-3qZazbYQr4",
+   "title": "Cán Bộ An Toàn Lao Động",
+   "company": "Công ty Cổ phần Kỹ thuật Meico",
+   "companyLogo": null,
+   "locations": [
+    "Hà Nội"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "OTHER",
+   "industry": "Ngành nghề khác",
+   "datePosted": "2026-11-02",
+   "validThrough": "2026-11-24T23:59:59+07:00",
+   "description": "Mô tả công việc\n- Lập báo cáo và báo cáo với các bên liên quan\n- Tiến hành kiểm tra an toàn và theo dõi các hoạt động để đảm bảo tuân thủ an toàn, đảm bảo tất cả các bên tuân thủ các biện pháp làm việc an toàn trong các hoạt động hàng ngày tại công trường\n- Giám sát ATLĐ của công nhân trên công trường đảm bảo ATLĐ, lập biên bản hiện trường đối với những vi phạm về ATLĐ của công nhân cũng như của CBKT khác\n- Tham gia các công tác kiểm tra, giám sát với chủ đầu tư, chính quyền địa phương\n- Thực hiện một số công việc khác theo yêu cầu của chỉ huy trưởng và BLĐ (Công việc cụ thể sẽ được trao đổi trong quá trình phỏng vấn)\nQuyền lợi được hưởng\n- Có thể đi công tác tỉnh (Khu vực miền Bắc, miền Trung)\n- Kinh nghiệm: Ưu tiên có kinh nghiệm trong lĩnh vực xây lắp\n- Có khả năng giao tiếp và xử lý công việc\n- Hiểu về An ninh, An toàn lao động, các thủ tục hồ sơ pháp lý tại các dự án.\n- Chấp nhận sinh viên mới ra trường, chưa có kinh nghiệm\n- Sử dụng máy tính cơ bản\n- Giới tính: Nam\nKiên trì, chịu khó, cẩn thận, chính xác và có tinh thần ham học hỏi\nYêu cầu ứng viên\n- Xét tăng lương hàng năm theo đánh giá của cấp trên\n- Hỗ trợ thiết bị làm việc (Máy tính, Bảo hộ lao động,...)\n- Hỗ trợ nhà ở và chi phí đi lại khi đi dự án\n- Hưởng tất cả các chế độ theo Luật Lao động Việt Nam, chế độ phép năm;…\n- Mức lương: 13tr- 15tr\n- Tham gia BHXH đầy đủ",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "An toàn lao động"
+   ],
+   "relevance": 68,
+   "firstSeenAt": "2026-10-25T00:30:48.995Z",
+   "fetchedAt": "2026-11-15T18:39:44.460Z",
+   "verifiedAt": "2026-11-15T18:39:44.460Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
    "id": "job123:G9xYZmgdrN",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-bao-tri-co-dien-tu-an-toan-lao-dong-G9xYZmgdrN",
@@ -11975,37 +11975,6 @@
    "firstSeenAt": "2026-11-09T13:00:31.518Z",
    "fetchedAt": "2026-11-13T05:34:30.902Z",
    "verifiedAt": "2026-11-13T05:34:30.902Z",
-   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
-  },
-  {
-   "id": "job123:3qZazbYQr4",
-   "source": "123job.vn",
-   "sourceUrl": "https://123job.vn/viec-lam/can-bo-an-toan-lao-dong-3qZazbYQr4",
-   "title": "Cán Bộ An Toàn Lao Động",
-   "company": "Công ty Cổ phần Kỹ thuật Meico",
-   "companyLogo": null,
-   "locations": [
-    "Hà Nội"
-   ],
-   "salary": null,
-   "salaryText": null,
-   "expMonths": null,
-   "employmentType": "OTHER",
-   "industry": "Ngành nghề khác",
-   "datePosted": "2026-11-02",
-   "validThrough": "2026-11-24T23:59:59+07:00",
-   "description": "Mô tả công việc\n- Lập báo cáo và báo cáo với các bên liên quan\n- Tiến hành kiểm tra an toàn và theo dõi các hoạt động để đảm bảo tuân thủ an toàn, đảm bảo tất cả các bên tuân thủ các biện pháp làm việc an toàn trong các hoạt động hàng ngày tại công trường\n- Giám sát ATLĐ của công nhân trên công trường đảm bảo ATLĐ, lập biên bản hiện trường đối với những vi phạm về ATLĐ của công nhân cũng như của CBKT khác\n- Tham gia các công tác kiểm tra, giám sát với chủ đầu tư, chính quyền địa phương\n- Thực hiện một số công việc khác theo yêu cầu của chỉ huy trưởng và BLĐ (Công việc cụ thể sẽ được trao đổi trong quá trình phỏng vấn)\nQuyền lợi được hưởng\n- Có thể đi công tác tỉnh (Khu vực miền Bắc, miền Trung)\n- Kinh nghiệm: Ưu tiên có kinh nghiệm trong lĩnh vực xây lắp\n- Có khả năng giao tiếp và xử lý công việc\n- Hiểu về An ninh, An toàn lao động, các thủ tục hồ sơ pháp lý tại các dự án.\n- Chấp nhận sinh viên mới ra trường, chưa có kinh nghiệm\n- Sử dụng máy tính cơ bản\n- Giới tính: Nam\nKiên trì, chịu khó, cẩn thận, chính xác và có tinh thần ham học hỏi\nYêu cầu ứng viên\n- Xét tăng lương hàng năm theo đánh giá của cấp trên\n- Hỗ trợ thiết bị làm việc (Máy tính, Bảo hộ lao động,...)\n- Hỗ trợ nhà ở và chi phí đi lại khi đi dự án\n- Hưởng tất cả các chế độ theo Luật Lao động Việt Nam, chế độ phép năm;…\n- Mức lương: 13tr- 15tr\n- Tham gia BHXH đầy đủ",
-   "requirements": {
-    "degree": [],
-    "certs": []
-   },
-   "tags": [
-    "An toàn lao động"
-   ],
-   "relevance": 68,
-   "firstSeenAt": "2026-10-25T00:30:48.995Z",
-   "fetchedAt": "2026-11-15T18:39:44.460Z",
-   "verifiedAt": "2026-11-15T18:39:44.460Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -12709,6 +12678,37 @@
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
+   "id": "job123:39JmneA7Dm",
+   "source": "123job.vn",
+   "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-39JmneA7Dm",
+   "title": "Nhân Viên An Toàn Lao Động",
+   "company": "Công ty TNHH Sản xuất Toàn Cầu LIXIL Việt Nam",
+   "companyLogo": "https://cdn.123job.vn/123job/uploads/2023/02/07/2023_02_07______9f86225b6ac18a8bab1efd5b76231747.png",
+   "locations": [
+    "Đồng Nai"
+   ],
+   "salary": null,
+   "salaryText": null,
+   "expMonths": null,
+   "employmentType": "FULL_TIME",
+   "industry": "Ngành nghề khác",
+   "datePosted": "2026-11-05",
+   "validThrough": "2026-11-07T23:59:59+07:00",
+   "description": "- Lập kế hoạch, quản lý phương châm an toàn nhà máy theo định kỳ hàng năm.\n- Hướng dẫn đào tạo nhân viên mới- Xây dựng thiết lập các quy định an toàn vệ sinh lao động của nhà máy- Tuần tra việc tuân thủ quy định của các bộ phận- Các công việc liên quan khác theo sự chỉ đạo của cấp trên.",
+   "requirements": {
+    "degree": [],
+    "certs": []
+   },
+   "tags": [
+    "An toàn lao động"
+   ],
+   "relevance": 68,
+   "firstSeenAt": "2026-10-10T16:14:18.629Z",
+   "fetchedAt": "2026-11-05T12:58:24.378Z",
+   "verifiedAt": "2026-11-05T12:58:24.378Z",
+   "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
+  },
+  {
    "id": "job123:v91B5zaLrW",
    "source": "123job.vn",
    "sourceUrl": "https://123job.vn/viec-lam/nhan-vien-giam-sat-an-toan-lao-dong-v91B5zaLrW",
@@ -13406,8 +13406,8 @@
    ],
    "relevance": 60,
    "firstSeenAt": "2026-11-10T19:28:28.969Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
@@ -13425,7 +13425,7 @@
    "expMonths": null,
    "employmentType": "FULL_TIME",
    "industry": "Ngành nghề khác",
-   "datePosted": "2026-11-12",
+   "datePosted": "2026-11-15",
    "validThrough": "2026-12-09T23:59:59+07:00",
    "description": "- Xây dựng kế hoạch ATLĐ, VSMT cho các công trình.\n- Kiểm tra, giám sát, nhắc nhở, chế tài công tác ATLĐ, VSMT các công trình- Làm việc với các cơ quan chức năng về việc kiểm tra ATLĐ tại các công trình.\n- Tổ chức huấn luyện ATLĐ cho công nhân tại công trình theo kế hoạch của Phòng.\n- Thiết lập các trang thiết bị, dụng cụ, nhân sự thực hiện công tác ATLĐ, VSMT tại công trình.",
    "requirements": {
@@ -13439,8 +13439,8 @@
    ],
    "relevance": 60,
    "firstSeenAt": "2026-11-10T19:28:28.969Z",
-   "fetchedAt": "2026-11-14T05:25:49.161Z",
-   "verifiedAt": "2026-11-14T05:25:49.161Z",
+   "fetchedAt": "2026-11-17T07:00:42.627Z",
+   "verifiedAt": "2026-11-17T07:00:42.627Z",
    "verification": "Dữ liệu đọc trực tiếp từ trang tuyển dụng gốc (JSON-LD JobPosting)"
   },
   {
