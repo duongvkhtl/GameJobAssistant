@@ -3,41 +3,41 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 136,
-   "at": "2026-11-20T06:07:38.316Z",
+   "count": 141,
+   "at": "2026-11-20T19:41:54.007Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
   "news": {
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
-   "count": 32,
-   "at": "2026-11-20T06:07:38.316Z",
+   "count": 29,
+   "at": "2026-11-20T19:41:54.007Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
   "careerlink": {
    "name": "CareerLink.vn",
    "ok": false,
-   "count": 69,
-   "at": "2026-11-20T06:07:38.316Z",
+   "count": 68,
+   "at": "2026-11-20T19:41:54.007Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
    "ok": true,
-   "count": 424,
-   "at": "2026-11-20T06:07:38.316Z",
+   "count": 451,
+   "at": "2026-11-20T19:41:54.007Z",
    "errors": [
+    "không có JobPosting: https://123job.vn/viec-lam/seojin-xuong-3-nhan-vien-doi-ung-audit-ehs-3qZaKWAxr4",
     "không có JobPosting: https://123job.vn/viec-lam/ky-su-ehs-P9YVMenjra",
     "không có JobPosting: https://123job.vn/viec-lam/chuyen-vien-an-toan-ehshse-tieng-trung-mrEQ0ma0ra",
     "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-ehs-xu-ly-nuoc-thai-n9RwobgRrb",
-    "không có JobPosting: https://123job.vn/viec-lam/ky-su-ehs-thanh-thao-tieng-trung-A9V8QNd7qn",
-    "không có JobPosting: https://123job.vn/viec-lam/ehs-engineer-dr8ZGjX4D4"
+    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-quan-ly-hien-truong-bp-ehs-yDNQaXZwqz"
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-11-20T06:07:38.316Z"
+ "generatedAt": "2026-11-20T19:41:54.007Z"
 }
