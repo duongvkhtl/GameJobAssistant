@@ -3,16 +3,16 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 138,
-   "at": "2026-11-22T19:09:44.078Z",
+   "count": 137,
+   "at": "2026-11-23T06:15:11.166Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
   "news": {
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
-   "count": 25,
-   "at": "2026-11-22T19:09:44.078Z",
+   "count": 26,
+   "at": "2026-11-23T06:15:11.166Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -20,24 +20,24 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 60,
-   "at": "2026-11-22T19:09:44.078Z",
+   "at": "2026-11-23T06:15:11.166Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
    "ok": true,
-   "count": 512,
-   "at": "2026-11-22T19:09:44.078Z",
+   "count": 514,
+   "at": "2026-11-23T06:15:11.166Z",
    "errors": [
-    "không có JobPosting: https://123job.vn/viec-lam/chuyen-vien-hse-an-toan-lao-dong-wDWZoEY0qe",
     "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-an-toan-ehs-j9KQoz71qA",
     "không có JobPosting: https://123job.vn/viec-lam/truong-phong-quan-ly-facility-ehs-it-utility-3q6s-quan-9-4q3Lp3N8D2",
     "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-ehs-JD60wkX5rn",
-    "không có JobPosting: https://123job.vn/viec-lam/seojin-xuong-3-nhan-vien-doi-ung-audit-ehs-3qZaKWAxr4"
+    "không có JobPosting: https://123job.vn/viec-lam/seojin-xuong-3-nhan-vien-doi-ung-audit-ehs-3qZaKWAxr4",
+    "không có JobPosting: https://123job.vn/viec-lam/seojin-xuong-3-02-nhan-vien-an-toan-lao-dong-ehs-5qmERk6bq8"
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-11-22T19:09:44.078Z"
+ "generatedAt": "2026-11-23T06:15:11.166Z"
 }
