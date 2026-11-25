@@ -4,15 +4,15 @@
    "name": "Apple iTunes API",
    "ok": true,
    "count": 143,
-   "at": "2026-11-24T22:00:15.454Z",
+   "at": "2026-11-25T07:26:40.142Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
   "news": {
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
-   "count": 29,
-   "at": "2026-11-24T22:00:15.454Z",
+   "count": 30,
+   "at": "2026-11-25T07:26:40.142Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -20,24 +20,23 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 53,
-   "at": "2026-11-24T22:00:15.454Z",
+   "at": "2026-11-25T07:26:40.142Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
-   "ok": true,
-   "count": 599,
-   "at": "2026-11-24T22:00:15.454Z",
+   "ok": false,
+   "count": 583,
+   "at": "2026-11-25T07:26:40.142Z",
    "errors": [
-    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-hse-v90oABzbDk",
-    "không có JobPosting: https://123job.vn/viec-lam/chuyen-vien-hse-an-toan-lao-dong-wDWZoEY0qe",
-    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-an-toan-ehs-j9KQoz71qA",
-    "không có JobPosting: https://123job.vn/viec-lam/truong-phong-quan-ly-facility-ehs-it-utility-3q6s-quan-9-4q3Lp3N8D2",
-    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-ehs-JD60wkX5rn"
+    "search \"hse\" p1: https://123job.vn/tuyen-dung?q=hse&page=1: HTTP 403",
+    "search \"ehs\" p1: https://123job.vn/tuyen-dung?q=ehs&page=1: HTTP 403",
+    "search \"an toàn lao động\" p1: https://123job.vn/tuyen-dung?q=an%20to%C3%A0n%20lao%20%C4%91%E1%BB%99ng&page=1: HTTP 403",
+    "Nguồn không phản hồi liên tiếp – dừng để không gây tải."
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-11-24T22:00:15.454Z"
+ "generatedAt": "2026-11-25T07:26:40.142Z"
 }
