@@ -4,17 +4,17 @@
    "name": "Apple iTunes API",
    "ok": true,
    "count": 142,
-   "at": "2026-11-25T21:13:09.195Z",
+   "at": "2026-11-26T07:15:45.842Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
   "news": {
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
-   "count": 8,
-   "at": "2026-11-25T21:13:09.195Z",
+   "count": 7,
+   "at": "2026-11-26T07:15:45.842Z",
    "errors": [
-    "toucharcade: https://toucharcade.com/feed/: HTTP 500"
+    "toucharcade: https://toucharcade.com/feed/: HTTP 503"
    ],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -22,24 +22,23 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 53,
-   "at": "2026-11-25T21:13:09.195Z",
+   "at": "2026-11-26T07:15:45.842Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
-   "ok": true,
-   "count": 631,
-   "at": "2026-11-25T21:13:09.195Z",
+   "ok": false,
+   "count": 611,
+   "at": "2026-11-26T07:15:45.842Z",
    "errors": [
-    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-an-toan-ehs-j9KQoz71qA",
-    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-ehs-JD60wkX5rn",
-    "không có JobPosting: https://123job.vn/viec-lam/truong-phong-quan-ly-facility-ehs-it-utility-3q6s-quan-9-4q3Lp3N8D2",
-    "không có JobPosting: https://123job.vn/viec-lam/seojin-xuong-3-nhan-vien-doi-ung-audit-ehs-3qZaKWAxr4",
-    "không có JobPosting: https://123job.vn/viec-lam/seojin-xuong-3-02-nhan-vien-an-toan-lao-dong-ehs-5qmERk6bq8"
+    "search \"hse\" p1: https://123job.vn/tuyen-dung?q=hse&page=1: HTTP 403",
+    "search \"ehs\" p1: https://123job.vn/tuyen-dung?q=ehs&page=1: HTTP 403",
+    "search \"an toàn lao động\" p1: https://123job.vn/tuyen-dung?q=an%20to%C3%A0n%20lao%20%C4%91%E1%BB%99ng&page=1: HTTP 403",
+    "Nguồn không phản hồi liên tiếp – dừng để không gây tải."
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-11-25T21:13:09.195Z"
+ "generatedAt": "2026-11-26T07:15:45.842Z"
 }
