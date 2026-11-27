@@ -3,8 +3,8 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 138,
-   "at": "2026-11-27T07:11:58.125Z",
+   "count": 139,
+   "at": "2026-11-27T20:47:07.853Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
@@ -12,28 +12,32 @@
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
    "count": 33,
-   "at": "2026-11-27T07:11:58.125Z",
+   "at": "2026-11-27T20:47:07.853Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
   "careerlink": {
    "name": "CareerLink.vn",
    "ok": false,
-   "count": 50,
-   "at": "2026-11-27T07:11:58.125Z",
+   "count": 48,
+   "at": "2026-11-27T20:47:07.853Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
    "ok": true,
-   "count": 667,
-   "at": "2026-11-27T07:11:58.125Z",
+   "count": 656,
+   "at": "2026-11-27T20:47:07.853Z",
    "errors": [
-    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-an-toan-ehs-j9KQoz71qA"
+    "detail https://123job.vn/viec-lam/nhan-vien-hse-yreJ5GxGqz: https://123job.vn/viec-lam/nhan-vien-hse-yreJ5GxGqz: HTTP 500",
+    "detail https://123job.vn/viec-lam/tuyen-hse-nhan-vien-moi-truong-yDNQNPbVqz: https://123job.vn/viec-lam/tuyen-hse-nhan-vien-moi-truong-yDNQNPbVqz: HTTP 500",
+    "detail https://123job.vn/viec-lam/nhan-vien-hse-thu-nhap-12-15-trieu-thang-LDlWLAvBq6: https://123job.vn/viec-lam/nhan-vien-hse-thu-nhap-12-15-trieu-thang-LDlWLAvBq6: HTTP 500",
+    "detail https://123job.vn/viec-lam/nhan-vien-hse-an-toan-lao-dong-JD60AnvRrn: https://123job.vn/viec-lam/nhan-vien-hse-an-toan-lao-dong-JD60AnvRrn: HTTP 500",
+    "detail https://123job.vn/viec-lam/ky-su-giam-sat-an-toan-hse-LDlWL24bq6: https://123job.vn/viec-lam/ky-su-giam-sat-an-toan-hse-LDlWL24bq6: HTTP 500"
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-11-27T07:11:58.125Z"
+ "generatedAt": "2026-11-27T20:47:07.853Z"
 }
