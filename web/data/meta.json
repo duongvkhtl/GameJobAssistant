@@ -3,8 +3,8 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 135,
-   "at": "2026-11-26T21:02:34.225Z",
+   "count": 138,
+   "at": "2026-11-27T07:11:58.125Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
@@ -12,7 +12,7 @@
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
    "count": 33,
-   "at": "2026-11-26T21:02:34.225Z",
+   "at": "2026-11-27T07:11:58.125Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -20,23 +20,20 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 50,
-   "at": "2026-11-26T21:02:34.225Z",
+   "at": "2026-11-27T07:11:58.125Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
-   "ok": false,
-   "count": 611,
-   "at": "2026-11-26T21:02:34.225Z",
+   "ok": true,
+   "count": 667,
+   "at": "2026-11-27T07:11:58.125Z",
    "errors": [
-    "search \"hse\" p1: https://123job.vn/tuyen-dung?q=hse&page=1: HTTP 403",
-    "search \"ehs\" p1: https://123job.vn/tuyen-dung?q=ehs&page=1: HTTP 403",
-    "search \"an toàn lao động\" p1: https://123job.vn/tuyen-dung?q=an%20to%C3%A0n%20lao%20%C4%91%E1%BB%99ng&page=1: HTTP 403",
-    "Nguồn không phản hồi liên tiếp – dừng để không gây tải."
+    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-an-toan-ehs-j9KQoz71qA"
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-11-26T21:02:34.225Z"
+ "generatedAt": "2026-11-27T07:11:58.125Z"
 }
