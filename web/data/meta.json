@@ -3,16 +3,16 @@
   "apple": {
    "name": "Apple iTunes API",
    "ok": true,
-   "count": 139,
-   "at": "2026-11-27T20:47:07.853Z",
+   "count": 138,
+   "at": "2026-11-28T06:44:54.271Z",
    "errors": [],
    "note": "API công khai chính thức; chỉ iOS (App Store VN)."
   },
   "news": {
    "name": "Pocket Gamer + TouchArcade RSS",
    "ok": true,
-   "count": 33,
-   "at": "2026-11-27T20:47:07.853Z",
+   "count": 34,
+   "at": "2026-11-28T06:44:54.271Z",
    "errors": [],
    "note": "Tin báo chí; ngày là ngày đăng tin, không phải ngày phát hành."
   },
@@ -20,24 +20,24 @@
    "name": "CareerLink.vn",
    "ok": false,
    "count": 48,
-   "at": "2026-11-27T20:47:07.853Z",
+   "at": "2026-11-28T06:44:54.271Z",
    "errors": [],
    "note": "JSON-LD JobPosting trên trang công khai, robots.txt cho phép, tốc độ thấp."
   },
   "job123": {
    "name": "123job.vn",
    "ok": true,
-   "count": 656,
-   "at": "2026-11-27T20:47:07.853Z",
+   "count": 693,
+   "at": "2026-11-28T06:44:54.271Z",
    "errors": [
-    "detail https://123job.vn/viec-lam/nhan-vien-hse-yreJ5GxGqz: https://123job.vn/viec-lam/nhan-vien-hse-yreJ5GxGqz: HTTP 500",
-    "detail https://123job.vn/viec-lam/tuyen-hse-nhan-vien-moi-truong-yDNQNPbVqz: https://123job.vn/viec-lam/tuyen-hse-nhan-vien-moi-truong-yDNQNPbVqz: HTTP 500",
-    "detail https://123job.vn/viec-lam/nhan-vien-hse-thu-nhap-12-15-trieu-thang-LDlWLAvBq6: https://123job.vn/viec-lam/nhan-vien-hse-thu-nhap-12-15-trieu-thang-LDlWLAvBq6: HTTP 500",
-    "detail https://123job.vn/viec-lam/nhan-vien-hse-an-toan-lao-dong-JD60AnvRrn: https://123job.vn/viec-lam/nhan-vien-hse-an-toan-lao-dong-JD60AnvRrn: HTTP 500",
-    "detail https://123job.vn/viec-lam/ky-su-giam-sat-an-toan-hse-LDlWL24bq6: https://123job.vn/viec-lam/ky-su-giam-sat-an-toan-hse-LDlWL24bq6: HTTP 500"
+    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-an-toan-ehs-j9KQoz71qA",
+    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-quan-he-lao-dong-ehs-4qQ4oj4orX",
+    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-ehs-0q770p2vq8",
+    "không có JobPosting: https://123job.vn/viec-lam/nhan-vien-an-toan-lao-dong-ehs-JD60wkX5rn",
+    "không có JobPosting: https://123job.vn/viec-lam/truong-phong-quan-ly-facility-ehs-it-utility-3q6s-quan-9-4q3Lp3N8D2"
    ],
    "note": "JSON-LD JobPosting + thông tin lương/kinh nghiệm trên trang công khai, robots.txt cho phép, tốc độ thấp."
   }
  },
- "generatedAt": "2026-11-27T20:47:07.853Z"
+ "generatedAt": "2026-11-28T06:44:54.271Z"
 }
